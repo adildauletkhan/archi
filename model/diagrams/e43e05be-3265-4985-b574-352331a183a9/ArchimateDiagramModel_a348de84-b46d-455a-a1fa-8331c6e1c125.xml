@@ -163,7 +163,7 @@
           height="126"/>
       <children
           xsi:type="archimate:DiagramModelReference"
-          id="5566e332-196c-43f3-8607-aabdf5f1ed7d"
+          id="69dfa91c-1995-4918-8e7a-90c3d646bc78"
           textAlignment="1"
           textPosition="1">
         <bounds
@@ -173,7 +173,7 @@
             height="55"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_c63a264e-b745-4dc7-af3c-b5515f76a02d.xml#c63a264e-b745-4dc7-af3c-b5515f76a02d"/>
+            href="ArchimateDiagramModel_4f397f0d-285c-4c19-a17f-031208c77257.xml#4f397f0d-285c-4c19-a17f-031208c77257"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessObject"
