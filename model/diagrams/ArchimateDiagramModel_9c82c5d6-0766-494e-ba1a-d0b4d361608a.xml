@@ -135,7 +135,7 @@
       <bounds
           x="70"
           y="35"
-          width="81"
+          width="86"
           height="41"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -183,7 +183,7 @@
       <bounds
           x="70"
           y="80"
-          width="81"
+          width="86"
           height="41"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -198,7 +198,7 @@
       <bounds
           x="70"
           y="125"
-          width="81"
+          width="86"
           height="41"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -212,7 +212,7 @@
         textPosition="1"
         type="1">
       <bounds
-          x="155"
+          x="160"
           y="125"
           width="76"
           height="41"/>
@@ -222,31 +222,15 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="ce241992-f433-4575-aa9d-f36ff9962e3a"
-        textAlignment="1"
-        fillColor="#ffff80"
-        textPosition="1"
-        type="1">
-      <bounds
-          x="155"
-          y="80"
-          width="76"
-          height="41"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_4ab6d93e-6261-4450-bec3-ea10e4fbba4e.xml#4ab6d93e-6261-4450-bec3-ea10e4fbba4e"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="2f33f5ee-1c2c-4b90-be80-8359045b4289"
         textAlignment="1"
         fillColor="#00dd6f"
         textPosition="1"
         type="1">
       <bounds
-          x="235"
+          x="240"
           y="80"
-          width="76"
+          width="71"
           height="41"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -260,29 +244,13 @@
         textPosition="1"
         type="1">
       <bounds
-          x="235"
+          x="240"
           y="125"
-          width="76"
+          width="71"
           height="41"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_cae6933e-1d12-4ea6-bcd4-42c8750ee4c6.xml#cae6933e-1d12-4ea6-bcd4-42c8750ee4c6"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="5fe70e92-ef79-439c-9f4d-f6bd03fb052c"
-        textAlignment="1"
-        fillColor="#7691a7"
-        textPosition="1"
-        type="1">
-      <bounds
-          x="155"
-          y="35"
-          width="76"
-          height="41"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_6fa062f1-20bf-47fe-b01a-16e1940a817f.xml#6fa062f1-20bf-47fe-b01a-16e1940a817f"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -426,6 +394,38 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_d9b81843-0e23-470e-936c-a1c4db359e30.xml#d9b81843-0e23-470e-936c-a1c4db359e30"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="ce241992-f433-4575-aa9d-f36ff9962e3a"
+        textAlignment="1"
+        fillColor="#ffff80"
+        textPosition="1"
+        type="1">
+      <bounds
+          x="160"
+          y="80"
+          width="76"
+          height="41"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_4ab6d93e-6261-4450-bec3-ea10e4fbba4e.xml#4ab6d93e-6261-4450-bec3-ea10e4fbba4e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="5fe70e92-ef79-439c-9f4d-f6bd03fb052c"
+        textAlignment="1"
+        fillColor="#7691a7"
+        textPosition="1"
+        type="1">
+      <bounds
+          x="160"
+          y="35"
+          width="76"
+          height="41"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_6fa062f1-20bf-47fe-b01a-16e1940a817f.xml#6fa062f1-20bf-47fe-b01a-16e1940a817f"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
