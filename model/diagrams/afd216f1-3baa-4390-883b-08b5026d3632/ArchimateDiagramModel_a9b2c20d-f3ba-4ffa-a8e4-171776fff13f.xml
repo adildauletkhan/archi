@@ -644,17 +644,5 @@
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_eb0b4cbc-4063-47b5-a782-335aac3feb8d.xml#eb0b4cbc-4063-47b5-a782-335aac3feb8d"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="0b05fb8c-282e-4eac-a944-79c96f7fe2de">
-      <bounds
-          x="1087"
-          y="648"
-          width="157"
-          height="85"/>
-      <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_848c1b61-f562-4c38-aadf-a7e6a437e0a2.xml#848c1b61-f562-4c38-aadf-a7e6a437e0a2"/>
-    </children>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -177,18 +177,6 @@
         y="540"
         width="236"
         height="97"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="5100474b-c497-4a74-9488-f63128d2192c">
-      <bounds
-          x="120"
-          y="96"
-          width="5"
-          height="37"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_54fadce5-0e26-4b87-996a-2a1a7bde6463.xml#54fadce5-0e26-4b87-996a-2a1a7bde6463"/>
-    </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_41288f9f-53f2-4ead-8d2d-62943b11b452.xml#41288f9f-53f2-4ead-8d2d-62943b11b452"/>
