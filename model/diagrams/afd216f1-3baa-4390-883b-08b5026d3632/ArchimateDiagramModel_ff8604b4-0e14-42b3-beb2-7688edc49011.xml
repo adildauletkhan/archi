@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OGP.7. Управление оптимизацией разработки месторождения"
+    name="OGP.7.Управление оптимизацией разработки месторождения"
     id="ff8604b4-0e14-42b3-beb2-7688edc49011">
   <children
       xsi:type="archimate:DiagramModelGroup"

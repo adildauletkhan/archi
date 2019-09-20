@@ -322,7 +322,7 @@
       id="09ed7759-31cb-4eea-a84c-2a13af2a5263"
       name="АО &quot;ЭМГ&quot;"
       font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-      fillColor="#009fec"
+      fillColor="#6ab5b5"
       borderType="1">
     <bounds
         x="75"
@@ -470,7 +470,7 @@
       id="d7d96212-3baf-49c4-9116-21bfc730fa4c"
       name="ДЗО 2"
       font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-      fillColor="#009fec"
+      fillColor="#6ab5b5"
       textPosition="1"
       borderType="1">
     <bounds
@@ -485,7 +485,7 @@
       font="1|Arial Narrow|19.8|0|WINDOWS|1|-33|0|0|0|400|0|0|0|-52|3|2|1|34|Arial Narrow"
       textAlignment="1"
       fillColor="#e3e3e3"
-      content="Текущая модель операционной деятельности (до 2015 года)"
+      content="Текущая модель операционной деятельности (до 2017 года)"
       borderType="1">
     <bounds
         x="-60"
