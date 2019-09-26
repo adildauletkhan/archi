@@ -11,20 +11,8 @@
     <bounds
         x="5"
         y="-5"
-        width="1429"
-        height="1251"/>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="8689854a-233a-4458-b685-923ef194c511"
-        fillColor="#c0c0c0"
-        content="Внедрение новых технологий, стандартов, политик"
-        borderType="1">
-      <bounds
-          x="24"
-          y="1007"
-          width="397"
-          height="127"/>
-    </children>
+        width="1701"
+        height="951"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="654688f4-5c1a-4dda-9161-6bb887268295"
@@ -121,7 +109,7 @@
           x="540"
           y="683"
           width="253"
-          height="190"/>
+          height="188"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="b8c585a7-8983-4680-9093-37c7e8158e5a"
@@ -161,36 +149,35 @@
         id="066b077a-600b-4589-a411-ba53542d69b0"
         textAlignment="1">
       <bounds
-          x="804"
+          x="1068"
           y="390"
           width="253"
-          height="131"/>
+          height="153"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="284a749a-1e71-4d1d-8dd5-d9e2e4ec3082"
+          id="06286de2-6f3f-4f67-b8c5-85040f6bb5d7"
           textAlignment="1"
           fillColor="#ffffdd">
         <bounds
-            y="30"
-            width="253"
-            height="46"/>
-        <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_f7290b03-8e74-4b65-9444-f9af1685800e.xml#f7290b03-8e74-4b65-9444-f9af1685800e"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="19bed1ef-add4-455b-90d9-081aa365b167"
-          textAlignment="1"
-          fillColor="#ffffdd"
-          textPosition="1">
-        <bounds
-            y="75"
+            y="25"
             width="253"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_1145436c-057e-4d5d-9d91-42ce8c6eafb9.xml#1145436c-057e-4d5d-9d91-42ce8c6eafb9"/>
+            href="BusinessProcess_648af20a-9376-46e0-9f88-9170f912eab3.xml#648af20a-9376-46e0-9f88-9170f912eab3"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="52d78341-4356-4be9-9150-b5a9817c90f9"
+          textAlignment="1"
+          fillColor="#ffffdd">
+        <bounds
+            y="79"
+            width="253"
+            height="72"/>
+        <archimateElement
+            xsi:type="archimate:BusinessProcess"
+            href="BusinessProcess_c212f497-df98-4863-89e7-104c48e3f3f5.xml#c212f497-df98-4863-89e7-104c48e3f3f5"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -203,7 +190,7 @@
         textPosition="1">
       <bounds
           x="275"
-          y="662"
+          y="590"
           width="253"
           height="61"/>
       <archimateElement
@@ -216,7 +203,7 @@
         textAlignment="1">
       <bounds
           x="275"
-          y="722"
+          y="650"
           width="253"
           height="45"/>
       <archimateElement
@@ -229,7 +216,7 @@
         textAlignment="1">
       <bounds
           x="275"
-          y="766"
+          y="694"
           width="253"
           height="62"/>
       <archimateElement
@@ -354,8 +341,8 @@
         id="8f6fe266-4121-4ae7-8afb-ebcf2d88bbf3"
         textAlignment="1">
       <bounds
-          x="24"
-          y="1037"
+          x="1188"
+          y="827"
           width="397"
           height="25"/>
       <archimateElement
@@ -396,7 +383,7 @@
         fillColor="#e7e7e7"
         textPosition="1">
       <bounds
-          x="804"
+          x="1068"
           y="180"
           width="253"
           height="58"/>
@@ -423,7 +410,7 @@
         fillColor="#e7e7e7"
         textPosition="1">
       <bounds
-          x="1068"
+          x="1332"
           y="180"
           width="253"
           height="58"/>
@@ -437,8 +424,8 @@
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="24"
-          y="1085"
+          x="1188"
+          y="875"
           width="397"
           height="49"/>
       <archimateElement
@@ -478,7 +465,7 @@
         id="69c1efba-ea9d-4684-963e-a0c1c36f7d02"
         textAlignment="1">
       <bounds
-          x="1068"
+          x="1332"
           y="249"
           width="253"
           height="88"/>
@@ -491,7 +478,7 @@
         id="328a3b9f-79f1-425a-a02e-28c2fd3dcaca"
         textAlignment="1">
       <bounds
-          x="1068"
+          x="1332"
           y="336"
           width="253"
           height="49"/>
@@ -504,7 +491,7 @@
         id="32b11559-07d7-44ba-a91f-3202c90afc3a"
         textAlignment="1">
       <bounds
-          x="1068"
+          x="1332"
           y="384"
           width="253"
           height="61"/>
@@ -517,7 +504,7 @@
         id="79403bcd-4f95-4132-b031-f3614e4d092d"
         textAlignment="1">
       <bounds
-          x="1068"
+          x="1332"
           y="444"
           width="253"
           height="73"/>
@@ -530,7 +517,7 @@
         id="b0836c86-4291-4baa-9951-1f49d27c8f39"
         textAlignment="1">
       <bounds
-          x="1068"
+          x="1332"
           y="516"
           width="253"
           height="49"/>
@@ -543,7 +530,7 @@
         id="1062ae8b-5def-4744-9650-926f88a1aa5f"
         textAlignment="1">
       <bounds
-          x="1068"
+          x="1332"
           y="564"
           width="253"
           height="43"/>
@@ -557,8 +544,8 @@
         textAlignment="1"
         fillColor="#ffffb5">
       <bounds
-          x="540"
-          y="892"
+          x="805"
+          y="249"
           width="253"
           height="55"/>
       <archimateElement
@@ -571,69 +558,13 @@
         textAlignment="1"
         fillColor="#ffffb5">
       <bounds
-          x="540"
-          y="946"
+          x="805"
+          y="303"
           width="253"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_c1a8293c-f6aa-46db-bb42-249c528e56af.xml#c1a8293c-f6aa-46db-bb42-249c528e56af"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="d9b93277-01cf-46a8-ac48-949274f0cfcc"
-        textAlignment="1"
-        textPosition="1">
-      <bounds
-          x="1067"
-          y="12"
-          width="256"
-          height="37"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_e5eb06f8-f859-4dd7-8710-f5b004347c6a.xml#e5eb06f8-f859-4dd7-8710-f5b004347c6a"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="2afd9bf6-3754-42f0-94e4-1b32d90173b3"
-        textAlignment="1"
-        textPosition="1">
-      <bounds
-          x="1067"
-          y="49"
-          width="256"
-          height="25"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_edbb0710-0984-45e7-b785-70ea1c8c52ae.xml#edbb0710-0984-45e7-b785-70ea1c8c52ae"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="3b6610e2-b2d9-42f1-b0db-da00c4b998cb"
-        textAlignment="1"
-        textPosition="1">
-      <bounds
-          x="1067"
-          y="75"
-          width="256"
-          height="36"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_66d3c1e1-f476-418c-aab9-5f8bac069b3a.xml#66d3c1e1-f476-418c-aab9-5f8bac069b3a"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="5b5168dc-04e2-4498-b929-8514ea0da58f"
-        textAlignment="1"
-        textPosition="1">
-      <bounds
-          x="1067"
-          y="111"
-          width="256"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_63fd422a-6892-4642-b6d8-e5def352bab7.xml#63fd422a-6892-4642-b6d8-e5def352bab7"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -718,6 +649,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="b982cf2c-58e7-4d8e-829c-79a99df0ac8a"
+          fontColor="#0080c0"
           textAlignment="1"
           fillColor="#ffffdd"
           textPosition="1">
@@ -735,25 +667,11 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="bc14ea24-8c68-4418-9ab2-215d16782b48"
-        textAlignment="1"
-        fillColor="#ffffb5">
-      <bounds
-          x="275"
-          y="480"
-          width="253"
-          height="63"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_052ed5e2-75d1-4ecc-9da2-3d4a18a04fa2.xml#052ed5e2-75d1-4ecc-9da2-3d4a18a04fa2"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="ef1b151b-c09e-4c73-a775-2d77ff28dd01"
         textAlignment="1">
       <bounds
           x="275"
-          y="550"
+          y="475"
           width="253"
           height="101"/>
       <children
@@ -808,8 +726,8 @@
         id="e5d68770-65f2-45cb-8b2d-7d67a5de5afd"
         textAlignment="1">
       <bounds
-          x="540"
-          y="1007"
+          x="805"
+          y="364"
           width="253"
           height="226"/>
       <children
@@ -860,24 +778,13 @@
         id="501e05f1-1e1f-488e-b198-abd82bde5bcf"
         textAlignment="1">
       <bounds
-          x="24"
-          y="1061"
+          x="1188"
+          y="851"
           width="397"
           height="25"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_4baa2b55-302d-4519-a208-65633d781df4.xml#4baa2b55-302d-4519-a208-65633d781df4"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="83211a6f-23ad-49ac-ab5c-ef8f60e91e56"
-        textAlignment="1"
-        content="Необходимо включить:&#xD;&#xA;Химизация,&#xD;&#xA;Баланс Газа,&#xD;&#xA;Внедрение новых технологий">
-      <bounds
-          x="6"
-          y="1160"
-          width="265"
-          height="73"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -893,7 +800,7 @@
             href="CompositionRelationship_ed403580-7c78-49f1-a667-78e2bf315405.xml#ed403580-7c78-49f1-a667-78e2bf315405"/>
       </sourceConnections>
       <bounds
-          x="804"
+          x="1068"
           y="249"
           width="253"
           height="132"/>
@@ -929,6 +836,165 @@
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_767dcf66-5002-4db0-a5e5-e369fdf087a0.xml#767dcf66-5002-4db0-a5e5-e369fdf087a0"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="fb53674f-f68c-4970-b653-83c7e1c26a69"
+        textAlignment="1">
+      <bounds
+          x="12"
+          y="635"
+          width="253"
+          height="226"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="b415546b-01db-4eb1-ad18-5910872c9c5d"
+          textAlignment="1"
+          fillColor="#ffffdd">
+        <bounds
+            y="111"
+            width="253"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessProcess"
+            href="BusinessProcess_c1d6198d-2109-48c8-b13c-4669b7c55815.xml#c1d6198d-2109-48c8-b13c-4669b7c55815"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="192afc09-8376-424d-aeef-1ffaf6620b3e"
+          textAlignment="1"
+          fillColor="#ffffdd">
+        <bounds
+            y="165"
+            width="253"
+            height="61"/>
+        <archimateElement
+            xsi:type="archimate:BusinessProcess"
+            href="BusinessProcess_3b2c78ff-69a8-4450-9e69-c76dfaa41384.xml#3b2c78ff-69a8-4450-9e69-c76dfaa41384"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="7a2d7dd2-e208-4958-a9fc-bac9d4de591f"
+          textAlignment="1"
+          fillColor="#ffffdd">
+        <bounds
+            y="40"
+            width="253"
+            height="72"/>
+        <archimateElement
+            xsi:type="archimate:BusinessProcess"
+            href="BusinessProcess_6f6dc26c-a38b-415e-80cc-dead220e57ad.xml#6f6dc26c-a38b-415e-80cc-dead220e57ad"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_dd949445-0238-4d7a-ad90-5fbd0fc6fb67.xml#dd949445-0238-4d7a-ad90-5fbd0fc6fb67"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="05990f73-f0c0-4251-9fde-2411f8100176"
+        textAlignment="1"
+        textPosition="1">
+      <bounds
+          x="274"
+          y="770"
+          width="256"
+          height="37"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_e5eb06f8-f859-4dd7-8710-f5b004347c6a.xml#e5eb06f8-f859-4dd7-8710-f5b004347c6a"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="fd0a5082-164f-4dfe-a417-e1e662c5db20"
+        textAlignment="1"
+        textPosition="1">
+      <bounds
+          x="274"
+          y="807"
+          width="256"
+          height="25"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_edbb0710-0984-45e7-b785-70ea1c8c52ae.xml#edbb0710-0984-45e7-b785-70ea1c8c52ae"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="eb1818c3-b964-4df7-8ead-72803cf6054c"
+        textAlignment="1"
+        textPosition="1">
+      <bounds
+          x="274"
+          y="833"
+          width="256"
+          height="36"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_66d3c1e1-f476-418c-aab9-5f8bac069b3a.xml#66d3c1e1-f476-418c-aab9-5f8bac069b3a"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="373ba4eb-a8c8-4e08-a59b-7a236a99dced"
+        textAlignment="1"
+        textPosition="1">
+      <bounds
+          x="274"
+          y="869"
+          width="256"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_63fd422a-6892-4642-b6d8-e5def352bab7.xml#63fd422a-6892-4642-b6d8-e5def352bab7"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="8689854a-233a-4458-b685-923ef194c511"
+        fillColor="#c0c0c0"
+        content="Внедрение новых технологий, стандартов, политик"
+        borderType="1">
+      <bounds
+          x="1188"
+          y="795"
+          width="397"
+          height="27"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="ca7d3a96-06e9-45d0-bfc3-69052e0c9b66"
+        textAlignment="1">
+      <bounds
+          x="1068"
+          y="555"
+          width="253"
+          height="131"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="284a749a-1e71-4d1d-8dd5-d9e2e4ec3082"
+          textAlignment="1"
+          fillColor="#ffffdd">
+        <bounds
+            y="45"
+            width="253"
+            height="46"/>
+        <archimateElement
+            xsi:type="archimate:BusinessProcess"
+            href="BusinessProcess_f7290b03-8e74-4b65-9444-f9af1685800e.xml#f7290b03-8e74-4b65-9444-f9af1685800e"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="16d32253-2fe8-412f-8b21-618bffceb2d2"
+          textAlignment="1"
+          fillColor="#ffffdd">
+        <bounds
+            y="90"
+            width="253"
+            height="41"/>
+        <archimateElement
+            xsi:type="archimate:BusinessProcess"
+            href="BusinessProcess_283f581d-b60b-4970-b20c-703ae7ac7973.xml#283f581d-b60b-4970-b20c-703ae7ac7973"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_61882850-e9c7-4e2f-924b-62c8fba9940e.xml#61882850-e9c7-4e2f-924b-62c8fba9940e"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -1460,8 +1526,8 @@
       fillColor="#f8f8f8"
       type="1">
     <bounds
-        x="1460"
-        y="-5"
+        x="1750"
+        y="-10"
         width="861"
         height="1251"/>
     <children

@@ -81,20 +81,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="78b54d7a-4185-4ca4-8e10-d17521f9a274"
-        textAlignment="1"
-        textPosition="1">
-      <bounds
-          x="12"
-          y="168"
-          width="229"
-          height="73"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_6cc95e4d-ceac-4e42-b38d-466d3ed89b74.xml#6cc95e4d-ceac-4e42-b38d-466d3ed89b74"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="3fb03b73-b59e-451a-9df2-22c014ef6267"
         textAlignment="1"
         textPosition="1">
