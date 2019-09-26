@@ -511,5 +511,35 @@
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_1145436c-057e-4d5d-9d91-42ce8c6eafb9.xml#1145436c-057e-4d5d-9d91-42ce8c6eafb9"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="13088ad9-71fa-4f71-a6e8-8ace26ee64e0"
+        fontColor="#0080c0"
+        textAlignment="1"
+        textPosition="1">
+      <bounds
+          x="528"
+          y="449"
+          width="205"
+          height="62"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_ffd7fdb7-9e5f-445f-83e6-13d6c19cabf8.xml#ffd7fdb7-9e5f-445f-83e6-13d6c19cabf8"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="28bc3c90-386c-40d7-9704-f43d4d0cd270"
+        fontColor="#0080ff"
+        textAlignment="1"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="336"
+          width="205"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_3d2caecc-e771-41de-b58d-5a7797062e93.xml#3d2caecc-e771-41de-b58d-5a7797062e93"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>

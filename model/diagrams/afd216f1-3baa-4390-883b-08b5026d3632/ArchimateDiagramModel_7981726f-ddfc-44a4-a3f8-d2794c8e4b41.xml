@@ -8,7 +8,8 @@
       id="e3e4d071-2ebc-4769-a7b6-5d7974633d5e"
       name="OGP"
       textAlignment="1"
-      fillColor="#fffff4">
+      fillColor="#fffff4"
+      textPosition="1">
     <bounds
         width="2611"
         height="697"/>
@@ -17,10 +18,10 @@
         id="cfadd69c-0c9f-484c-9cfb-551613cfef7f"
         textPosition="1">
       <bounds
-          x="36"
+          x="25"
           y="120"
-          width="193"
-          height="61"/>
+          width="204"
+          height="71"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_e0049134-8577-4024-b000-ad3f43fc5c99.xml#e0049134-8577-4024-b000-ad3f43fc5c99"/>
@@ -30,10 +31,10 @@
         id="0f47e267-831b-4ee9-9d3c-edd2971c9899"
         textPosition="1">
       <bounds
-          x="288"
+          x="275"
           y="120"
-          width="205"
-          height="61"/>
+          width="218"
+          height="71"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_b75ba06a-13c2-4c62-9cdd-52372a0fbe5f.xml#b75ba06a-13c2-4c62-9cdd-52372a0fbe5f"/>
@@ -43,23 +44,35 @@
         id="c8873d99-d262-4cc3-afba-0bd247bf1d78"
         textPosition="1">
       <bounds
-          x="552"
+          x="530"
           y="120"
-          width="193"
-          height="61"/>
+          width="215"
+          height="71"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_a2bf5e05-0d58-4808-915d-9e37cb067c56.xml#a2bf5e05-0d58-4808-915d-9e37cb067c56"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="04af41af-fc67-4184-8546-b0914126a4f3"
-        textPosition="1">
+        id="04af41af-fc67-4184-8546-b0914126a4f3">
       <bounds
-          x="804"
-          y="120"
-          width="193"
-          height="61"/>
+          x="795"
+          y="115"
+          width="202"
+          height="66"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="43b7dd5f-fcb2-45ad-8ae5-e9043656464d"
+          fillColor="#ffffdd">
+        <bounds
+            x="24"
+            y="5"
+            width="156"
+            height="56"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_a05a0493-1d8b-4670-beba-b88a88039fab.xml#a05a0493-1d8b-4670-beba-b88a88039fab"/>
+      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_9f25d122-6586-4a00-bd4b-6c5ff86bb36a.xml#9f25d122-6586-4a00-bd4b-6c5ff86bb36a"/>
