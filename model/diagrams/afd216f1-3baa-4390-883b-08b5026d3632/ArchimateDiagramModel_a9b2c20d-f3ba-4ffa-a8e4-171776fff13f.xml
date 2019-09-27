@@ -492,7 +492,7 @@
           x="247"
           y="160"
           width="277"
-          height="365"/>
+          height="501"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="f477d911-b3a5-48b7-912f-e0ae7e559ca3"
@@ -555,35 +555,13 @@
           textPosition="1">
         <bounds
             x="24"
-            y="276"
+            y="330"
             width="229"
             height="69"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
             href="BusinessProcess_0fb8bdd3-a579-46b7-a580-2ab5a6b0b590.xml#0fb8bdd3-a579-46b7-a580-2ab5a6b0b590"/>
       </children>
-      <archimateElement
-          xsi:type="archimate:Grouping"
-          href="Grouping_53f1b3a0-2d2c-4f8e-8b91-413513e5936c.xml#53f1b3a0-2d2c-4f8e-8b91-413513e5936c"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="64ecd7e3-3e96-4705-9626-3ef101b8b9cf"
-        textAlignment="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="615096dc-c0af-438e-8c6e-baf6aaa024a3"
-          source="64ecd7e3-3e96-4705-9626-3ef101b8b9cf"
-          target="c6227db1-18ac-449f-9f36-e3928aa8e95f">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_c6690e92-d1e5-4eed-811c-4efcc5574d15.xml#c6690e92-d1e5-4eed-811c-4efcc5574d15"/>
-      </sourceConnections>
-      <bounds
-          x="247"
-          y="538"
-          width="277"
-          height="203"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="65ff67ab-7a63-4191-98fc-4be55d0f59ff"
@@ -592,7 +570,7 @@
           textPosition="1">
         <bounds
             x="24"
-            y="36"
+            y="255"
             width="229"
             height="61"/>
         <archimateElement
@@ -602,12 +580,11 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="c6227db1-18ac-449f-9f36-e3928aa8e95f"
-          targetConnections="615096dc-c0af-438e-8c6e-baf6aaa024a3"
           textAlignment="1"
           textPosition="1">
         <bounds
             x="24"
-            y="120"
+            y="415"
             width="229"
             height="64"/>
         <archimateElement
@@ -616,7 +593,7 @@
       </children>
       <archimateElement
           xsi:type="archimate:Grouping"
-          href="Grouping_6f93fcb8-ba2d-4919-b9fb-55d346b0b233.xml#6f93fcb8-ba2d-4919-b9fb-55d346b0b233"/>
+          href="Grouping_53f1b3a0-2d2c-4f8e-8b91-413513e5936c.xml#53f1b3a0-2d2c-4f8e-8b91-413513e5936c"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

@@ -2548,15 +2548,6 @@
       fillColor="#dddddd">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="b1d9986c-9766-4d46-9365-6b069d34ac00"
-        source="97ab3533-1b64-4ed1-87d4-c33983d29bb3"
-        target="cf3237bf-b25b-43ff-ac15-78dad442331a">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_8358c27a-dba9-44c1-ab24-2b99658b218e.xml#8358c27a-dba9-44c1-ab24-2b99658b218e"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="589759eb-ffe0-4618-8c18-766370911fce"
         source="97ab3533-1b64-4ed1-87d4-c33983d29bb3"
         target="71bcfd35-8ad2-478c-86e9-05e1178f8906">
@@ -2572,15 +2563,6 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_e92e308d-d0cd-46fa-ad66-ac7e1109c772.xml#e92e308d-d0cd-46fa-ad66-ac7e1109c772"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="cd29033e-6606-48a7-8048-c26b869449a4"
-        source="97ab3533-1b64-4ed1-87d4-c33983d29bb3"
-        target="72d1963a-ebd1-4714-a2e4-456e30aa5fa8">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_924adbfa-28bc-4d26-ba93-7054e8861c23.xml#924adbfa-28bc-4d26-ba93-7054e8861c23"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -2608,7 +2590,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="cf3237bf-b25b-43ff-ac15-78dad442331a"
-        targetConnections="b1d9986c-9766-4d46-9365-6b069d34ac00"
         textAlignment="1"
         textPosition="1">
       <bounds
@@ -2623,7 +2604,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="72d1963a-ebd1-4714-a2e4-456e30aa5fa8"
-        targetConnections="cd29033e-6606-48a7-8048-c26b869449a4"
         textAlignment="1"
         textPosition="1">
       <bounds
