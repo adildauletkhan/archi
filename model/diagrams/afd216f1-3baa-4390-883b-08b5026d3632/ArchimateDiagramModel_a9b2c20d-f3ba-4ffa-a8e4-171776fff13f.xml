@@ -184,9 +184,9 @@
         textPosition="1">
       <bounds
           x="1296"
-          y="165"
+          y="150"
           width="241"
-          height="57"/>
+          height="72"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_a95fffb4-fe93-4aab-bd7b-935d5ea2b9f3.xml#a95fffb4-fe93-4aab-bd7b-935d5ea2b9f3"/>
