@@ -320,7 +320,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f353708f-b3cb-4a44-b8da-edb5f39dbd23"
-        targetConnections="d64b7b42-59fc-47e9-a2fa-58560e3ff9a8">
+        targetConnections="d64b7b42-59fc-47e9-a2fa-58560e3ff9a8"
+        textPosition="1">
       <bounds
           x="30"
           y="343"
