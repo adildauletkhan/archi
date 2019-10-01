@@ -8,7 +8,7 @@
       id="2d21923d-ad15-4693-953b-2c76d2d8f089"
       textAlignment="1">
     <bounds
-        x="84"
+        x="75"
         y="24"
         width="200"
         height="109"/>
@@ -35,10 +35,10 @@
       id="6bc7ef77-5425-4d26-a88f-ba8bbd4b04ad"
       textPosition="1">
     <bounds
-        x="384"
+        x="375"
         y="24"
         width="193"
-        height="109"/>
+        height="97"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_47747edc-29c3-4106-b5e0-2608a6ac1201.xml#47747edc-29c3-4106-b5e0-2608a6ac1201"/>
@@ -90,10 +90,10 @@
       id="f6cc3800-8328-4e20-a87e-faa89f0b0e7d"
       textPosition="1">
     <bounds
-        x="684"
+        x="675"
         y="24"
         width="193"
-        height="109"/>
+        height="97"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_6478f1c6-c1d7-48af-86ea-d6450ac67a5e.xml#6478f1c6-c1d7-48af-86ea-d6450ac67a5e"/>
@@ -117,7 +117,7 @@
       id="9195b7d6-2ba5-427e-961d-c8f0bb2ace0d"
       textAlignment="1">
     <bounds
-        x="996"
+        x="985"
         y="24"
         width="193"
         height="97"/>
@@ -229,7 +229,7 @@
       textAlignment="1"
       textPosition="1">
     <bounds
-        x="1296"
+        x="1285"
         y="24"
         width="193"
         height="97"/>
@@ -270,7 +270,7 @@
       id="1c87f5f7-40b0-4a23-ad9e-745382ec8012"
       textPosition="1">
     <bounds
-        x="1584"
+        x="1580"
         y="24"
         width="193"
         height="97"/>

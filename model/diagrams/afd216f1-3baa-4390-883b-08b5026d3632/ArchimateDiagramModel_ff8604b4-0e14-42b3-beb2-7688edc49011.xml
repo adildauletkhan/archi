@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="148364ef-ca2a-45fd-a3ed-da8b6ef10677"
-      name="OGP.7. Разработка планов мониторинга и контроля параметров разработки"
+      name="OGP.7. Управление оптимизацией разработки месторождения"
       textAlignment="1"
       fillColor="#fffff4">
     <bounds
@@ -372,6 +372,20 @@
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_c1d6198d-2109-48c8-b13c-4669b7c55815.xml#c1d6198d-2109-48c8-b13c-4669b7c55815"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="b8d65a24-30b5-49aa-8fe3-13cc88ac5501"
+        textAlignment="1"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="174"
+          width="229"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_6198d14f-c908-4428-92b5-281a28c99c32.xml#6198d14f-c908-4428-92b5-281a28c99c32"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
