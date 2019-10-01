@@ -426,7 +426,7 @@
           x="468"
           y="96"
           width="265"
-          height="825"/>
+          height="780"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="52a56aa7-9b51-4ce9-acbf-a17ea9956353"
@@ -548,10 +548,10 @@
             source="31508b51-9ccb-4f9b-8825-f2909ed005e3"
             target="0da05910-cf5f-4c61-afc5-a30423349bc6">
           <bendpoints
-              startX="78"
-              startY="78"
-              endX="102"
-              endY="6"/>
+              startX="86"
+              startY="115"
+              endX="110"
+              endY="-29"/>
           <archimateRelationship
               xsi:type="archimate:SpecializationRelationship"
               href="SpecializationRelationship_fe4ba9c9-93d1-4ad7-b84a-026d9cd3e4f1.xml#fe4ba9c9-93d1-4ad7-b84a-026d9cd3e4f1"/>
