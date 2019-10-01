@@ -4,102 +4,25 @@
     name="OGP.5. Текущее обслуживание и ремонт скважин"
     id="2c7a10e4-f263-41cb-816f-2a9cb8dbdeff">
   <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="a5198d4f-5872-466f-b2ed-332607c17a30"
-      name="OGP. Текущее обслуживание и ремонт скважин"
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6ed9bcc1-5c01-4cb9-bcc3-481391296d32"
+      font="1|Segoe UI Semibold|12.0|0|WINDOWS|1|-40|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
       textAlignment="1"
-      fillColor="#fffff4">
+      fillColor="#fffff0">
     <bounds
-        width="1441"
-        height="577"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="25846c19-0bef-4594-8ead-c94694760dba">
-      <bounds
-          x="36"
-          y="36"
-          width="241"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_43ddb05d-3ef8-4ff7-9cb1-8c0b117bee6c.xml#43ddb05d-3ef8-4ff7-9cb1-8c0b117bee6c"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="51a72d89-69d7-458c-ab97-6c0d70469909"
-        textPosition="1">
-      <bounds
-          x="324"
-          y="36"
-          width="241"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_c1a8293c-f6aa-46db-bb42-249c528e56af.xml#c1a8293c-f6aa-46db-bb42-249c528e56af"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="f77f6157-ef89-4f44-b56e-4760a1ee65a4"
-        textPosition="1">
-      <bounds
-          x="612"
-          y="36"
-          width="241"
-          height="73"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_ce424429-ccd5-43b9-bfef-3b69e90c4a0a.xml#ce424429-ccd5-43b9-bfef-3b69e90c4a0a"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="e9a40d93-7212-42c9-88ad-3c9fa2b7ee2c"
-        textPosition="1">
-      <bounds
-          x="900"
-          y="36"
-          width="241"
-          height="73"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_22b242ca-2890-491c-84b2-144f45f62b36.xml#22b242ca-2890-491c-84b2-144f45f62b36"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="d76471c8-9c93-4fcb-8f89-3d3e2aa6517e"
-        textPosition="1">
-      <bounds
-          x="1176"
-          y="36"
-          width="253"
-          height="73"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_82192c36-2f64-4b80-881b-f254a737ffb6.xml#82192c36-2f64-4b80-881b-f254a737ffb6"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="a8ad8fe2-3ee9-4e7d-85b8-2352eb27e412"
-        textAlignment="1"
-        textPosition="1">
-      <bounds
-          x="12"
-          y="144"
-          width="241"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_3703d3b8-37ea-488f-b1fd-02ff8ef749d3.xml#3703d3b8-37ea-488f-b1fd-02ff8ef749d3"/>
-    </children>
+        y="10"
+        width="816"
+        height="196"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="6fb976e7-11a8-4c06-ac86-c8394b098da3"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="12"
-          y="216"
-          width="241"
-          height="61"/>
+          y="80"
+          width="816"
+          height="31"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_b5db2ab9-0a63-4085-9c97-88d2753c1376.xml#b5db2ab9-0a63-4085-9c97-88d2753c1376"/>
@@ -107,41 +30,69 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a4ecbed9-2e01-4973-9af7-5c53a47cb053"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="12"
-          y="288"
-          width="241"
-          height="97"/>
+          y="110"
+          width="816"
+          height="56"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_7149a7c7-afcd-4911-b96d-d62d01df4536.xml#7149a7c7-afcd-4911-b96d-d62d01df4536"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="eeea3bb4-d775-4aa3-8c7d-fe08c8541e04"
+        id="a8ad8fe2-3ee9-4e7d-85b8-2352eb27e412"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="12"
-          y="396"
-          width="241"
-          height="61"/>
+          y="50"
+          width="816"
+          height="31"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_3703d3b8-37ea-488f-b1fd-02ff8ef749d3.xml#3703d3b8-37ea-488f-b1fd-02ff8ef749d3"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="eeea3bb4-d775-4aa3-8c7d-fe08c8541e04"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+        textAlignment="1"
+        textPosition="1">
+      <bounds
+          y="165"
+          width="816"
+          height="31"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_daa9ae9e-458c-44bf-bfeb-7c3c7e3449c7.xml#daa9ae9e-458c-44bf-bfeb-7c3c7e3449c7"/>
     </children>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_43ddb05d-3ef8-4ff7-9cb1-8c0b117bee6c.xml#43ddb05d-3ef8-4ff7-9cb1-8c0b117bee6c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="51a72d89-69d7-458c-ab97-6c0d70469909"
+      font="1|Segoe UI Semibold|12.0|0|WINDOWS|1|-40|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      fillColor="#fffff0">
+    <bounds
+        y="255"
+        width="816"
+        height="221"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="59798512-edc1-41d9-823f-88560bafc905"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="300"
-          y="144"
-          width="241"
-          height="73"/>
+          y="55"
+          width="816"
+          height="56"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_3c6dfe51-1680-461e-97dd-3ed5947e196f.xml#3c6dfe51-1680-461e-97dd-3ed5947e196f"/>
@@ -149,13 +100,13 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5c84dd91-5323-4642-a2aa-8f98f7cffded"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="300"
-          y="228"
-          width="241"
-          height="97"/>
+          y="110"
+          width="816"
+          height="56"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_435d147c-57eb-4c15-b9a0-a82afcfd93bb.xml#435d147c-57eb-4c15-b9a0-a82afcfd93bb"/>
@@ -163,27 +114,41 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="01c0688c-e0f4-4950-a599-d8b127a50159"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="300"
-          y="336"
-          width="241"
-          height="73"/>
+          y="165"
+          width="816"
+          height="56"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_e495b749-0044-4cc6-b9bb-620ed6f46b29.xml#e495b749-0044-4cc6-b9bb-620ed6f46b29"/>
     </children>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_c1a8293c-f6aa-46db-bb42-249c528e56af.xml#c1a8293c-f6aa-46db-bb42-249c528e56af"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f77f6157-ef89-4f44-b56e-4760a1ee65a4"
+      font="1|Segoe UI Semibold|12.0|0|WINDOWS|1|-40|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      fillColor="#fffff0">
+    <bounds
+        y="525"
+        width="816"
+        height="231"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="bf3e24ce-39bc-4493-9c36-f4bb2eedc18b"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="588"
-          y="144"
-          width="241"
-          height="61"/>
+          y="55"
+          width="816"
+          height="56"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_65220362-e260-43a3-91cb-f8254933913c.xml#65220362-e260-43a3-91cb-f8254933913c"/>
@@ -191,13 +156,13 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a3a5bb4f-5beb-40fb-9f0a-ea1606352697"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="588"
-          y="216"
-          width="241"
-          height="61"/>
+          y="110"
+          width="816"
+          height="31"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_5371ffa2-157b-47b4-8d62-f81f196e2cf9.xml#5371ffa2-157b-47b4-8d62-f81f196e2cf9"/>
@@ -205,13 +170,13 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1c94c178-6469-4f60-84a0-b68b5560b245"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="588"
-          y="288"
-          width="241"
-          height="61"/>
+          y="140"
+          width="816"
+          height="31"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_d023df6d-b8fa-4078-acff-2f21ea1903ea.xml#d023df6d-b8fa-4078-acff-2f21ea1903ea"/>
@@ -219,26 +184,55 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="17ae5a71-49d5-4c9b-9689-9d1cbe68795d"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1">
       <bounds
-          x="588"
-          y="360"
-          width="241"
-          height="61"/>
+          y="170"
+          width="816"
+          height="31"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_5b433ae0-fc08-46ce-a700-6c16238c9e76.xml#5b433ae0-fc08-46ce-a700-6c16238c9e76"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="1d4e096c-cd45-4866-8e3e-dbd8a2303f96"
+        id="d24f7ebc-9ad8-4bd0-b66f-2dac72d7fa2e"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+        fontColor="#0080ff"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="876"
-          y="144"
-          width="241"
-          height="73"/>
+          y="200"
+          width="816"
+          height="31"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_39a73e56-1d73-42f5-b63b-6e97fd455569.xml#39a73e56-1d73-42f5-b63b-6e97fd455569"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_ce424429-ccd5-43b9-bfef-3b69e90c4a0a.xml#ce424429-ccd5-43b9-bfef-3b69e90c4a0a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e9a40d93-7212-42c9-88ad-3c9fa2b7ee2c"
+      font="1|Segoe UI Semibold|12.0|0|WINDOWS|1|-40|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      fillColor="#fffff0">
+    <bounds
+        y="800"
+        width="816"
+        height="146"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="1d4e096c-cd45-4866-8e3e-dbd8a2303f96"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+        textAlignment="1"
+        textPosition="1">
+      <bounds
+          y="55"
+          width="816"
+          height="31"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_664ccea3-2749-459b-8dd5-11a421c41263.xml#664ccea3-2749-459b-8dd5-11a421c41263"/>
@@ -246,13 +240,13 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="00e5e204-a30d-403d-ba0a-bcf1fb9b8e8c"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="876"
-          y="228"
-          width="241"
-          height="49"/>
+          y="85"
+          width="816"
+          height="31"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_c6455080-8ff1-4068-a52b-41305c8cfaa6.xml#c6455080-8ff1-4068-a52b-41305c8cfaa6"/>
@@ -260,27 +254,41 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="dd5dcc19-8480-4829-b1b9-11d067ec8700"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="876"
-          y="288"
-          width="241"
-          height="49"/>
+          y="115"
+          width="816"
+          height="31"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_5d40a7d6-c519-4d5b-b8a9-9b6aba0f52a6.xml#5d40a7d6-c519-4d5b-b8a9-9b6aba0f52a6"/>
     </children>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_22b242ca-2890-491c-84b2-144f45f62b36.xml#22b242ca-2890-491c-84b2-144f45f62b36"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d76471c8-9c93-4fcb-8f89-3d3e2aa6517e"
+      font="1|Segoe UI Semibold|12.0|0|WINDOWS|1|-40|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      fillColor="#fffff0">
+    <bounds
+        y="995"
+        width="816"
+        height="256"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b914dfdb-b298-43aa-8c1c-77757bcfa2fa"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="1164"
-          y="144"
-          width="241"
-          height="61"/>
+          y="55"
+          width="816"
+          height="31"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_eeb4afdd-9881-463e-9040-60357cfd812c.xml#eeb4afdd-9881-463e-9040-60357cfd812c"/>
@@ -288,13 +296,13 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="55f1e2be-94e4-4fba-bb78-52c46571c682"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="1164"
-          y="216"
-          width="241"
-          height="61"/>
+          y="85"
+          width="816"
+          height="31"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_948932a3-59df-40eb-92e7-c2334448d507.xml#948932a3-59df-40eb-92e7-c2334448d507"/>
@@ -302,13 +310,13 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="6f1f0a1a-72a3-40c1-917c-9bb93df06fdc"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="1164"
-          y="288"
-          width="241"
-          height="97"/>
+          y="115"
+          width="816"
+          height="56"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_ff677239-e017-43f6-9abc-c2661a914dc2.xml#ff677239-e017-43f6-9abc-c2661a914dc2"/>
@@ -316,13 +324,13 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3fcb946f-5389-464a-8f4b-55f90bcb2bce"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="1164"
-          y="396"
-          width="241"
-          height="97"/>
+          y="170"
+          width="816"
+          height="56"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_d1eb0f81-cfc0-4132-b286-fabbf1589596.xml#d1eb0f81-cfc0-4132-b286-fabbf1589596"/>
@@ -330,31 +338,19 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="90e63068-b7ab-45dd-92cf-ca412210429f"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="1164"
-          y="504"
-          width="241"
-          height="61"/>
+          y="225"
+          width="816"
+          height="31"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_d8e5f158-7caf-4aa9-91c8-a94c8818d568.xml#d8e5f158-7caf-4aa9-91c8-a94c8818d568"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="d24f7ebc-9ad8-4bd0-b66f-2dac72d7fa2e"
-        fontColor="#0080ff"
-        textAlignment="1"
-        textPosition="1">
-      <bounds
-          x="588"
-          y="432"
-          width="241"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_39a73e56-1d73-42f5-b63b-6e97fd455569.xml#39a73e56-1d73-42f5-b63b-6e97fd455569"/>
-    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_82192c36-2f64-4b80-881b-f254a737ffb6.xml#82192c36-2f64-4b80-881b-f254a737ffb6"/>
   </children>
 </archimate:ArchimateDiagramModel>
