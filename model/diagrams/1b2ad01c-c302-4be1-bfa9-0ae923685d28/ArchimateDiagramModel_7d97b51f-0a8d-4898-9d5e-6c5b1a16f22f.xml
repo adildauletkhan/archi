@@ -13,7 +13,7 @@
     <bounds
         x="3"
         y="530"
-        width="805"
+        width="970"
         height="277"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -256,7 +256,7 @@
     <bounds
         x="3"
         y="326"
-        width="805"
+        width="970"
         height="205"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

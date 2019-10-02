@@ -230,7 +230,7 @@
       textAlignment="1"
       fillColor="#fff8f0">
     <bounds
-        y="1075"
+        y="1090"
         width="586"
         height="1236"/>
     <children
@@ -959,7 +959,7 @@
       fillColor="#fff5ec">
     <bounds
         x="600"
-        y="1075"
+        y="1090"
         width="591"
         height="1236"/>
     <children
