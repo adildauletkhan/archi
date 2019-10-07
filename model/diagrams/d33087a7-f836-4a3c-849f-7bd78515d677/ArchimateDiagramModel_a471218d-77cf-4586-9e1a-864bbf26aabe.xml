@@ -21,8 +21,8 @@
       <bounds
           x="20"
           y="75"
-          width="156"
-          height="386"/>
+          width="126"
+          height="3071"/>
       <archimateElement
           xsi:type="archimate:BusinessRole"
           href="BusinessRole_be5b745a-9e32-4008-a2fd-cab48bfca689.xml#be5b745a-9e32-4008-a2fd-cab48bfca689"/>
