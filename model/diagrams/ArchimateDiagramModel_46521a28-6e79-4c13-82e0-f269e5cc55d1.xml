@@ -11,8 +11,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="65"
-        y="170"
+        x="25"
+        y="110"
         width="221"
         height="66"/>
     <archimateElement
@@ -28,8 +28,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="65"
-        y="330"
+        x="25"
+        y="270"
         width="221"
         height="66"/>
     <archimateElement
@@ -45,8 +45,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="65"
-        y="250"
+        x="25"
+        y="190"
         width="221"
         height="66"/>
     <archimateElement
@@ -62,8 +62,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="65"
-        y="410"
+        x="25"
+        y="350"
         width="221"
         height="66"/>
     <archimateElement
@@ -79,8 +79,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="65"
-        y="570"
+        x="25"
+        y="510"
         width="221"
         height="66"/>
     <archimateElement
@@ -96,8 +96,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="65"
-        y="490"
+        x="25"
+        y="430"
         width="221"
         height="66"/>
     <archimateElement
@@ -113,8 +113,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="65"
-        y="90"
+        x="25"
+        y="30"
         width="221"
         height="66"/>
     <archimateElement
@@ -130,8 +130,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="65"
-        y="650"
+        x="25"
+        y="590"
         width="221"
         height="66"/>
     <archimateElement
