@@ -10,7 +10,7 @@
       textAlignment="1"
       fillColor="#fffff0">
     <bounds
-        x="-230"
+        x="30"
         y="5"
         width="816"
         height="141"/>
@@ -67,7 +67,7 @@
       textAlignment="1"
       fillColor="#fffff0">
     <bounds
-        x="-230"
+        x="30"
         y="190"
         width="816"
         height="281"/>
@@ -166,7 +166,7 @@
       textAlignment="1"
       fillColor="#fffff0">
     <bounds
-        x="-230"
+        x="30"
         y="515"
         width="816"
         height="301"/>
@@ -264,7 +264,7 @@
       textAlignment="1"
       fillColor="#fffff0">
     <bounds
-        x="-230"
+        x="30"
         y="860"
         width="816"
         height="231"/>
@@ -349,7 +349,7 @@
       textAlignment="1"
       fillColor="#fffff0">
     <bounds
-        x="-230"
+        x="30"
         y="1135"
         width="816"
         height="141"/>

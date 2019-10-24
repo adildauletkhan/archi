@@ -10,7 +10,7 @@
       textAlignment="1"
       fillColor="#fffff0">
     <bounds
-        x="-40"
+        x="40"
         y="15"
         width="816"
         height="201"/>
@@ -97,7 +97,7 @@
       textAlignment="1"
       fillColor="#fffff0">
     <bounds
-        x="-40"
+        x="40"
         y="240"
         width="816"
         height="171"/>
@@ -170,7 +170,7 @@
       textAlignment="1"
       fillColor="#fffff0">
     <bounds
-        x="-40"
+        x="40"
         y="430"
         width="816"
         height="251"/>
@@ -271,7 +271,7 @@
       textAlignment="1"
       fillColor="#fffff0">
     <bounds
-        x="-40"
+        x="40"
         y="710"
         width="816"
         height="201"/>
@@ -344,7 +344,7 @@
       textAlignment="1"
       fillColor="#fffff0">
     <bounds
-        x="-40"
+        x="40"
         y="945"
         width="816"
         height="306"/>
@@ -458,7 +458,7 @@
       textAlignment="1"
       fillColor="#fffff0">
     <bounds
-        x="-40"
+        x="40"
         y="1280"
         width="816"
         height="301"/>
@@ -544,7 +544,7 @@
       textAlignment="1"
       fillColor="#fffff0">
     <bounds
-        x="795"
+        x="875"
         y="1615"
         width="816"
         height="196"/>
@@ -643,7 +643,7 @@
           href="CompositionRelationship_600c28d8-0b84-4075-8790-492d3468ce31.xml#600c28d8-0b84-4075-8790-492d3468ce31"/>
     </sourceConnections>
     <bounds
-        x="-40"
+        x="40"
         y="1840"
         width="816"
         height="206"/>
@@ -718,7 +718,7 @@
       textAlignment="1"
       fillColor="#fffff0">
     <bounds
-        x="-40"
+        x="40"
         y="1615"
         width="816"
         height="196"/>
