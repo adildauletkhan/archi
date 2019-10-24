@@ -1,0 +1,36 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5.ITM. Процессы 1-го уровня v1"
+    id="c9cce850-15fa-4c17-943f-8eacb9683247">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="11f146c6-ae7b-4fdf-b864-21ebf4ca0a4f"
+      font="1|Times New Roman|15.9|1|WINDOWS|1|-53|0|0|0|700|0|0|0|-52|3|2|1|18|Times New Roman"
+      fillColor="#f8f8f8">
+    <bounds
+        x="5"
+        y="5"
+        width="676"
+        height="411"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="94bfdb58-2b03-47a7-8703-f3de7a349cfe"
+        font="1|Segoe UI Semibold|12.0|0|WINDOWS|1|-20|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+        textAlignment="1"
+        fillColor="#fffff0"
+        textPosition="1">
+      <bounds
+          x="55"
+          y="65"
+          width="566"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_6c4bf508-7f00-4f0a-8062-635c8b32fe72.xml#6c4bf508-7f00-4f0a-8062-635c8b32fe72"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_ee6675d1-4e11-415a-852f-ea112f0892a8.xml#ee6675d1-4e11-415a-852f-ea112f0892a8"/>
+  </children>
+</archimate:ArchimateDiagramModel>
