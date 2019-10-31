@@ -105,9 +105,9 @@
       </sourceConnections>
       <bounds
           x="130"
-          y="18"
+          y="5"
           width="211"
-          height="26"/>
+          height="39"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_40b385bf-aba2-49cc-a985-c3a14619df2c.xml#40b385bf-aba2-49cc-a985-c3a14619df2c"/>

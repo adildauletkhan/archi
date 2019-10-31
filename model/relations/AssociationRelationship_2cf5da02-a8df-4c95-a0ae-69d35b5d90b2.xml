@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Необходимо интеграция"
+    id="2cf5da02-a8df-4c95-a0ae-69d35b5d90b2">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_a0df1639-e8ef-4a69-8370-c7c79392b0f3.xml#a0df1639-e8ef-4a69-8370-c7c79392b0f3"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_d60b825c-1a10-4bb5-abb9-1902ee9f2368.xml#d60b825c-1a10-4bb5-abb9-1902ee9f2368"/>
+</archimate:AssociationRelationship>
