@@ -1706,20 +1706,6 @@
         height="41"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="424e8aa1-9195-4cfc-a6e5-be1fed298d2b"
-      textAlignment="1"
-      textPosition="2">
-    <bounds
-        x="990"
-        y="745"
-        width="46"
-        height="51"/>
-    <archimateElement
-        xsi:type="archimate:Facility"
-        href="Facility_d3f48aa0-458c-47e0-bafc-c113a1110c75.xml#d3f48aa0-458c-47e0-bafc-c113a1110c75"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="131e924a-d6bf-4da8-8e1e-813141878a7f"
       textAlignment="1"
