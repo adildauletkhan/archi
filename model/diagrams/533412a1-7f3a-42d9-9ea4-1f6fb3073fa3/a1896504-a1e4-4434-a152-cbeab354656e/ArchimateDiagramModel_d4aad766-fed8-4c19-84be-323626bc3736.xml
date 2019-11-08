@@ -7,7 +7,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4c696a55-60c8-4c37-ac4c-10536ca67c37"
       font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#fffff0">
     <bounds
         width="816"
         height="146"/>
@@ -16,7 +17,7 @@
         id="4f74ec93-15bc-4806-ae11-d3821a680781"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
-        fillColor="#ffff00">
+        fillColor="#ffffb5">
       <bounds
           y="35"
           width="816"
@@ -30,7 +31,7 @@
         id="cedf0232-72cb-410e-b8d3-91b6131c300f"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
-        fillColor="#ffff00">
+        fillColor="#ffffb5">
       <bounds
           y="85"
           width="816"
@@ -44,7 +45,7 @@
         id="a0d1b67d-2cde-4a64-8c1e-721555785134"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
-        fillColor="#ffff00">
+        fillColor="#ffffb5">
       <bounds
           y="115"
           width="816"
@@ -61,7 +62,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="8190c893-cbcd-4654-a02d-23d12e24a332"
       font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#fffff0">
     <bounds
         y="175"
         width="816"
@@ -71,7 +73,7 @@
         id="72df71b7-a276-476b-b514-54d77cbf2810"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
-        fillColor="#ffff00">
+        fillColor="#ffffb5">
       <bounds
           y="35"
           width="816"
@@ -85,7 +87,7 @@
         id="30d3020e-11bb-4016-b86b-c43b87cfcf37"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
-        fillColor="#ffff00">
+        fillColor="#ffffb5">
       <bounds
           y="65"
           width="816"
@@ -99,7 +101,7 @@
         id="cf810b4f-109f-4e4c-b464-327d919a65a8"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
-        fillColor="#ffff00">
+        fillColor="#ffffb5">
       <bounds
           y="95"
           width="816"

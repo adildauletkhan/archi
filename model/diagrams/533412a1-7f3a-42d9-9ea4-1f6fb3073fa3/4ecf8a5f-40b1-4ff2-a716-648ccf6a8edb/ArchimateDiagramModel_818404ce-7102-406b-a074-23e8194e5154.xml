@@ -7,7 +7,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cd55badd-1226-444d-966f-84d9d9f46ef9"
       font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#fffff0">
     <bounds
         x="5"
         width="816"
@@ -17,7 +18,7 @@
         id="f4adfc2d-6410-4195-88c5-59f9fe3e9159"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
-        fillColor="#ffff00">
+        fillColor="#ffffb5">
       <bounds
           y="30"
           width="816"
@@ -31,7 +32,7 @@
         id="a0c8f4c5-94ac-4e2f-814d-d57fd73ec9b1"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
-        fillColor="#ffff00">
+        fillColor="#ffffb5">
       <bounds
           y="80"
           width="816"
@@ -48,7 +49,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bcf33df8-d708-4057-836f-dd87de56a66a"
       font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#fffff0">
     <bounds
         x="5"
         y="140"
@@ -59,7 +61,7 @@
         id="5d7daa6d-6ac1-45e1-a67b-9d90777ee399"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
-        fillColor="#ffff00">
+        fillColor="#ffffb5">
       <bounds
           y="30"
           width="816"
@@ -73,7 +75,7 @@
         id="807acab2-b03d-460d-bb68-f3e4ac5a2b3b"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
-        fillColor="#ffff00">
+        fillColor="#ffffb5">
       <bounds
           y="80"
           width="816"
@@ -90,7 +92,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6124b6bb-6390-4f66-beaf-e452585458e1"
       font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#fffff0">
     <bounds
         x="5"
         y="285"
@@ -101,7 +104,7 @@
         id="77ab370b-152e-4c58-9e5a-53bb03c650db"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
-        fillColor="#ffff00">
+        fillColor="#ffffb5">
       <bounds
           y="30"
           width="816"
@@ -115,7 +118,7 @@
         id="218de4ff-cc72-4ff9-b66d-f06225525fae"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
         textAlignment="1"
-        fillColor="#ffff00">
+        fillColor="#ffffb5">
       <bounds
           y="80"
           width="816"
