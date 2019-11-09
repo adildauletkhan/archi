@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обработка и интерпретация сейсмических данных 2D МОГТ на участке Эмба 5"
+    id="a5ad2172-f0c4-42ab-8d98-af09502216d4">
+  <properties
+      key="Пог.км"
+      value="1/500"/>
+</archimate:Goal>
