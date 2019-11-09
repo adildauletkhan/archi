@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DMS"
+    name="DMS.Drilling management system"
     id="97bb54c9-2d2d-4b5d-a441-0c643e8cd40b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
