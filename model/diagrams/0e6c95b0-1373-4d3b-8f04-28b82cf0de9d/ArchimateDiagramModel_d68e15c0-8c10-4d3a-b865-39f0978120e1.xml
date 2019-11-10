@@ -1,0 +1,36 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KMG.MES"
+    id="d68e15c0-8c10-4d3a-b865-39f0978120e1">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="136d8249-e7c0-4c60-9f87-5674539483ae"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      type="1">
+    <bounds
+        x="35"
+        y="65"
+        width="271"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_0828e052-3e4c-4ea4-94ff-d825d35ee69f.xml#0828e052-3e4c-4ea4-94ff-d825d35ee69f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d16eb721-af15-4f4f-9cb4-a1d699845d79"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#b5ffff">
+    <bounds
+        x="350"
+        y="65"
+        width="281"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationProcess"
+        href="ApplicationProcess_55a9270d-23da-4d7f-9ede-57c4ae9fb98b.xml#55a9270d-23da-4d7f-9ede-57c4ae9fb98b"/>
+  </children>
+</archimate:ArchimateDiagramModel>

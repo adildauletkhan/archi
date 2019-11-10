@@ -525,6 +525,20 @@
         y="490"
         width="286"
         height="441"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="cd35e21d-24ca-4e11-bb70-ad2e47ea6489"
+        textAlignment="1"
+        type="1">
+      <bounds
+          x="30"
+          y="65"
+          width="211"
+          height="46"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_0828e052-3e4c-4ea4-94ff-d825d35ee69f.xml#0828e052-3e4c-4ea4-94ff-d825d35ee69f"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_a2cae0e4-11cf-466e-a6ae-1cc488a7d2b5.xml#a2cae0e4-11cf-466e-a6ae-1cc488a7d2b5"/>
