@@ -1,8 +1,0 @@
-<archimate:Goal
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Коэффициент эксплуатации действующего фонда"
-    id="31f7eb11-4643-432e-835c-49a667599277">
-  <properties
-      key="д. ед."
-      value="0,95"/>
-</archimate:Goal>
