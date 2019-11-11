@@ -1130,7 +1130,7 @@
       <bounds
           x="590"
           y="33"
-          width="186"
+          width="141"
           height="46"/>
     </children>
     <children
@@ -1737,5 +1737,100 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_826a89bf-407c-4121-a936-80cec5e2b968.xml#826a89bf-407c-4121-a936-80cec5e2b968"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3d46b5c5-fa93-42e0-b534-697471f1a62d"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="Создает данные"
+      textPosition="1">
+    <sourceConnections
+        id="4e13b12b-55fc-4e83-a3b4-68d3c275898d"
+        source="3d46b5c5-fa93-42e0-b534-697471f1a62d"
+        target="4eae14de-3b89-4c13-8d7e-26d95032f131"
+        type="18"/>
+    <bounds
+        x="15"
+        y="935"
+        width="151"
+        height="51"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="4eae14de-3b89-4c13-8d7e-26d95032f131"
+      targetConnections="4e13b12b-55fc-4e83-a3b4-68d3c275898d"
+      fillColor="#00dfdf"
+      borderType="1">
+    <bounds
+        x="245"
+        y="943"
+        width="101"
+        height="36"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ee2adbcf-657a-4a70-9009-a73a15e82785"
+      targetConnections="5bc28b86-d387-4a93-bee6-b4efed234236"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="Поток данных внутри системы">
+    <bounds
+        x="15"
+        y="1010"
+        width="151"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6595ffb7-df11-4f87-ab90-bd7b6754a060"
+      fillColor="#00dfdf"
+      borderType="1">
+    <sourceConnections
+        id="5bc28b86-d387-4a93-bee6-b4efed234236"
+        lineWidth="2"
+        lineColor="#008000"
+        source="6595ffb7-df11-4f87-ab90-bd7b6754a060"
+        target="ee2adbcf-657a-4a70-9009-a73a15e82785"
+        type="64"/>
+    <bounds
+        x="245"
+        y="1020"
+        width="101"
+        height="36"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ba5c942a-1469-471f-89ff-deff6a0b8462"
+      targetConnections="a35814cb-d484-491d-9b4d-cb4bb2600e4f"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="Поток данных на внешние системы">
+    <bounds
+        x="15"
+        y="1090"
+        width="151"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3fde8d92-9994-4283-a640-4f6bb13bc63c"
+      fillColor="#00dfdf"
+      borderType="1">
+    <sourceConnections
+        id="a35814cb-d484-491d-9b4d-cb4bb2600e4f"
+        lineWidth="2"
+        lineColor="#0080ff"
+        source="3fde8d92-9994-4283-a640-4f6bb13bc63c"
+        target="ba5c942a-1469-471f-89ff-deff6a0b8462"
+        type="64"/>
+    <bounds
+        x="245"
+        y="1100"
+        width="101"
+        height="36"/>
   </children>
 </archimate:ArchimateDiagramModel>
