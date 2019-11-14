@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="KMG.WWO.data.flow"
+    name="KMG.WWO.data flow"
     id="c8524459-9fa7-41ec-9092-ff5373ae1883">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -405,25 +405,20 @@
             target="4b64c105-051b-404a-8734-6e714fad6caa"
             type="64">
           <bendpoints
-              startX="67"
-              startY="82"
-              endX="-365"
-              endY="-182"/>
+              startX="-174"
+              startY="9"
+              endX="-606"
+              endY="-255"/>
           <bendpoints
-              startX="247"
-              startY="82"
-              endX="-185"
-              endY="-182"/>
+              startX="-174"
+              startY="189"
+              endX="-606"
+              endY="-75"/>
           <bendpoints
-              startX="247"
-              startY="202"
-              endX="-185"
-              endY="-62"/>
-          <bendpoints
-              startX="331"
-              startY="202"
-              endX="-101"
-              endY="-62"/>
+              startX="342"
+              startY="189"
+              endX="-90"
+              endY="-75"/>
         </sourceConnections>
         <sourceConnections
             id="5bad9017-2539-4d0c-b215-adac81ec44ed"
@@ -522,15 +517,35 @@
             target="05d0da88-7d20-4c82-b62a-d7b7201a6917"
             type="64">
           <bendpoints
-              startX="-542"
-              startY="-20"
-              endX="271"
-              endY="490"/>
+              startX="-147"
+              startY="3"
+              endX="666"
+              endY="513"/>
           <bendpoints
-              startX="-542"
-              startY="-500"
-              endX="271"
-              endY="10"/>
+              startX="-147"
+              startY="-21"
+              endX="666"
+              endY="489"/>
+          <bendpoints
+              startX="-447"
+              startY="-21"
+              endX="366"
+              endY="489"/>
+          <bendpoints
+              startX="-447"
+              startY="-93"
+              endX="366"
+              endY="417"/>
+          <bendpoints
+              startX="-543"
+              startY="-93"
+              endX="270"
+              endY="417"/>
+          <bendpoints
+              startX="-543"
+              startY="-501"
+              endX="270"
+              endY="9"/>
         </sourceConnections>
         <sourceConnections
             id="4e7a0829-0460-43ad-a6ff-491d067154f5"
@@ -538,6 +553,16 @@
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
             target="97b5cb43-8917-4126-92b9-01b121dbf841"
             type="64">
+          <bendpoints
+              startX="-147"
+              startY="3"
+              endX="666"
+              endY="174"/>
+          <bendpoints
+              startX="-147"
+              startY="-21"
+              endX="666"
+              endY="150"/>
           <bendpoints
               startX="-446"
               startY="-20"
@@ -1168,7 +1193,23 @@
             lineColor="#008000"
             source="dbddacfb-8979-461d-a57f-51587f1b6b6f"
             target="66ebc85a-3686-4db9-9cfa-22e16a59eda6"
-            type="64"/>
+            type="64">
+          <bendpoints
+              startX="-462"
+              startY="15"
+              endX="375"
+              endY="69"/>
+          <bendpoints
+              startX="-462"
+              startY="-9"
+              endX="375"
+              endY="45"/>
+          <bendpoints
+              startX="-774"
+              startY="-9"
+              endX="63"
+              endY="45"/>
+        </sourceConnections>
         <sourceConnections
             id="c6b66de2-f34e-4606-a0a3-1d136fa694e7"
             lineColor="#008000"
@@ -1213,15 +1254,15 @@
               endX="226"
               endY="-626"/>
           <bendpoints
-              startX="-221"
-              startY="496"
-              endX="226"
-              endY="-182"/>
+              startX="-222"
+              startY="591"
+              endX="225"
+              endY="-87"/>
           <bendpoints
-              startX="-413"
-              startY="496"
-              endX="34"
-              endY="-182"/>
+              startX="-342"
+              startY="591"
+              endX="105"
+              endY="-87"/>
         </sourceConnections>
         <sourceConnections
             id="9dc69b97-9831-4d35-8f37-892c9aee70cf"
@@ -1539,10 +1580,10 @@
             target="6b94e5d2-f51a-4997-8be7-0ca4747f19eb"
             type="64">
           <bendpoints
-              startX="22"
-              startY="58"
-              endX="367"
-              endY="58"/>
+              startX="6"
+              startY="57"
+              endX="399"
+              endY="57"/>
           <bendpoints
               startX="-278"
               startY="58"
@@ -1571,10 +1612,10 @@
               endX="187"
               endY="-86"/>
           <bendpoints
-              startX="-305"
-              startY="286"
-              endX="103"
-              endY="-86"/>
+              startX="-318"
+              startY="285"
+              endX="90"
+              endY="-87"/>
         </sourceConnections>
         <sourceConnections
             id="8090abc6-e1e6-4be2-bec9-319d4acb3f1f"
@@ -1794,15 +1835,15 @@
           target="7b79a26d-8ce4-4734-88ff-9dbef51aa743"
           type="64">
         <bendpoints
-            startX="223"
-            startY="-14"
-            endX="-224"
-            endY="322"/>
+            startX="258"
+            startY="-3"
+            endX="-189"
+            endY="333"/>
         <bendpoints
-            startX="223"
-            startY="-326"
-            endX="-224"
-            endY="10"/>
+            startX="258"
+            startY="-327"
+            endX="-189"
+            endY="9"/>
       </sourceConnections>
       <sourceConnections
           id="16677a91-2f56-4dd1-a4e6-5c213eb64869"
@@ -2263,8 +2304,8 @@
         target="c456d5a0-21dc-47a6-ae96-b56d8203e7a3"
         type="18"/>
     <bounds
-        x="42"
-        y="2004"
+        x="-24"
+        y="1536"
         width="151"
         height="51"/>
   </children>
@@ -2275,8 +2316,8 @@
       fillColor="#00dfdf"
       borderType="1">
     <bounds
-        x="272"
-        y="2012"
+        x="206"
+        y="1544"
         width="101"
         height="36"/>
   </children>
@@ -2289,8 +2330,8 @@
       fillColor="#b5ffff"
       content="Поток данных внутри системы">
     <bounds
-        x="42"
-        y="2079"
+        x="-24"
+        y="1611"
         width="151"
         height="56"/>
   </children>
@@ -2307,8 +2348,8 @@
         target="2485229a-cec4-4b43-b395-53c25b084cea"
         type="64"/>
     <bounds
-        x="272"
-        y="2089"
+        x="206"
+        y="1621"
         width="101"
         height="36"/>
   </children>
@@ -2321,8 +2362,8 @@
       fillColor="#b5ffff"
       content="Поток данных на внешние системы">
     <bounds
-        x="42"
-        y="2159"
+        x="-24"
+        y="1691"
         width="151"
         height="56"/>
   </children>
@@ -2339,8 +2380,8 @@
         target="217b2e3d-528b-478e-8d35-fda5f6d330f3"
         type="64"/>
     <bounds
-        x="272"
-        y="2169"
+        x="206"
+        y="1701"
         width="101"
         height="36"/>
   </children>
@@ -2351,8 +2392,8 @@
       alpha="50"
       borderType="2">
     <bounds
-        x="42"
-        y="1932"
+        x="-24"
+        y="1464"
         width="271"
         height="51"/>
   </children>
@@ -3065,8 +3106,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="54c8fe52-cc3b-48af-83a3-b23a88f76f06">
     <bounds
-        x="36"
-        y="-108"
+        x="24"
+        y="-36"
         width="204"
         height="180"/>
     <archimateElement
