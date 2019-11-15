@@ -1168,7 +1168,13 @@
             lineColor="#008000"
             source="dbddacfb-8979-461d-a57f-51587f1b6b6f"
             target="66ebc85a-3686-4db9-9cfa-22e16a59eda6"
-            type="64"/>
+            type="64">
+          <bendpoints
+              startX="-766"
+              startY="1"
+              endX="71"
+              endY="55"/>
+        </sourceConnections>
         <sourceConnections
             id="c6b66de2-f34e-4606-a0a3-1d136fa694e7"
             lineColor="#008000"
@@ -1539,15 +1545,15 @@
             target="6b94e5d2-f51a-4997-8be7-0ca4747f19eb"
             type="64">
           <bendpoints
-              startX="22"
-              startY="58"
-              endX="367"
-              endY="58"/>
+              startX="4"
+              startY="60"
+              endX="397"
+              endY="60"/>
           <bendpoints
-              startX="-278"
-              startY="58"
-              endX="67"
-              endY="58"/>
+              startX="-311"
+              startY="60"
+              endX="82"
+              endY="60"/>
         </sourceConnections>
         <sourceConnections
             id="2ab03af4-c917-4c90-8f83-feb2fcb344f6"
@@ -1556,15 +1562,15 @@
             target="4b64c105-051b-404a-8734-6e714fad6caa"
             type="64">
           <bendpoints
-              startX="7"
-              startY="58"
-              endX="415"
-              endY="-314"/>
+              startX="4"
+              startY="60"
+              endX="412"
+              endY="-312"/>
           <bendpoints
               startX="-221"
-              startY="58"
+              startY="60"
               endX="187"
-              endY="-314"/>
+              endY="-312"/>
           <bendpoints
               startX="-221"
               startY="286"
