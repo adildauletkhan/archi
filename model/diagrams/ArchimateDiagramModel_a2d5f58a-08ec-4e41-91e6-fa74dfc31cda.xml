@@ -1,0 +1,806 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="8.Maintenance Maturity Model.rus"
+    id="a2d5f58a-08ec-4e41-91e6-fa74dfc31cda">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="0dd70d9a-be6b-4a9c-85d2-3cc42cfcc315"
+      font="1|Segoe UI Semibold|9.75|0|WINDOWS|1|-13|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      fontColor="#ffffff"
+      fillColor="#0080ff"
+      content="УСТОЙЧИВОСТЬ"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="15"
+        y="80"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d84215c2-77d0-4399-9fdc-1b2de8a850ce"
+      font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#0080ff"
+      content="Запланированные ТО"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="15"
+        y="145"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ba9b7f1e-de16-4301-bc76-43136a1c4dff"
+      font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#0080ff"
+      content="Надежность Оборудования"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="15"
+        y="210"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d309a098-d702-45ee-99a0-2017ac0cfa64"
+      font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#0080ff"
+      content="Автоматическре ТО"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="15"
+        y="273"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ee01de31-3bb7-4764-b69b-eb380e07eab7"
+      font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#0080ff"
+      content="Раннее/Позднее ТО Активов"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="15"
+        y="335"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="2744a307-40cb-4a9f-aff9-45c8bc5c5615"
+      font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#0080ff"
+      content="Стратегия/Программа"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="15"
+        y="396"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="eef0780c-9f2c-4051-82b1-8961ac35d0d2"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Нет отслеживания"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="217"
+        y="80"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="9711ecfc-2123-4bb6-97da-cb430b7d53b8"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Нет планирования"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="217"
+        y="145"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7f094fae-f855-4844-bcfa-7923dee767eb"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Работает до поломки"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="217"
+        y="210"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="b5c7863b-9443-4d61-9889-4bebc2638876"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Оператор просто использует оборудование"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="217"
+        y="273"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="5a4b61ea-4ef9-44b9-a643-289c2c6b0267"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Нет проектных решений"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="217"
+        y="335"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="e18ce3b4-5fc4-4d6a-83bf-5c833a2d8f70"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="нет стратегии по ТО"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="217"
+        y="396"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="8fca695a-c1ee-4385-abb9-c66278d046c7"
+      font="1|Segoe UI|11.1|1|WINDOWS|1|-37|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#808080"
+      content="Ремонт после поломки"
+      textPosition="1"
+      borderType="2">
+    <sourceConnections
+        id="24b4d095-4522-4894-bf24-66f72867de09"
+        lineWidth="3"
+        lineColor="#808080"
+        source="8fca695a-c1ee-4385-abb9-c66278d046c7"
+        target="244fd689-9c97-4707-9262-da182a5deff3"
+        type="1">
+      <bendpoints
+          startX="-84"
+          startY="-64"
+          endX="-97"
+          endY="-4"/>
+    </sourceConnections>
+    <bounds
+        x="215"
+        y="15"
+        width="171"
+        height="51"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6381b0d8-658c-4e25-899a-52a0d38b8ee9"
+      font="1|Segoe UI|14.1|1|WINDOWS|1|-47|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#808080"
+      content="1"
+      textPosition="1"
+      borderType="2">
+    <bounds
+        x="360"
+        y="22"
+        width="23"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="cd42ebd2-619e-464d-9189-b7a8ad4fc4e5"
+      font="1|Segoe UI|11.1|1|WINDOWS|1|-37|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#ff0000"
+      content="Ремонт до &#xD;&#xA;поломки"
+      textPosition="1"
+      borderType="2">
+    <sourceConnections
+        id="b9ae6c54-4661-40a4-ab4f-10c81974af5d"
+        lineWidth="3"
+        lineColor="#ff0000"
+        source="cd42ebd2-619e-464d-9189-b7a8ad4fc4e5"
+        target="6f89fc90-3929-4106-9497-c4299ddf001c"
+        type="1">
+      <bendpoints
+          startX="-84"
+          startY="-76"
+          endX="-97"
+          endY="-3"/>
+    </sourceConnections>
+    <bounds
+        x="395"
+        y="15"
+        width="171"
+        height="51"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6b03c6e1-f46b-4699-b52b-fcc9e6a56761"
+      font="1|Segoe UI|14.1|1|WINDOWS|1|-47|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#ff0000"
+      content="2"
+      textPosition="1"
+      borderType="2">
+    <bounds
+        x="540"
+        y="22"
+        width="26"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1e890a99-8ceb-40ae-92f8-eea47fa57ce6"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Минимальное отслежнивание"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="397"
+        y="80"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d08d8af4-6bd6-40a8-96ca-d57d3622aa0e"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Планирование материалов и задач"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="397"
+        y="145"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ca2415cb-d04a-44b2-9d97-f9c6dcc6e509"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Ранжирование Активов по критичности"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="397"
+        y="210"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="93b866ab-1552-4767-b12f-b5cc4646f56a"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Оператор может устранить мелкие проблемы"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="397"
+        y="273"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="8a2a8499-6698-439b-9a0b-e4276b58ec4e"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Проектные решения от проектных команд"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="397"
+        y="335"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="2b1db6e7-3246-4373-a885-6eeb736655e4"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Неофициальная стратегия по ТО"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="397"
+        y="396"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d6654e80-4b28-4608-92af-e3cf774efeb9"
+      font="1|Segoe UI|11.1|1|WINDOWS|1|-37|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#ff8040"
+      content="Проверка и &#xD;&#xA;ремонт"
+      textPosition="1"
+      borderType="2">
+    <sourceConnections
+        id="ab170057-b11c-45e4-ab4e-ecd08b5de5cb"
+        lineWidth="3"
+        lineColor="#ff8040"
+        source="d6654e80-4b28-4608-92af-e3cf774efeb9"
+        target="503b2263-18ad-4179-9d41-3d137fc3197b"
+        type="1">
+      <bendpoints
+          startX="-89"
+          startY="-112"
+          endX="-99"
+          endY="-7"/>
+    </sourceConnections>
+    <bounds
+        x="580"
+        y="15"
+        width="171"
+        height="51"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="0b248d51-7db4-4b66-bc24-97ca775205b9"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Ведущий и Отстающий КПД"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="582"
+        y="80"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="5e3c0899-cce5-41a2-91fc-5e486c70b60d"
+      font="1|Segoe UI|14.1|1|WINDOWS|1|-47|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#ff8040"
+      content="3"
+      textPosition="1"
+      borderType="2">
+    <bounds
+        x="720"
+        y="22"
+        width="26"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="758d0e1a-353a-4d0e-a403-ad6698944f0b"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Задачи по ЗТО определены и распределены"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="582"
+        y="145"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="85a17ee1-833e-4dff-a44b-deed79583339"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Время ремонта и превентивность"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="582"
+        y="210"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="fb4fad9f-e72f-4218-be3b-859110f568e5"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Оператор обучен устранению проблем"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="582"
+        y="273"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c8c30e2f-0d15-4740-be16-83e1a3bab891"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Проектные Решения согласно ТО"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="582"
+        y="335"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="e4c02783-10cc-43e4-910f-ff592166eb4d"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Официальная стратегия по ТО"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="582"
+        y="396"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c5e76d69-bd93-4bb3-855d-030f96e15a7c"
+      font="1|Segoe UI|11.1|1|WINDOWS|1|-37|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#008000"
+      content="Не просто ремонт, улучшение"
+      textPosition="1"
+      borderType="2">
+    <sourceConnections
+        id="b01bf055-fc4e-403b-b873-92a450de4c11"
+        lineWidth="3"
+        lineColor="#008000"
+        source="c5e76d69-bd93-4bb3-855d-030f96e15a7c"
+        target="3845baa8-d64d-4531-93ca-501893075948"
+        type="1">
+      <bendpoints
+          startX="-82"
+          startY="-136"
+          endX="-92"
+          endY="1"/>
+    </sourceConnections>
+    <bounds
+        x="765"
+        y="15"
+        width="171"
+        height="51"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="5ce18eaa-f9ef-492e-aa0c-7edca15a713e"
+      font="1|Segoe UI|14.1|1|WINDOWS|1|-47|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#008000"
+      content="4"
+      textPosition="1"
+      borderType="2">
+    <bounds
+        x="907"
+        y="22"
+        width="26"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a3fd0e97-765c-4e3d-ad87-8ce2a4ce2265"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Непрерывное улучшение"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="767"
+        y="80"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="5f94048c-3abc-4f01-8b71-5876a060f52a"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="CM/ЗТО планируется и отслеживается"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="767"
+        y="145"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a86328a1-4159-449f-8597-039f20e4f277"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="На основе Рисков и превентивность"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="767"
+        y="210"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1327b80d-cd73-4ec6-9f39-ab9494319492"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Оператор проводит полное ТО"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="767"
+        y="273"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="28f6b8a5-50f9-4b5d-aa5f-a0869c93b5ca"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Регулярное обновлени стратегии по ТО"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="767"
+        y="396"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6718a26c-2bb6-4be3-a562-065f49348609"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Upfront Design Out of Non Reliabilities&#xD;&#xA;"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="767"
+        y="335"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="af88ce7d-b526-4b84-9893-cc244e532ac4"
+      font="1|Segoe UI|11.1|1|WINDOWS|1|-37|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#0080ff"
+      content="Постоянное улучшение"
+      textPosition="1"
+      borderType="2">
+    <sourceConnections
+        id="9bb5cd53-5a0f-4684-9f3a-98b2ad71d570"
+        lineWidth="3"
+        lineColor="#0080ff"
+        source="af88ce7d-b526-4b84-9893-cc244e532ac4"
+        target="3981264b-9e8b-4c71-9d95-8184f33e8392"
+        type="1">
+      <bendpoints
+          startX="-87"
+          startY="-148"
+          endX="-115"
+          endY="-2"/>
+    </sourceConnections>
+    <bounds
+        x="950"
+        y="15"
+        width="171"
+        height="51"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3ab564bc-8912-481b-810e-50ab682855f8"
+      font="1|Segoe UI|14.1|1|WINDOWS|1|-47|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#0080ff"
+      content="5"
+      textPosition="1"
+      borderType="2">
+    <bounds
+        x="1092"
+        y="22"
+        width="26"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="2756b99f-4827-4388-b4df-71ffc7c60921"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Ориентированное на ценности"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="952"
+        y="80"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c6f925b2-edc1-4415-8f15-f26f17770812"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="ТО и производство объединены в Автоматизированной Системе Уравлени ТО"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="952"
+        y="145"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="e5ca0fc3-ce44-4fd9-a247-d48e5536d16b"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="На основе Состояния и Превентивность"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="952"
+        y="210"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="8f2df61d-946d-42f6-a6b3-6036ada25718"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Операторы владельцы (ответственные) оборудования"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="952"
+        y="273"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="e4df462e-8de7-4820-b6f6-393506056097"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Оптимизирован жизненный цикл Стоимости"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="952"
+        y="335"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="27c24941-5bd7-464d-a846-27268d3b9a0b"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      fillColor="#e2e2e2"
+      content="Стратегия управления жизненым циклом Активов"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="952"
+        y="396"
+        width="166"
+        height="56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="244fd689-9c97-4707-9262-da182a5deff3"
+      targetConnections="24b4d095-4522-4894-bf24-66f72867de09"
+      font="1|Segoe UI Semibold|9.75|0|WINDOWS|1|-13|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      content="НЕВИННОСТЬ"
+      borderType="2">
+    <bounds
+        x="240"
+        y="-36"
+        width="146"
+        height="41"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="503b2263-18ad-4179-9d41-3d137fc3197b"
+      targetConnections="ab170057-b11c-45e4-ab4e-ecd08b5de5cb"
+      font="1|Segoe UI Semibold|9.75|0|WINDOWS|1|-13|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      content="ПОНИМАНИЕ"
+      borderType="2">
+    <bounds
+        x="612"
+        y="-82"
+        width="146"
+        height="35"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6f89fc90-3929-4106-9497-c4299ddf001c"
+      targetConnections="b9ae6c54-4661-40a4-ab4f-10c81974af5d"
+      font="1|Segoe UI Semibold|9.75|0|WINDOWS|1|-13|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      content="ОСВЕДОМЛЕННОСТЬ"
+      borderType="2">
+    <bounds
+        x="420"
+        y="-60"
+        width="146"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3845baa8-d64d-4531-93ca-501893075948"
+      targetConnections="b01bf055-fc4e-403b-b873-92a450de4c11"
+      font="1|Segoe UI Semibold|9.75|0|WINDOWS|1|-13|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      content="КОМПЕТЕНТНОСТЬ"
+      borderType="2">
+    <bounds
+        x="787"
+        y="-112"
+        width="146"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3981264b-9e8b-4c71-9d95-8184f33e8392"
+      targetConnections="9bb5cd53-5a0f-4684-9f3a-98b2ad71d570"
+      font="1|Segoe UI Semibold|9.75|0|WINDOWS|1|-13|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      content="ПРЕВОСХОДСТВО"
+      borderType="2">
+    <bounds
+        x="984"
+        y="-120"
+        width="182"
+        height="29"/>
+  </children>
+</archimate:ArchimateDiagramModel>
