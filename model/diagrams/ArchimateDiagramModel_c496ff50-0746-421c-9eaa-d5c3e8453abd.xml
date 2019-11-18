@@ -40,7 +40,7 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
-      content="EQUIPMENT RELIABILITY"
+      content="EQUIPMENT RELIABILITY/ НАДЕЖНОСТЬ ОБОРУДОВАНИЯ"
       textPosition="1">
     <bounds
         x="15"
@@ -55,7 +55,7 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
-      content="AUTONOMOUS MAINTENANCE&#xD;&#xA;"
+      content="AUTONOMOUS MAINTENANCE/ АВТОНОМНОЕ ОБСЛУЖИВАНИЕ&#xD;&#xA;"
       textPosition="1">
     <bounds
         x="15"
@@ -70,7 +70,7 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
-      content="EARLY &amp; LATE ASSET MANAGEMENT"
+      content="EARLY &amp; LATE ASSET MANAGEMENT/ РАННЕЕ И ПОЗДНЕЕ УПРАВЛЕНИЕ АКТИВАМИ"
       textPosition="1">
     <bounds
         x="15"
@@ -85,7 +85,7 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
-      content="STRATEGY/PROGRAM"
+      content="STRATEGY/PROGRAM / СТРАТЕГИЯ/ПРОГРАММА"
       textPosition="1">
     <bounds
         x="15"
@@ -178,7 +178,7 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#808080"
-      content="Fix it after it fails "
+      content="Fix it after it fails (исправить после того, как это потерпит неудачу&#xD;&#xA;"
       textPosition="1">
     <bounds
         x="215"
