@@ -92,10 +92,10 @@
           href="AssignmentRelationship_874607b7-326e-450a-8364-5c920a99ce24.xml#874607b7-326e-450a-8364-5c920a99ce24"/>
     </sourceConnections>
     <bounds
-        x="312"
-        y="264"
-        width="1176"
-        height="1021"/>
+        x="-24"
+        y="252"
+        width="1212"
+        height="865"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="dd7776e6-1ca2-4280-8c26-ff0bba8b2a24"
@@ -106,13 +106,18 @@
           id="e6909e40-9d8b-4fd0-b0f6-98c7ae0e8200"
           source="dd7776e6-1ca2-4280-8c26-ff0bba8b2a24"
           target="1aada2e3-024b-473f-b46b-80eb144e952e">
+        <bendpoints
+            startX="67"
+            startY="130"
+            endX="-302"
+            endY="-14"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_849b766d-b6cd-4fd2-8a80-24d785ec87cc.xml#849b766d-b6cd-4fd2-8a80-24d785ec87cc"/>
       </sourceConnections>
       <bounds
-          x="47"
-          y="804"
+          x="480"
+          y="564"
           width="300"
           height="55"/>
       <archimateElement
@@ -129,13 +134,18 @@
           id="82fa72bc-966c-4432-91c6-3b55c47f3535"
           source="66ebc85a-3686-4db9-9cfa-22e16a59eda6"
           target="ef6f335b-beb8-449e-a034-5a2dfdc052cb">
+        <bendpoints
+            startX="232"
+            startY="-14"
+            endX="-212"
+            endY="-14"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_bda3d601-ee56-4cbb-bdee-9104eb1f0dde.xml#bda3d601-ee56-4cbb-bdee-9104eb1f0dde"/>
       </sourceConnections>
       <bounds
-          x="48"
-          y="468"
+          x="63"
+          y="276"
           width="300"
           height="55"/>
       <archimateElement
@@ -157,8 +167,8 @@
             href="AccessRelationship_c94906f1-c180-46b0-8243-b35f2a01a68d.xml#c94906f1-c180-46b0-8243-b35f2a01a68d"/>
       </sourceConnections>
       <bounds
-          x="48"
-          y="636"
+          x="900"
+          y="438"
           width="300"
           height="55"/>
       <archimateElement
@@ -180,8 +190,8 @@
             href="AccessRelationship_3ad171d0-3f5c-499a-9def-76df946e9b7f.xml#3ad171d0-3f5c-499a-9def-76df946e9b7f"/>
       </sourceConnections>
       <bounds
-          x="48"
-          y="384"
+          x="507"
+          y="156"
           width="300"
           height="55"/>
       <archimateElement
@@ -198,13 +208,23 @@
           id="aad03833-2891-444f-80eb-7753ec7756b5"
           source="4b64c105-051b-404a-8734-6e714fad6caa"
           target="27c9b5db-f232-4e61-9b32-89fc7481497b">
+        <bendpoints
+            startX="67"
+            startY="82"
+            endX="-314"
+            endY="-56"/>
+        <bendpoints
+            startX="331"
+            startY="82"
+            endX="-50"
+            endY="-56"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_c894128b-ea5a-4bc3-9662-891df6cdc58c.xml#c894128b-ea5a-4bc3-9662-891df6cdc58c"/>
       </sourceConnections>
       <bounds
-          x="48"
-          y="720"
+          x="492"
+          y="408"
           width="300"
           height="55"/>
       <archimateElement
@@ -226,7 +246,7 @@
             href="AccessRelationship_c9be492a-5bce-4c73-808d-4a16f85e6701.xml#c9be492a-5bce-4c73-808d-4a16f85e6701"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="507"
           y="36"
           width="300"
           height="55"/>
@@ -249,8 +269,8 @@
             href="AccessRelationship_30a913c9-a48f-4f7c-ae50-cd29260c581c.xml#30a913c9-a48f-4f7c-ae50-cd29260c581c"/>
       </sourceConnections>
       <bounds
-          x="48"
-          y="549"
+          x="60"
+          y="372"
           width="300"
           height="61"/>
       <archimateElement
@@ -272,8 +292,8 @@
             href="AccessRelationship_10561cb5-b5cc-4c84-92a2-f0ff30cbbde3.xml#10561cb5-b5cc-4c84-92a2-f0ff30cbbde3"/>
       </sourceConnections>
       <bounds
-          x="47"
-          y="888"
+          x="60"
+          y="744"
           width="300"
           height="55"/>
       <archimateElement
@@ -295,8 +315,8 @@
             href="AccessRelationship_ae25f83c-0d08-4b7d-b101-acc971d1301b.xml#ae25f83c-0d08-4b7d-b101-acc971d1301b"/>
       </sourceConnections>
       <bounds
-          x="48"
-          y="300"
+          x="60"
+          y="36"
           width="300"
           height="55"/>
       <archimateElement
@@ -306,53 +326,13 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1ef6b1d7-7ec5-4985-93ef-1c70d6daeaee"
-        targetConnections="103cf48a-9689-4de2-94ed-88af5aed1cc5">
+        targetConnections="103cf48a-9689-4de2-94ed-88af5aed1cc5"
+        fillColor="#00dfdf">
       <bounds
-          x="439"
-          y="549"
+          x="75"
+          y="492"
           width="270"
           height="55"/>
-      <children
-          xsi:type="archimate:DiagramModelNote"
-          id="3fcd5986-e2ed-4e62-b491-9baf62e7ad72"
-          textAlignment="1"
-          alpha="50"
-          borderType="1">
-        <sourceConnections
-            id="16d75761-3efe-4dd5-8fc0-066b6c698624"
-            source="3fcd5986-e2ed-4e62-b491-9baf62e7ad72"
-            target="6b94e5d2-f51a-4997-8be7-0ca4747f19eb">
-          <bendpoints
-              startX="10"
-              startY="-62"
-              endX="450"
-              endY="-50"/>
-          <bendpoints
-              startX="-350"
-              startY="-62"
-              endX="90"
-              endY="-50"/>
-        </sourceConnections>
-        <sourceConnections
-            id="37f6f3a8-308e-4be2-b21d-9949971acf52"
-            source="3fcd5986-e2ed-4e62-b491-9baf62e7ad72"
-            target="05d0da88-7d20-4c82-b62a-d7b7201a6917"/>
-        <sourceConnections
-            id="45c67453-681d-40de-8036-d2bf234a7193"
-            source="3fcd5986-e2ed-4e62-b491-9baf62e7ad72"
-            target="7b79a26d-8ce4-4734-88ff-9dbef51aa743"/>
-        <sourceConnections
-            id="16677a91-2f56-4dd1-a4e6-5c213eb64869"
-            source="3fcd5986-e2ed-4e62-b491-9baf62e7ad72"
-            target="573c33bd-ba66-4d7b-b1e4-e686410366a5"/>
-        <sourceConnections
-            id="408f5fed-d18b-45f7-a3f4-034dd34dd60a"
-            source="3fcd5986-e2ed-4e62-b491-9baf62e7ad72"
-            target="518c581c-6cde-42c2-a874-41654025763d"/>
-        <bounds
-            width="270"
-            height="55"/>
-      </children>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_2cfaaf8d-347f-40c6-9db0-03f4ef38d065.xml#2cfaaf8d-347f-40c6-9db0-03f4ef38d065"/>
@@ -360,42 +340,13 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ba2e6e11-afc2-4ffb-8494-df562036b7d2"
-        targetConnections="27c3e272-12b6-41ba-9d3d-f3c2ac980d7c">
+        targetConnections="27c3e272-12b6-41ba-9d3d-f3c2ac980d7c"
+        fillColor="#00dfdf">
       <bounds
-          x="468"
-          y="876"
+          x="63"
+          y="618"
           width="270"
           height="55"/>
-      <children
-          xsi:type="archimate:DiagramModelNote"
-          id="2c5586df-f7d3-4cbd-8f81-c82f2386d13e"
-          textAlignment="1"
-          alpha="50"
-          borderType="1">
-        <sourceConnections
-            id="94aff4a2-b220-4ffa-8856-e44f07814e44"
-            source="2c5586df-f7d3-4cbd-8f81-c82f2386d13e"
-            target="05d0da88-7d20-4c82-b62a-d7b7201a6917"/>
-        <sourceConnections
-            id="f087ade4-c42f-423f-97ad-de4344f86010"
-            source="2c5586df-f7d3-4cbd-8f81-c82f2386d13e"
-            target="97b5cb43-8917-4126-92b9-01b121dbf841"/>
-        <sourceConnections
-            id="96f43495-26ce-435c-84a4-421d03fb9215"
-            source="2c5586df-f7d3-4cbd-8f81-c82f2386d13e"
-            target="05cbc691-da6c-4fd6-9b04-556a6b92b3fe"/>
-        <sourceConnections
-            id="1ffe4d24-1320-4fa0-9c54-bae96978d9b6"
-            source="2c5586df-f7d3-4cbd-8f81-c82f2386d13e"
-            target="76cbd425-7065-4ddd-bff7-28c6cf1e7335"/>
-        <sourceConnections
-            id="976d9ee2-7684-486f-8d97-94209d982610"
-            source="2c5586df-f7d3-4cbd-8f81-c82f2386d13e"
-            target="573c33bd-ba66-4d7b-b1e4-e686410366a5"/>
-        <bounds
-            width="270"
-            height="55"/>
-      </children>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_81a60fda-16ef-4b3d-8bed-46ba6d8314b8.xml#81a60fda-16ef-4b3d-8bed-46ba6d8314b8"/>
@@ -403,10 +354,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="cbae74df-4ec8-44c3-8190-8e09a9b57a71"
-        targetConnections="9ed36bf5-76d4-474f-a95c-6de3d65741d6">
+        targetConnections="9ed36bf5-76d4-474f-a95c-6de3d65741d6"
+        fillColor="#00dfdf">
       <bounds
-          x="408"
-          y="300"
+          x="75"
+          y="144"
           width="270"
           height="55"/>
       <children
@@ -417,28 +369,115 @@
           borderType="1">
         <sourceConnections
             id="c39d9eac-7bac-46d1-9433-7c56e539e181"
+            lineColor="#008000"
             source="939ee59a-fe8a-4525-915e-518f7cb9853b"
-            target="97b5cb43-8917-4126-92b9-01b121dbf841"/>
+            target="97b5cb43-8917-4126-92b9-01b121dbf841"
+            type="64">
+          <bendpoints
+              startX="-173"
+              startY="10"
+              endX="-173"
+              endY="-221"/>
+          <bendpoints
+              startX="-173"
+              startY="226"
+              endX="-173"
+              endY="-5"/>
+        </sourceConnections>
         <sourceConnections
             id="364036e0-8e20-428a-ac87-f679990a3888"
+            lineColor="#008000"
             source="939ee59a-fe8a-4525-915e-518f7cb9853b"
-            target="d5ec53f4-6eec-42a1-b50b-2fab7a145b8e"/>
+            target="d5ec53f4-6eec-42a1-b50b-2fab7a145b8e"
+            type="64">
+          <bendpoints
+              startX="-173"
+              startY="10"
+              endX="-173"
+              endY="-590"/>
+          <bendpoints
+              startX="-173"
+              startY="598"
+              endX="-173"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="a8ed5e37-8a51-4e0b-b868-6dda44d683c5"
+            lineColor="#008000"
             source="939ee59a-fe8a-4525-915e-518f7cb9853b"
-            target="4b64c105-051b-404a-8734-6e714fad6caa"/>
+            target="4b64c105-051b-404a-8734-6e714fad6caa"
+            type="64">
+          <bendpoints
+              startX="67"
+              startY="82"
+              endX="-365"
+              endY="-182"/>
+          <bendpoints
+              startX="247"
+              startY="82"
+              endX="-185"
+              endY="-182"/>
+          <bendpoints
+              startX="247"
+              startY="202"
+              endX="-185"
+              endY="-62"/>
+          <bendpoints
+              startX="331"
+              startY="202"
+              endX="-101"
+              endY="-62"/>
+        </sourceConnections>
         <sourceConnections
             id="5bad9017-2539-4d0c-b215-adac81ec44ed"
+            lineColor="#0080ff"
             source="939ee59a-fe8a-4525-915e-518f7cb9853b"
-            target="374d99c6-630a-4f54-bf74-9f61ecba99a7"/>
+            target="374d99c6-630a-4f54-bf74-9f61ecba99a7"
+            type="64">
+          <bendpoints
+              startX="-220"
+              startY="-2"
+              endX="-216"
+              endY="-924"/>
+          <bendpoints
+              startX="-234"
+              startY="922"
+              endX="-194"/>
+        </sourceConnections>
         <sourceConnections
             id="9d8bfb58-8a6c-4b64-923e-d1cc66f5f700"
+            lineColor="#0080ff"
             source="939ee59a-fe8a-4525-915e-518f7cb9853b"
-            target="76cbd425-7065-4ddd-bff7-28c6cf1e7335"/>
+            target="76cbd425-7065-4ddd-bff7-28c6cf1e7335"
+            type="64">
+          <bendpoints
+              startX="199"
+              startY="-14"
+              endX="-602"
+              endY="-864"/>
+          <bendpoints
+              startX="211"
+              startY="706"
+              endX="-624"
+              endY="-144"/>
+          <bendpoints
+              startX="751"
+              startY="706"
+              endX="-84"
+              endY="-144"/>
+        </sourceConnections>
         <sourceConnections
             id="d60e9bc1-c54d-4a38-9de8-d1c1b6179068"
+            lineColor="#0080ff"
             source="939ee59a-fe8a-4525-915e-518f7cb9853b"
-            target="e6cc902f-23b3-4354-8433-4f218db2fd8a"/>
+            target="e6cc902f-23b3-4354-8433-4f218db2fd8a"
+            type="64">
+          <bendpoints
+              startX="43"
+              startY="-38"
+              endX="-1250"
+              endY="-2"/>
+        </sourceConnections>
         <bounds
             width="270"
             height="55"/>
@@ -450,10 +489,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="27c9b5db-f232-4e61-9b32-89fc7481497b"
-        targetConnections="aad03833-2891-444f-80eb-7753ec7756b5">
+        targetConnections="aad03833-2891-444f-80eb-7753ec7756b5"
+        fillColor="#00dfdf">
       <bounds
-          x="468"
-          y="732"
+          x="888"
+          y="546"
           width="270"
           height="55"/>
       <children
@@ -464,60 +504,251 @@
           borderType="1">
         <sourceConnections
             id="425d2267-ded7-4c23-aab9-c1db319b5905"
+            lineColor="#008000"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="6b94e5d2-f51a-4997-8be7-0ca4747f19eb"/>
+            target="6b94e5d2-f51a-4997-8be7-0ca4747f19eb"
+            type="64">
+          <bendpoints
+              startX="-146"
+              startY="4"
+              endX="220"
+              endY="514"/>
+          <bendpoints
+              startX="-146"
+              startY="-524"
+              endX="220"
+              endY="-14"/>
+        </sourceConnections>
         <sourceConnections
             id="31f0952d-3b1a-4141-be7b-baf5b2262472"
+            lineColor="#008000"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="05d0da88-7d20-4c82-b62a-d7b7201a6917"/>
+            target="05d0da88-7d20-4c82-b62a-d7b7201a6917"
+            type="64">
+          <bendpoints
+              startX="-542"
+              startY="-20"
+              endX="271"
+              endY="490"/>
+          <bendpoints
+              startX="-542"
+              startY="-500"
+              endX="271"
+              endY="10"/>
+        </sourceConnections>
         <sourceConnections
             id="4e7a0829-0460-43ad-a6ff-491d067154f5"
+            lineColor="#008000"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="97b5cb43-8917-4126-92b9-01b121dbf841"/>
+            target="97b5cb43-8917-4126-92b9-01b121dbf841"
+            type="64">
+          <bendpoints
+              startX="-446"
+              startY="-20"
+              endX="367"
+              endY="151"/>
+          <bendpoints
+              startX="-446"
+              startY="-92"
+              endX="367"
+              endY="79"/>
+          <bendpoints
+              startX="-758"
+              startY="-92"
+              endX="55"
+              endY="79"/>
+        </sourceConnections>
         <sourceConnections
             id="4bf1d665-48a8-4636-8f18-e1ca70dd8b1e"
+            lineColor="#008000"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="dd7776e6-1ca2-4280-8c26-ff0bba8b2a24"/>
+            target="dd7776e6-1ca2-4280-8c26-ff0bba8b2a24"
+            type="64">
+          <bendpoints
+              startX="-2"
+              startY="88"
+              endX="391"
+              endY="70"/>
+          <bendpoints
+              startX="-398"
+              startY="88"
+              endX="-5"
+              endY="70"/>
+        </sourceConnections>
         <sourceConnections
             id="aeddec27-e98b-47bd-88a1-825fc358ffe3"
+            lineColor="#0080ff"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="05cbc691-da6c-4fd6-9b04-556a6b92b3fe"/>
+            target="05cbc691-da6c-4fd6-9b04-556a6b92b3fe"
+            type="64">
+          <bendpoints
+              startX="-110"
+              startY="112"
+              endX="742"
+              endY="-456"/>
+          <bendpoints
+              startX="-590"
+              startY="112"
+              endX="262"
+              endY="-456"/>
+          <bendpoints
+              startX="-590"
+              startY="568"
+              endX="262"/>
+        </sourceConnections>
         <sourceConnections
             id="59c55788-5531-4878-9387-f30e37b72e00"
+            lineColor="#0080ff"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="b76daa4e-9d95-43ca-8607-9275eec79e50"/>
+            target="b76daa4e-9d95-43ca-8607-9275eec79e50"
+            type="64">
+          <bendpoints
+              startX="-110"
+              startY="112"
+              endX="-98"
+              endY="-410"/>
+          <bendpoints
+              startX="-182"
+              startY="112"
+              endX="-170"
+              endY="-410"/>
+          <bendpoints
+              startX="-182"
+              startY="532"
+              endX="-170"
+              endY="10"/>
+        </sourceConnections>
         <sourceConnections
             id="7c884298-31f0-42ff-a750-d3276f532dca"
+            lineColor="#0080ff"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="cf230e79-2df8-4ec1-a14b-bb1ae2a784e1"/>
+            target="cf230e79-2df8-4ec1-a14b-bb1ae2a784e1"
+            type="64">
+          <bendpoints
+              startX="-122"
+              startY="-752"
+              endX="-153"
+              endY="-10"/>
+        </sourceConnections>
         <sourceConnections
             id="efef6b1a-3ae0-49c1-bf95-602d1db63b11"
+            lineColor="#0080ff"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="ff08e497-77e0-41d0-ab55-56b92ce7f0e0"/>
+            target="ff08e497-77e0-41d0-ab55-56b92ce7f0e0"
+            type="64">
+          <bendpoints
+              startX="274"
+              startY="4"
+              endX="-206"
+              endY="-74"/>
+          <bendpoints
+              startX="274"
+              startY="76"
+              endX="-206"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="52425012-cb49-4af2-991b-85cf174dc41f"
+            lineColor="#0080ff"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="511397f1-a67a-4f1f-829a-bffdf244a7bc"/>
+            target="511397f1-a67a-4f1f-829a-bffdf244a7bc"
+            type="64">
+          <bendpoints
+              startX="274"
+              startY="4"
+              endX="-206"
+              endY="-134"/>
+          <bendpoints
+              startX="274"
+              startY="124"
+              endX="-206"
+              endY="-14"/>
+        </sourceConnections>
         <sourceConnections
             id="092631d3-a49c-46d7-bda8-8a89beb261e3"
+            lineColor="#0080ff"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="6356f9c6-d972-484d-8421-c0ef3d85917c"/>
+            target="6356f9c6-d972-484d-8421-c0ef3d85917c"
+            type="64">
+          <bendpoints
+              startX="274"
+              startY="4"
+              endX="-206"
+              endY="-242"/>
+          <bendpoints
+              startX="274"
+              startY="232"
+              endX="-206"
+              endY="-14"/>
+        </sourceConnections>
         <sourceConnections
             id="dfc6b407-17ba-4cc1-bd90-7b4113d3c829"
+            lineColor="#0080ff"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="fa144e0d-92e6-4a9d-9d02-4a2d18452a44"/>
+            target="fa144e0d-92e6-4a9d-9d02-4a2d18452a44"
+            type="64">
+          <bendpoints
+              startX="274"
+              startY="4"
+              endX="-206"
+              endY="-302"/>
+          <bendpoints
+              startX="274"
+              startY="304"
+              endX="-206"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="d92bbb6c-78bb-4549-a7c2-33381977e1ff"
+            lineColor="#0080ff"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="0016ab27-d68f-4603-b22e-5359f8b18680"/>
+            target="0016ab27-d68f-4603-b22e-5359f8b18680"
+            type="64">
+          <bendpoints
+              startX="274"
+              startY="4"
+              endX="-206"
+              endY="-422"/>
+          <bendpoints
+              startX="274"
+              startY="412"
+              endX="-206"
+              endY="-14"/>
+        </sourceConnections>
         <sourceConnections
             id="1a61fe8d-2cf4-4822-b453-4e5885bc2daa"
+            lineColor="#0080ff"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="e5c56f3c-6cba-4c00-8e61-f6666481ba1c"/>
+            target="e5c56f3c-6cba-4c00-8e61-f6666481ba1c"
+            type="64">
+          <bendpoints
+              startX="274"
+              startY="4"
+              endX="-206"
+              endY="-602"/>
+          <bendpoints
+              startX="274"
+              startY="616"
+              endX="-206"
+              endY="10"/>
+        </sourceConnections>
         <sourceConnections
             id="07c80896-ed4c-4218-b9f4-b129e272a813"
+            lineColor="#0080ff"
             source="b949cabd-48a3-402e-b9c6-b312332b4561"
-            target="db3fe1f4-a3e0-41e3-9147-975a373a1960"/>
+            target="db3fe1f4-a3e0-41e3-9147-975a373a1960"
+            type="64">
+          <bendpoints
+              startX="274"
+              startY="4"
+              endX="-206"
+              endY="382"/>
+          <bendpoints
+              startX="274"
+              startY="-380"
+              endX="-206"
+              endY="-2"/>
+        </sourceConnections>
         <bounds
             width="270"
             height="55"/>
@@ -529,12 +760,128 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5523150c-f827-42ea-8e68-c648fec81e15"
-        targetConnections="6b44abc1-02ee-43b7-9c05-71cc49483840">
+        targetConnections="6b44abc1-02ee-43b7-9c05-71cc49483840"
+        fillColor="#00dfdf">
       <bounds
-          x="720"
-          y="372"
+          x="915"
+          y="168"
           width="270"
           height="79"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="5294088a-886a-45aa-9c09-aef27f547b10"
+          textAlignment="1"
+          alpha="50"
+          borderType="1">
+        <sourceConnections
+            id="d7a15426-ef45-4581-b800-a05ad1d8945e"
+            lineColor="#0080ff"
+            source="5294088a-886a-45aa-9c09-aef27f547b10"
+            target="0520751b-78a1-4ea5-a27a-b8e8c3c10763"
+            type="64">
+          <bendpoints
+              startX="187"
+              startY="12"
+              endX="-266"
+              endY="-86"/>
+          <bendpoints
+              startX="187"
+              startY="84"
+              endX="-266"
+              endY="-14"/>
+        </sourceConnections>
+        <sourceConnections
+            id="7de38be3-678a-4b5b-b959-e2bdf6011dfa"
+            lineColor="#0080ff"
+            source="5294088a-886a-45aa-9c09-aef27f547b10"
+            target="573c33bd-ba66-4d7b-b1e4-e686410366a5"
+            type="64">
+          <bendpoints
+              startX="-209"
+              startY="24"
+              endX="-213"
+              endY="327"/>
+          <bendpoints
+              startX="-209"
+              startY="-240"
+              endX="-213"
+              endY="63"/>
+          <bendpoints
+              startX="-101"
+              startY="-240"
+              endX="-105"
+              endY="63"/>
+        </sourceConnections>
+        <sourceConnections
+            id="83d6448b-9397-4023-a7fd-7018e8298138"
+            lineColor="#0080ff"
+            source="5294088a-886a-45aa-9c09-aef27f547b10"
+            target="1fc272fd-66fb-415c-9bc1-002ebcf404de"
+            type="64">
+          <bendpoints
+              startX="-53"
+              startY="108"
+              endX="394"
+              endY="-722"/>
+          <bendpoints
+              startX="-245"
+              startY="108"
+              endX="202"
+              endY="-722"/>
+          <bendpoints
+              startX="-245"
+              startY="720"
+              endX="202"
+              endY="-110"/>
+          <bendpoints
+              startX="-365"
+              startY="720"
+              endX="82"
+              endY="-110"/>
+        </sourceConnections>
+        <sourceConnections
+            id="785a4a91-78c5-4ecb-acb3-7558e7950885"
+            lineColor="#008000"
+            source="5294088a-886a-45aa-9c09-aef27f547b10"
+            target="dd7776e6-1ca2-4280-8c26-ff0bba8b2a24"
+            type="64">
+          <bendpoints
+              startX="-185"
+              startY="24"
+              endX="235"
+              endY="-362"/>
+          <bendpoints
+              startX="-233"
+              startY="24"
+              endX="187"
+              endY="-362"/>
+          <bendpoints
+              startX="-233"
+              startY="300"
+              endX="187"
+              endY="-86"/>
+          <bendpoints
+              startX="-233"
+              startY="384"
+              endX="187"
+              endY="-2"/>
+        </sourceConnections>
+        <sourceConnections
+            id="6f77cdb5-7a93-4f8b-ba79-4abddf5153aa"
+            lineColor="#008000"
+            source="5294088a-886a-45aa-9c09-aef27f547b10"
+            target="66ebc85a-3686-4db9-9cfa-22e16a59eda6"
+            type="64">
+          <bendpoints
+              startX="-845"
+              startY="24"
+              endX="-8"
+              endY="-74"/>
+        </sourceConnections>
+        <bounds
+            width="270"
+            height="73"/>
+      </children>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_c1df554b-9cb6-4a75-ae09-42ae012e9aae.xml#c1df554b-9cb6-4a75-ae09-42ae012e9aae"/>
@@ -542,10 +889,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1aada2e3-024b-473f-b46b-80eb144e952e"
-        targetConnections="e6909e40-9d8b-4fd0-b0f6-98c7ae0e8200">
+        targetConnections="e6909e40-9d8b-4fd0-b0f6-98c7ae0e8200"
+        fillColor="#00dfdf">
       <bounds
-          x="468"
-          y="804"
+          x="864"
+          y="708"
           width="270"
           height="55"/>
       <children
@@ -557,56 +905,235 @@
           borderType="1">
         <sourceConnections
             id="07febfc8-1682-4a25-b558-2d455372d52b"
+            lineColor="#0080ff"
             source="35955026-070b-4433-8cd5-d491b4f93ea6"
-            target="5d169d81-335f-4966-beb4-55a6feb0ccda"/>
+            target="5d169d81-335f-4966-beb4-55a6feb0ccda"
+            type="64">
+          <bendpoints
+              startX="-2"
+              startY="-62"
+              endX="351"
+              endY="819"/>
+          <bendpoints
+              startX="-146"
+              startY="-62"
+              endX="207"
+              endY="819"/>
+          <bendpoints
+              startX="-146"
+              startY="-878"
+              endX="207"
+              endY="3"/>
+        </sourceConnections>
         <sourceConnections
             id="12e751e0-e3d3-4177-802d-509671408b14"
+            lineColor="#0080ff"
             source="35955026-070b-4433-8cd5-d491b4f93ea6"
-            target="0520751b-78a1-4ea5-a27a-b8e8c3c10763"/>
+            target="0520751b-78a1-4ea5-a27a-b8e8c3c10763"
+            type="64">
+          <bendpoints
+              startX="334"
+              startY="-14"
+              endX="-170"
+              endY="418"/>
+          <bendpoints
+              startX="334"
+              startY="-434"
+              endX="-170"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="391d94ad-43f1-46e9-95b8-26728dd0d1f3"
+            lineColor="#0080ff"
             source="35955026-070b-4433-8cd5-d491b4f93ea6"
-            target="4fc856b5-4882-46f2-a3e2-3fa1c849a92d"/>
+            target="4fc856b5-4882-46f2-a3e2-3fa1c849a92d"
+            type="64">
+          <bendpoints
+              startX="334"
+              startY="-14"
+              endX="-170"
+              endY="-518"/>
+          <bendpoints
+              startX="334"
+              startY="502"
+              endX="-170"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="d500a55f-5e36-4c6b-ae2f-f39831707892"
+            lineColor="#0080ff"
             source="35955026-070b-4433-8cd5-d491b4f93ea6"
-            target="e5c56f3c-6cba-4c00-8e61-f6666481ba1c"/>
+            target="e5c56f3c-6cba-4c00-8e61-f6666481ba1c"
+            type="64">
+          <bendpoints
+              startX="334"
+              startY="-14"
+              endX="-170"
+              endY="-458"/>
+          <bendpoints
+              startX="334"
+              startY="442"
+              endX="-170"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="a9352c3d-051d-40b5-9ea0-a1f98d021e9a"
+            lineColor="#0080ff"
             source="35955026-070b-4433-8cd5-d491b4f93ea6"
-            target="20c62f63-8265-4954-89da-c0f26343f747"/>
+            target="20c62f63-8265-4954-89da-c0f26343f747"
+            type="64">
+          <bendpoints
+              startX="334"
+              startY="-14"
+              endX="-170"
+              endY="-398"/>
+          <bendpoints
+              startX="334"
+              startY="394"
+              endX="-170"
+              endY="10"/>
+        </sourceConnections>
         <sourceConnections
             id="3afe170a-0870-4472-8e38-3e1d3772dd6e"
+            lineColor="#0080ff"
             source="35955026-070b-4433-8cd5-d491b4f93ea6"
-            target="0016ab27-d68f-4603-b22e-5359f8b18680"/>
+            target="0016ab27-d68f-4603-b22e-5359f8b18680"
+            type="64">
+          <bendpoints
+              startX="334"
+              startY="-14"
+              endX="-170"
+              endY="-278"/>
+          <bendpoints
+              startX="334"
+              startY="262"
+              endX="-170"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="6c86f397-e1f9-4555-ae48-0eed596665a2"
+            lineColor="#0080ff"
             source="35955026-070b-4433-8cd5-d491b4f93ea6"
-            target="f0fd6a5b-2761-4cd9-bd53-df3b2032ae6c"/>
+            target="f0fd6a5b-2761-4cd9-bd53-df3b2032ae6c"
+            type="64">
+          <bendpoints
+              startX="334"
+              startY="-14"
+              endX="-170"
+              endY="-218"/>
+          <bendpoints
+              startX="334"
+              startY="202"
+              endX="-170"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="0864851e-1973-4219-9e34-d4e91339336a"
+            lineColor="#0080ff"
             source="35955026-070b-4433-8cd5-d491b4f93ea6"
-            target="511397f1-a67a-4f1f-829a-bffdf244a7bc"/>
+            target="511397f1-a67a-4f1f-829a-bffdf244a7bc"
+            type="64">
+          <bendpoints
+              startX="250"
+              startY="-14"
+              endX="-254"
+              endY="10"/>
+        </sourceConnections>
         <sourceConnections
             id="dbf4b288-cf9f-4f4b-9c84-0a23cd7f5aaf"
+            lineColor="#0080ff"
             source="35955026-070b-4433-8cd5-d491b4f93ea6"
-            target="1bac8701-f045-45fb-b65b-d187172f781f"/>
+            target="1bac8701-f045-45fb-b65b-d187172f781f"
+            type="64">
+          <bendpoints
+              startX="334"
+              startY="-14"
+              endX="-170"
+              endY="838"/>
+          <bendpoints
+              startX="334"
+              startY="-842"
+              endX="-170"
+              endY="10"/>
+        </sourceConnections>
         <sourceConnections
             id="43dab610-078f-41f9-a019-6116f4ec214e"
+            lineColor="#0080ff"
             source="35955026-070b-4433-8cd5-d491b4f93ea6"
-            target="91d2c88e-4d77-4cb7-ab83-78d5ae46337a"/>
+            target="91d2c88e-4d77-4cb7-ab83-78d5ae46337a"
+            type="64">
+          <bendpoints
+              startX="-86"
+              startY="82"
+              endX="742"
+              endY="-226"/>
+          <bendpoints
+              startX="-614"
+              startY="82"
+              endX="214"
+              endY="-226"/>
+          <bendpoints
+              startX="-614"
+              startY="298"
+              endX="214"
+              endY="-10"/>
+        </sourceConnections>
         <sourceConnections
             id="6bfef407-d7af-4369-9cd2-cc7bb7f4ab8b"
+            lineColor="#0080ff"
             source="35955026-070b-4433-8cd5-d491b4f93ea6"
-            target="1fc272fd-66fb-415c-9bc1-002ebcf404de"/>
-        <sourceConnections
-            id="d9b5c783-93b3-40d9-80a0-7d17112ec246"
-            source="35955026-070b-4433-8cd5-d491b4f93ea6"
-            target="97b5cb43-8917-4126-92b9-01b121dbf841"/>
+            target="1fc272fd-66fb-415c-9bc1-002ebcf404de"
+            type="64">
+          <bendpoints
+              startX="-86"
+              startY="82"
+              endX="310"
+              endY="-218"/>
+          <bendpoints
+              startX="-614"
+              startY="82"
+              endX="-218"
+              endY="-218"/>
+          <bendpoints
+              startX="-614"
+              startY="298"
+              endX="-218"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="23c9a84a-159c-45f8-b6ae-cc67a9b27006"
+            lineColor="#008000"
             source="35955026-070b-4433-8cd5-d491b4f93ea6"
-            target="d5ec53f4-6eec-42a1-b50b-2fab7a145b8e"/>
+            target="d5ec53f4-6eec-42a1-b50b-2fab7a145b8e"
+            type="64">
+          <bendpoints
+              startX="-386"
+              startY="-2"
+              endX="403"
+              endY="-38"/>
+          <bendpoints
+              startX="-710"
+              startY="-2"
+              endX="79"
+              endY="-38"/>
+        </sourceConnections>
+        <sourceConnections
+            id="d9b5c783-93b3-40d9-80a0-7d17112ec246"
+            lineColor="#008000"
+            source="35955026-070b-4433-8cd5-d491b4f93ea6"
+            target="97b5cb43-8917-4126-92b9-01b121dbf841"
+            type="64">
+          <bendpoints
+              startX="-554"
+              startY="-2"
+              endX="235"
+              endY="331"/>
+          <bendpoints
+              startX="-554"
+              startY="-338"
+              endX="235"
+              endY="-5"/>
+        </sourceConnections>
         <bounds
             width="270"
             height="55"/>
@@ -618,10 +1145,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="cee677f7-0a3e-4be2-a827-9ff09fe060f6"
-        targetConnections="ee5f9ff0-0132-480f-90bf-8c789af12f97">
+        targetConnections="ee5f9ff0-0132-480f-90bf-8c789af12f97"
+        fillColor="#00dfdf">
       <bounds
-          x="756"
-          y="648"
+          x="915"
+          y="330"
           width="270"
           height="55"/>
       <children
@@ -632,48 +1160,211 @@
           borderType="1">
         <sourceConnections
             id="448d59e8-8de2-49d0-9c10-edaeec3e34d5"
+            lineColor="#008000"
             source="dbddacfb-8979-461d-a57f-51587f1b6b6f"
-            target="4b64c105-051b-404a-8734-6e714fad6caa"/>
+            target="4b64c105-051b-404a-8734-6e714fad6caa"
+            type="64">
+          <bendpoints
+              startX="-353"
+              startY="16"
+              endX="55"
+              endY="-62"/>
+        </sourceConnections>
         <sourceConnections
             id="84ed6adb-7d0b-4049-82fe-e629937d6170"
+            lineColor="#008000"
             source="dbddacfb-8979-461d-a57f-51587f1b6b6f"
-            target="66ebc85a-3686-4db9-9cfa-22e16a59eda6"/>
+            target="66ebc85a-3686-4db9-9cfa-22e16a59eda6"
+            type="64">
+          <bendpoints
+              startX="-766"
+              startY="1"
+              endX="71"
+              endY="55"/>
+        </sourceConnections>
         <sourceConnections
             id="c6b66de2-f34e-4606-a0a3-1d136fa694e7"
+            lineColor="#008000"
             source="dbddacfb-8979-461d-a57f-51587f1b6b6f"
-            target="d5ec53f4-6eec-42a1-b50b-2fab7a145b8e"/>
+            target="d5ec53f4-6eec-42a1-b50b-2fab7a145b8e"
+            type="64">
+          <bendpoints
+              startX="-185"
+              startY="16"
+              endX="655"
+              endY="-398"/>
+          <bendpoints
+              startX="-185"
+              startY="292"
+              endX="655"
+              endY="-122"/>
+          <bendpoints
+              startX="-257"
+              startY="292"
+              endX="583"
+              endY="-122"/>
+          <bendpoints
+              startX="-257"
+              startY="436"
+              endX="583"
+              endY="22"/>
+        </sourceConnections>
         <sourceConnections
             id="af939704-a019-4544-8945-3341293b9d0f"
+            lineColor="#0080ff"
             source="dbddacfb-8979-461d-a57f-51587f1b6b6f"
-            target="1fc272fd-66fb-415c-9bc1-002ebcf404de"/>
+            target="1fc272fd-66fb-415c-9bc1-002ebcf404de"
+            type="64">
+          <bendpoints
+              startX="-78"
+              startY="51"
+              endX="369"
+              endY="-627"/>
+          <bendpoints
+              startX="-221"
+              startY="52"
+              endX="226"
+              endY="-626"/>
+          <bendpoints
+              startX="-221"
+              startY="496"
+              endX="226"
+              endY="-182"/>
+          <bendpoints
+              startX="-413"
+              startY="496"
+              endX="34"
+              endY="-182"/>
+        </sourceConnections>
         <sourceConnections
             id="9dc69b97-9831-4d35-8f37-892c9aee70cf"
+            lineColor="#0080ff"
             source="dbddacfb-8979-461d-a57f-51587f1b6b6f"
-            target="05cbc691-da6c-4fd6-9b04-556a6b92b3fe"/>
+            target="05cbc691-da6c-4fd6-9b04-556a6b92b3fe"
+            type="64">
+          <bendpoints
+              startX="-77"
+              startY="52"
+              endX="802"
+              endY="-732"/>
+          <bendpoints
+              startX="-221"
+              startY="52"
+              endX="658"
+              endY="-732"/>
+          <bendpoints
+              startX="-221"
+              startY="796"
+              endX="658"
+              endY="12"/>
+        </sourceConnections>
         <sourceConnections
             id="0fb8199a-1f97-4c81-bf38-f81d6fc43a37"
+            lineColor="#0080ff"
             source="dbddacfb-8979-461d-a57f-51587f1b6b6f"
-            target="573c33bd-ba66-4d7b-b1e4-e686410366a5"/>
+            target="573c33bd-ba66-4d7b-b1e4-e686410366a5"
+            type="64">
+          <bendpoints
+              startX="163"
+              startY="-8"
+              endX="159"
+              endY="447"/>
+          <bendpoints
+              startX="198"
+              startY="-8"
+              endX="194"
+              endY="446"/>
+          <bendpoints
+              startX="199"
+              startY="-464"
+              endX="195"
+              endY="-9"/>
+        </sourceConnections>
         <sourceConnections
             id="4693324c-e509-42f5-9311-172b74d2818f"
+            lineColor="#0080ff"
             source="dbddacfb-8979-461d-a57f-51587f1b6b6f"
-            target="432cd5c9-a9a7-4a44-aeca-a24853def5c3"/>
+            target="432cd5c9-a9a7-4a44-aeca-a24853def5c3"
+            type="64">
+          <bendpoints
+              startX="223"
+              startY="-8"
+              endX="-230"
+              endY="-182"/>
+          <bendpoints
+              startX="223"
+              startY="184"
+              endX="-230"
+              endY="10"/>
+        </sourceConnections>
         <sourceConnections
             id="1eb21e9d-ed16-418a-a440-881fb6e4be5c"
+            lineColor="#0080ff"
             source="dbddacfb-8979-461d-a57f-51587f1b6b6f"
-            target="fa144e0d-92e6-4a9d-9d02-4a2d18452a44"/>
+            target="fa144e0d-92e6-4a9d-9d02-4a2d18452a44"
+            type="64">
+          <bendpoints
+              startX="223"
+              startY="-8"
+              endX="-230"
+              endY="-530"/>
+          <bendpoints
+              startX="223"
+              startY="532"
+              endX="-230"
+              endY="10"/>
+        </sourceConnections>
         <sourceConnections
             id="7d503a03-6183-4ec7-89c7-5d5a32054c39"
+            lineColor="#0080ff"
             source="dbddacfb-8979-461d-a57f-51587f1b6b6f"
-            target="20c62f63-8265-4954-89da-c0f26343f747"/>
+            target="20c62f63-8265-4954-89da-c0f26343f747"
+            type="64">
+          <bendpoints
+              startX="223"
+              startY="-8"
+              endX="-230"
+              endY="-770"/>
+          <bendpoints
+              startX="223"
+              startY="748"
+              endX="-230"
+              endY="-14"/>
+        </sourceConnections>
         <sourceConnections
             id="911ccf92-6a1c-408c-979f-8910697484ae"
+            lineColor="#0080ff"
             source="dbddacfb-8979-461d-a57f-51587f1b6b6f"
-            target="2040dd3f-db3a-421b-8475-6b9ae84b0c1f"/>
+            target="2040dd3f-db3a-421b-8475-6b9ae84b0c1f"
+            type="64">
+          <bendpoints
+              startX="223"
+              startY="-8"
+              endX="-230"
+              endY="-950"/>
+          <bendpoints
+              startX="223"
+              startY="940"
+              endX="-230"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="32518b6f-88d5-422f-9657-18873709939c"
+            lineColor="#0080ff"
             source="dbddacfb-8979-461d-a57f-51587f1b6b6f"
-            target="0520751b-78a1-4ea5-a27a-b8e8c3c10763"/>
+            target="0520751b-78a1-4ea5-a27a-b8e8c3c10763"
+            type="64">
+          <bendpoints
+              startX="223"
+              startY="-8"
+              endX="-230"
+              endY="46"/>
+          <bendpoints
+              startX="223"
+              startY="-44"
+              endX="-230"
+              endY="10"/>
+        </sourceConnections>
         <bounds
             width="270"
             height="55"/>
@@ -685,10 +1376,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ef6f335b-beb8-449e-a034-5a2dfdc052cb"
-        targetConnections="82fa72bc-966c-4432-91c6-3b55c47f3535">
+        targetConnections="82fa72bc-966c-4432-91c6-3b55c47f3535"
+        fillColor="#00dfdf">
       <bounds
-          x="732"
-          y="495"
+          x="522"
+          y="276"
           width="270"
           height="55"/>
       <children
@@ -699,32 +1391,112 @@
           borderType="1">
         <sourceConnections
             id="c5f87926-0348-4d85-8623-5baef2b1934a"
+            lineColor="#0080ff"
             source="fc148094-9e5c-4570-a4f1-f1fd2e200068"
-            target="5d169d81-335f-4966-beb4-55a6feb0ccda"/>
+            target="5d169d81-335f-4966-beb4-55a6feb0ccda"
+            type="64">
+          <bendpoints
+              startX="-212"
+              startY="-2"
+              endX="-201"
+              endY="447"/>
+          <bendpoints
+              startX="-212"
+              startY="-446"
+              endX="-201"
+              endY="3"/>
+        </sourceConnections>
         <sourceConnections
             id="f2fecf29-6f8c-43bc-b564-a13801c78cad"
+            lineColor="#0080ff"
             source="fc148094-9e5c-4570-a4f1-f1fd2e200068"
-            target="432cd5c9-a9a7-4a44-aeca-a24853def5c3"/>
+            target="432cd5c9-a9a7-4a44-aeca-a24853def5c3"
+            type="64">
+          <bendpoints
+              startX="628"
+              startY="-2"
+              endX="-218"
+              endY="-230"/>
+          <bendpoints
+              startX="628"
+              startY="226"
+              endX="-218"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="cff3dfa6-8147-484d-9694-21a7431f22d1"
+            lineColor="#0080ff"
             source="fc148094-9e5c-4570-a4f1-f1fd2e200068"
-            target="8a889530-e0a6-4a37-a7f8-eeb067849ffc"/>
+            target="8a889530-e0a6-4a37-a7f8-eeb067849ffc"
+            type="64">
+          <bendpoints
+              startX="628"
+              startY="-2"
+              endX="-218"
+              endY="358"/>
+          <bendpoints
+              startX="628"
+              startY="-362"
+              endX="-218"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="97c629a3-ea86-40eb-9f54-a276dadceedd"
+            lineColor="#008000"
             source="fc148094-9e5c-4570-a4f1-f1fd2e200068"
-            target="7be06492-dee0-49fd-8ab8-df979b7d65e9"/>
+            target="7be06492-dee0-49fd-8ab8-df979b7d65e9"
+            type="64">
+          <bendpoints
+              startX="232"
+              startY="-2"
+              endX="-161"
+              endY="-164"/>
+          <bendpoints
+              startX="232"
+              startY="166"
+              endX="-161"
+              endY="4"/>
+        </sourceConnections>
         <sourceConnections
             id="01501c5e-4646-48a5-b53b-67b5869a46df"
+            lineColor="#008000"
             source="fc148094-9e5c-4570-a4f1-f1fd2e200068"
-            target="dd7776e6-1ca2-4280-8c26-ff0bba8b2a24"/>
+            target="dd7776e6-1ca2-4280-8c26-ff0bba8b2a24"
+            type="64">
+          <bendpoints
+              startX="-236"
+              startY="10"
+              endX="-209"
+              endY="-278"/>
+          <bendpoints
+              startX="-236"
+              startY="286"
+              endX="-209"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="26d00d80-f648-4784-a08a-ea6e520e44ef"
+            lineColor="#008000"
             source="fc148094-9e5c-4570-a4f1-f1fd2e200068"
-            target="4b64c105-051b-404a-8734-6e714fad6caa"/>
+            target="4b64c105-051b-404a-8734-6e714fad6caa"
+            type="64"/>
         <sourceConnections
             id="0da39ddd-0959-490f-b7b6-75a99e309b2f"
+            lineColor="#008000"
             source="fc148094-9e5c-4570-a4f1-f1fd2e200068"
-            target="d5ec53f4-6eec-42a1-b50b-2fab7a145b8e"/>
+            target="d5ec53f4-6eec-42a1-b50b-2fab7a145b8e"
+            type="64">
+          <bendpoints
+              startX="-236"
+              startY="10"
+              endX="211"
+              endY="-458"/>
+          <bendpoints
+              startX="-236"
+              startY="466"
+              endX="211"
+              endY="-2"/>
+        </sourceConnections>
         <bounds
             width="270"
             height="55"/>
@@ -736,10 +1508,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="798508b1-2115-45eb-b2eb-384deaf30c77"
-        targetConnections="2eb36b6f-426c-45aa-813d-a68081abf746">
+        targetConnections="2eb36b6f-426c-45aa-813d-a68081abf746"
+        fillColor="#00dfdf">
       <bounds
-          x="528"
-          y="168"
+          x="915"
+          y="36"
           width="270"
           height="55"/>
       <children
@@ -750,69 +1523,237 @@
           borderType="1">
         <sourceConnections
             id="e73d1621-d999-4073-ab40-742dd445b546"
+            lineColor="#0080ff"
             source="ecc59450-52a3-4c29-a76d-8e00bea3ab08"
             target="573c33bd-ba66-4d7b-b1e4-e686410366a5">
           <bendpoints
-              startX="358"
+              startX="163"
               startY="-2"
-              endX="-20"
-              endY="292"/>
+              endX="159"
+              endY="159"/>
+          <bendpoints
+              startX="259"
+              startY="-2"
+              endX="255"
+              endY="159"/>
+          <bendpoints
+              startX="259"
+              startY="-98"
+              endX="255"
+              endY="63"/>
+          <bendpoints
+              startX="259"
+              startY="-146"
+              endX="255"
+              endY="15"/>
         </sourceConnections>
         <sourceConnections
             id="cb4f547c-238f-4694-9c93-0bc60256f06b"
+            lineColor="#008000"
             source="ecc59450-52a3-4c29-a76d-8e00bea3ab08"
-            target="6b94e5d2-f51a-4997-8be7-0ca4747f19eb">
+            target="6b94e5d2-f51a-4997-8be7-0ca4747f19eb"
+            type="64">
           <bendpoints
-              startX="-2"
-              startY="-50"
-              endX="474"
-              endY="82"/>
+              startX="4"
+              startY="60"
+              endX="397"
+              endY="60"/>
           <bendpoints
-              startX="-374"
-              startY="-50"
-              endX="102"
-              endY="82"/>
+              startX="-311"
+              startY="60"
+              endX="82"
+              endY="60"/>
         </sourceConnections>
         <sourceConnections
             id="2ab03af4-c917-4c90-8f83-feb2fcb344f6"
+            lineColor="#008000"
             source="ecc59450-52a3-4c29-a76d-8e00bea3ab08"
-            target="4b64c105-051b-404a-8734-6e714fad6caa"/>
+            target="4b64c105-051b-404a-8734-6e714fad6caa"
+            type="64">
+          <bendpoints
+              startX="4"
+              startY="60"
+              endX="412"
+              endY="-312"/>
+          <bendpoints
+              startX="-221"
+              startY="60"
+              endX="187"
+              endY="-312"/>
+          <bendpoints
+              startX="-221"
+              startY="286"
+              endX="187"
+              endY="-86"/>
+          <bendpoints
+              startX="-305"
+              startY="286"
+              endX="103"
+              endY="-86"/>
+        </sourceConnections>
         <sourceConnections
             id="8090abc6-e1e6-4be2-bec9-319d4acb3f1f"
+            lineColor="#0080ff"
             source="ecc59450-52a3-4c29-a76d-8e00bea3ab08"
-            target="91d2c88e-4d77-4cb7-ab83-78d5ae46337a"/>
+            target="91d2c88e-4d77-4cb7-ab83-78d5ae46337a"
+            type="64">
+          <bendpoints
+              startX="-66"
+              startY="-86"
+              endX="814"
+              endY="-1066"/>
+          <bendpoints
+              startX="-1062"
+              startY="-86"
+              endX="-182"
+              endY="-1066"/>
+          <bendpoints
+              startX="-1062"
+              startY="982"
+              endX="-182"
+              endY="2"/>
+        </sourceConnections>
         <sourceConnections
             id="3735d049-0ccf-4c4d-9e25-4341ae909224"
+            lineColor="#0080ff"
             source="ecc59450-52a3-4c29-a76d-8e00bea3ab08"
-            target="4a97e768-fcb6-498d-9631-918d7886cffa"/>
+            target="4a97e768-fcb6-498d-9631-918d7886cffa"
+            type="64">
+          <bendpoints
+              startX="-66"
+              startY="-86"
+              endX="814"
+              endY="-1014"/>
+          <bendpoints
+              startX="-1062"
+              startY="-86"
+              endX="-182"
+              endY="-1014"/>
+          <bendpoints
+              startX="-1062"
+              startY="934"
+              endX="-182"
+              endY="6"/>
+        </sourceConnections>
         <sourceConnections
             id="5126f919-df7b-4af6-8634-3aaed59bd7c1"
+            lineColor="#0080ff"
             source="ecc59450-52a3-4c29-a76d-8e00bea3ab08"
-            target="cf230e79-2df8-4ec1-a14b-bb1ae2a784e1"/>
+            target="cf230e79-2df8-4ec1-a14b-bb1ae2a784e1"
+            type="64">
+          <bendpoints
+              startX="259"
+              startY="-2"
+              endX="255"
+              endY="230"/>
+          <bendpoints
+              startX="259"
+              startY="-230"
+              endX="255"
+              endY="2"/>
+        </sourceConnections>
         <sourceConnections
             id="b9f00275-38ad-4322-970e-b84ea8139e52"
+            lineColor="#0080ff"
             source="ecc59450-52a3-4c29-a76d-8e00bea3ab08"
-            target="8a889530-e0a6-4a37-a7f8-eeb067849ffc"/>
+            target="8a889530-e0a6-4a37-a7f8-eeb067849ffc"
+            type="64">
+          <bendpoints
+              startX="259"
+              startY="-2"
+              endX="-194"
+              endY="118"/>
+          <bendpoints
+              startX="259"
+              startY="-98"
+              endX="-194"
+              endY="22"/>
+        </sourceConnections>
         <sourceConnections
             id="ce8f7f78-e0d6-403f-87fc-c4aee919fdae"
+            lineColor="#0080ff"
             source="ecc59450-52a3-4c29-a76d-8e00bea3ab08"
-            target="518c581c-6cde-42c2-a874-41654025763d"/>
+            target="518c581c-6cde-42c2-a874-41654025763d"
+            type="64">
+          <bendpoints
+              startX="259"
+              startY="-2"
+              endX="-194"
+              endY="58"/>
+          <bendpoints
+              startX="259"
+              startY="-62"
+              endX="-194"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="965a5faf-b741-411b-9cdd-e7adc92eb705"
+            lineColor="#0080ff"
             source="ecc59450-52a3-4c29-a76d-8e00bea3ab08"
-            target="18343977-aead-40bd-b9f8-3ad4af1e2fa4"/>
+            target="18343977-aead-40bd-b9f8-3ad4af1e2fa4"
+            type="64">
+          <bendpoints
+              startX="259"
+              startY="-2"
+              endX="-194"
+              endY="-410"/>
+          <bendpoints
+              startX="259"
+              startY="406"
+              endX="-194"
+              endY="-2"/>
+        </sourceConnections>
         <sourceConnections
             id="9ea205f9-0273-4a24-bafc-d469e5da9495"
+            lineColor="#0080ff"
             source="ecc59450-52a3-4c29-a76d-8e00bea3ab08"
-            target="0016ab27-d68f-4603-b22e-5359f8b18680"/>
+            target="0016ab27-d68f-4603-b22e-5359f8b18680"
+            type="64">
+          <bendpoints
+              startX="259"
+              startY="-2"
+              endX="-194"
+              endY="-938"/>
+          <bendpoints
+              startX="259"
+              startY="946"
+              endX="-194"
+              endY="10"/>
+        </sourceConnections>
         <sourceConnections
             id="681221af-ebc9-4dc6-83bf-cc9a71e244b8"
+            lineColor="#0080ff"
             source="ecc59450-52a3-4c29-a76d-8e00bea3ab08"
-            target="5c47f555-fb2e-44e3-8c53-7e02cc6efa6c"/>
+            target="5c47f555-fb2e-44e3-8c53-7e02cc6efa6c"
+            type="64">
+          <bendpoints
+              startX="259"
+              startY="-2"
+              endX="-194"
+              endY="-1358"/>
+          <bendpoints
+              startX="259"
+              startY="1366"
+              endX="-194"
+              endY="10"/>
+        </sourceConnections>
         <sourceConnections
             id="f8e063ab-7048-40ad-a2df-caddf7897270"
+            lineColor="#0080ff"
             source="ecc59450-52a3-4c29-a76d-8e00bea3ab08"
-            target="e6cc902f-23b3-4354-8433-4f218db2fd8a"/>
+            target="e6cc902f-23b3-4354-8433-4f218db2fd8a"
+            type="64">
+          <bendpoints
+              startX="259"
+              startY="-2"
+              endX="-194"
+              endY="-74"/>
+          <bendpoints
+              startX="259"
+              startY="70"
+              endX="-194"
+              endY="-2"/>
+        </sourceConnections>
         <bounds
             width="270"
             height="55"/>
@@ -823,35 +1764,201 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"
-        id="5294088a-886a-45aa-9c09-aef27f547b10"
+        id="3fcd5986-e2ed-4e62-b491-9baf62e7ad72"
         textAlignment="1"
         alpha="50"
         borderType="1">
       <sourceConnections
-          id="d7a15426-ef45-4581-b800-a05ad1d8945e"
-          source="5294088a-886a-45aa-9c09-aef27f547b10"
-          target="0520751b-78a1-4ea5-a27a-b8e8c3c10763"/>
+          id="16d75761-3efe-4dd5-8fc0-066b6c698624"
+          lineColor="#008000"
+          source="3fcd5986-e2ed-4e62-b491-9baf62e7ad72"
+          target="6b94e5d2-f51a-4997-8be7-0ca4747f19eb"
+          type="64">
+        <bendpoints
+            startX="259"
+            startY="-2"
+            endX="-188"
+            endY="454"/>
+        <bendpoints
+            startX="259"
+            startY="-458"
+            endX="-188"
+            endY="-2"/>
+      </sourceConnections>
       <sourceConnections
-          id="7de38be3-678a-4b5b-b959-e2bdf6011dfa"
-          source="5294088a-886a-45aa-9c09-aef27f547b10"
-          target="573c33bd-ba66-4d7b-b1e4-e686410366a5"/>
+          id="37f6f3a8-308e-4be2-b21d-9949971acf52"
+          lineColor="#008000"
+          source="3fcd5986-e2ed-4e62-b491-9baf62e7ad72"
+          target="05d0da88-7d20-4c82-b62a-d7b7201a6917"
+          type="64">
+        <bendpoints
+            startX="-185"
+            startY="10"
+            endX="-185"
+            endY="466"/>
+        <bendpoints
+            startX="-185"
+            startY="-458"
+            endX="-185"
+            endY="-2"/>
+      </sourceConnections>
       <sourceConnections
-          id="83d6448b-9397-4023-a7fd-7018e8298138"
-          source="5294088a-886a-45aa-9c09-aef27f547b10"
-          target="1fc272fd-66fb-415c-9bc1-002ebcf404de"/>
+          id="45c67453-681d-40de-8036-d2bf234a7193"
+          lineColor="#008000"
+          source="3fcd5986-e2ed-4e62-b491-9baf62e7ad72"
+          target="7b79a26d-8ce4-4734-88ff-9dbef51aa743"
+          type="64">
+        <bendpoints
+            startX="223"
+            startY="-14"
+            endX="-224"
+            endY="322"/>
+        <bendpoints
+            startX="223"
+            startY="-326"
+            endX="-224"
+            endY="10"/>
+      </sourceConnections>
       <sourceConnections
-          id="785a4a91-78c5-4ecb-acb3-7558e7950885"
-          source="5294088a-886a-45aa-9c09-aef27f547b10"
-          target="dd7776e6-1ca2-4280-8c26-ff0bba8b2a24"/>
+          id="16677a91-2f56-4dd1-a4e6-5c213eb64869"
+          lineColor="#0080ff"
+          source="3fcd5986-e2ed-4e62-b491-9baf62e7ad72"
+          target="573c33bd-ba66-4d7b-b1e4-e686410366a5"
+          type="64">
+        <bendpoints
+            startX="79"
+            startY="-50"
+            endX="-765"
+            endY="567"/>
+        <bendpoints
+            startX="163"
+            startY="-50"
+            endX="-681"
+            endY="567"/>
+        <bendpoints
+            startX="163"
+            startY="-602"
+            endX="-681"
+            endY="15"/>
+      </sourceConnections>
       <sourceConnections
-          id="6f77cdb5-7a93-4f8b-ba79-4abddf5153aa"
-          source="5294088a-886a-45aa-9c09-aef27f547b10"
-          target="66ebc85a-3686-4db9-9cfa-22e16a59eda6"/>
+          id="408f5fed-d18b-45f7-a3f4-034dd34dd60a"
+          lineColor="#0080ff"
+          source="3fcd5986-e2ed-4e62-b491-9baf62e7ad72"
+          target="518c581c-6cde-42c2-a874-41654025763d"
+          type="64">
+        <bendpoints
+            startX="1051"
+            startY="10"
+            endX="-242"
+            endY="526"/>
+        <bendpoints
+            startX="1051"
+            startY="-506"
+            endX="-242"
+            endY="10"/>
+      </sourceConnections>
       <bounds
-          x="708"
-          y="375"
+          x="75"
+          y="492"
           width="270"
-          height="73"/>
+          height="55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="2c5586df-f7d3-4cbd-8f81-c82f2386d13e"
+        textAlignment="1"
+        alpha="50"
+        borderType="1">
+      <sourceConnections
+          id="94aff4a2-b220-4ffa-8856-e44f07814e44"
+          lineColor="#008000"
+          source="2c5586df-f7d3-4cbd-8f81-c82f2386d13e"
+          target="05d0da88-7d20-4c82-b62a-d7b7201a6917"
+          type="64">
+        <bendpoints
+            startX="187"
+            startY="4"
+            endX="175"
+            endY="586"/>
+        <bendpoints
+            startX="187"
+            startY="-584"
+            endX="175"
+            endY="-2"/>
+      </sourceConnections>
+      <sourceConnections
+          id="f087ade4-c42f-423f-97ad-de4344f86010"
+          lineColor="#008000"
+          source="2c5586df-f7d3-4cbd-8f81-c82f2386d13e"
+          target="97b5cb43-8917-4126-92b9-01b121dbf841"
+          type="64">
+        <bendpoints
+            startX="-137"
+            startY="-128"
+            endX="-149"
+            endY="115"/>
+      </sourceConnections>
+      <sourceConnections
+          id="96f43495-26ce-435c-84a4-421d03fb9215"
+          lineColor="#0080ff"
+          source="2c5586df-f7d3-4cbd-8f81-c82f2386d13e"
+          target="05cbc691-da6c-4fd6-9b04-556a6b92b3fe"
+          type="64">
+        <bendpoints
+            startX="-185"
+            startY="4"
+            endX="-158"
+            endY="-492"/>
+        <bendpoints
+            startX="-185"
+            startY="496"
+            endX="-158"/>
+      </sourceConnections>
+      <sourceConnections
+          id="1ffe4d24-1320-4fa0-9c54-bae96978d9b6"
+          lineColor="#0080ff"
+          source="2c5586df-f7d3-4cbd-8f81-c82f2386d13e"
+          target="76cbd425-7065-4ddd-bff7-28c6cf1e7335"
+          type="64">
+        <bendpoints
+            startX="355"
+            startY="16"
+            endX="-458"
+            endY="-360"/>
+        <bendpoints
+            startX="367"
+            startY="196"
+            endX="-480"
+            endY="-180"/>
+        <bendpoints
+            startX="811"
+            startY="196"
+            endX="-36"
+            endY="-180"/>
+      </sourceConnections>
+      <sourceConnections
+          id="976d9ee2-7684-486f-8d97-94209d982610"
+          lineColor="#0080ff"
+          source="2c5586df-f7d3-4cbd-8f81-c82f2386d13e"
+          target="573c33bd-ba66-4d7b-b1e4-e686410366a5"
+          type="64">
+        <bendpoints
+            startX="-197"
+            startY="4"
+            endX="-1053"
+            endY="747"/>
+        <bendpoints
+            startX="-197"
+            startY="-740"
+            endX="-1053"
+            endY="3"/>
+      </sourceConnections>
+      <bounds
+          x="63"
+          y="618"
+          width="270"
+          height="55"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -864,24 +1971,6 @@
       textAlignment="1"
       fillColor="#f2ffff"
       type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d6ab9c06-7d4c-492b-b0cc-2cab05127226"
-        source="68936376-4b52-4a05-befe-9007c3392225"
-        target="abc375a9-bc64-473d-9d0e-56bc3ed4d78b">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_bf11dd60-6c76-45ee-b29b-a85e9eb18d37.xml#bf11dd60-6c76-45ee-b29b-a85e9eb18d37"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="96040804-955d-42d2-9cef-1722b512cb59"
-        source="68936376-4b52-4a05-befe-9007c3392225"
-        target="994d71d0-e5d6-46a5-9da5-456d6b8cca2f">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_4e9790c1-5f56-4525-bd40-7ba12ad1b5b9.xml#4e9790c1-5f56-4525-bd40-7ba12ad1b5b9"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="a791ad58-c3b2-4b37-805d-b83a7ea35afc"
@@ -910,130 +1999,10 @@
           href="CompositionRelationship_62c947d8-6cd8-4f63-a396-a09884f2dca0.xml#62c947d8-6cd8-4f63-a396-a09884f2dca0"/>
     </sourceConnections>
     <bounds
-        x="1524"
-        y="145"
-        width="360"
-        height="1140"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="abc375a9-bc64-473d-9d0e-56bc3ed4d78b"
-        targetConnections="d6ab9c06-7d4c-492b-b0cc-2cab05127226"
-        type="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="5ecd9793-2d11-4f26-ae08-3bea0df9f365"
-          source="abc375a9-bc64-473d-9d0e-56bc3ed4d78b"
-          target="0cc954af-7f17-4990-a36c-9a93f10ebf5a">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_ac52a80a-bb8f-452c-b3e0-a8dfb357db1b.xml#ac52a80a-bb8f-452c-b3e0-a8dfb357db1b"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="a83248d9-db80-4169-9c89-82c1a93022f9"
-          source="abc375a9-bc64-473d-9d0e-56bc3ed4d78b"
-          target="864c051a-9522-45a7-9c33-2b41ef39b71c">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_2139c7f5-d472-4b2b-8d56-631ff8e17342.xml#2139c7f5-d472-4b2b-8d56-631ff8e17342"/>
-      </sourceConnections>
-      <bounds
-          x="36"
-          y="48"
-          width="288"
-          height="144"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="0cc954af-7f17-4990-a36c-9a93f10ebf5a"
-          targetConnections="5ecd9793-2d11-4f26-ae08-3bea0df9f365"
-          textAlignment="1">
-        <bounds
-            x="12"
-            y="24"
-            width="270"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationProcess"
-            href="ApplicationProcess_3c83d092-1c74-40e0-a536-aa583aa14b33.xml#3c83d092-1c74-40e0-a536-aa583aa14b33"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="864c051a-9522-45a7-9c33-2b41ef39b71c"
-          targetConnections="a83248d9-db80-4169-9c89-82c1a93022f9"
-          textAlignment="1">
-        <bounds
-            x="12"
-            y="78"
-            width="270"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationProcess"
-            href="ApplicationProcess_c42e1de4-396b-45ac-a15f-86bade5b91c9.xml#c42e1de4-396b-45ac-a15f-86bade5b91c9"/>
-      </children>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_e99915bd-3ba5-448e-8615-5aea132724de.xml#e99915bd-3ba5-448e-8615-5aea132724de"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="994d71d0-e5d6-46a5-9da5-456d6b8cca2f"
-        targetConnections="96040804-955d-42d2-9cef-1722b512cb59"
-        type="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="4f3c422b-6eda-4f14-8690-413ff7c41818"
-          source="994d71d0-e5d6-46a5-9da5-456d6b8cca2f"
-          target="6bee9165-140b-45c2-be5b-a4a8fe13e066">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_ba0e55c3-6f7e-40f0-a44c-68b5ced61236.xml#ba0e55c3-6f7e-40f0-a44c-68b5ced61236"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="0c90b280-1147-49c9-863c-d2bc8f653775"
-          source="994d71d0-e5d6-46a5-9da5-456d6b8cca2f"
-          target="f7f62468-4f53-480b-9461-c6a83da41e68">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_6e9da0a9-8ade-4d56-b42c-6c97132c789b.xml#6e9da0a9-8ade-4d56-b42c-6c97132c789b"/>
-      </sourceConnections>
-      <bounds
-          x="36"
-          y="204"
-          width="288"
-          height="144"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="6bee9165-140b-45c2-be5b-a4a8fe13e066"
-          targetConnections="4f3c422b-6eda-4f14-8690-413ff7c41818"
-          textAlignment="1">
-        <bounds
-            x="12"
-            y="78"
-            width="270"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationProcess"
-            href="ApplicationProcess_8d5e5c4e-fb7a-491c-aaf8-f859773a4a61.xml#8d5e5c4e-fb7a-491c-aaf8-f859773a4a61"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="f7f62468-4f53-480b-9461-c6a83da41e68"
-          targetConnections="0c90b280-1147-49c9-863c-d2bc8f653775"
-          textAlignment="1">
-        <bounds
-            x="12"
-            y="24"
-            width="270"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationProcess"
-            href="ApplicationProcess_14d61542-5742-40c0-97b3-157171b997e7.xml#14d61542-5742-40c0-97b3-157171b997e7"/>
-      </children>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_56dd3f66-2646-4a8e-ada2-66d13a9656ab.xml#56dd3f66-2646-4a8e-ada2-66d13a9656ab"/>
-    </children>
+        x="-24"
+        y="1152"
+        width="1212"
+        height="288"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="81cf298a-f66c-4914-abdc-b8c1dd61bdf6"
@@ -1076,8 +2045,8 @@
             href="AssignmentRelationship_394020a7-2c48-417d-83f2-3993f836ea0f.xml#394020a7-2c48-417d-83f2-3993f836ea0f"/>
       </sourceConnections>
       <bounds
-          x="36"
-          y="360"
+          x="24"
+          y="36"
           width="288"
           height="228"/>
       <children
@@ -1147,39 +2116,12 @@
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="817dc9a2-12d3-4c8b-bd4c-f9c668794d0a"
-          source="aa608b64-4b99-4bb4-883c-95a77c90d13d"
-          target="1a1d14d8-9601-402b-a43f-c6b0a7dccf4d">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_f1130b90-4435-4cf0-b022-c2de06b30324.xml#f1130b90-4435-4cf0-b022-c2de06b30324"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="51ae2457-3107-4d9b-bd71-176d515d71b6"
           source="aa608b64-4b99-4bb4-883c-95a77c90d13d"
           target="76cbd425-7065-4ddd-bff7-28c6cf1e7335">
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_bad7f03c-8804-4afa-9075-0f80524b7208.xml#bad7f03c-8804-4afa-9075-0f80524b7208"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="cb008ac6-b82b-45c2-a84d-2ac7d6742a48"
-          source="aa608b64-4b99-4bb4-883c-95a77c90d13d"
-          target="4000e3bf-8b84-4ccd-8cad-f67efdf5d564">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_2440e952-e8ad-4b3e-90e1-4be66b663bae.xml#2440e952-e8ad-4b3e-90e1-4be66b663bae"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="232fba0c-f983-4d73-a494-d9183a779503"
-          source="aa608b64-4b99-4bb4-883c-95a77c90d13d"
-          target="e9229ec9-b793-4499-92c4-bc8a2711696a">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_ca6a22a1-c34c-47af-8518-3bbeecaeea7e.xml#ca6a22a1-c34c-47af-8518-3bbeecaeea7e"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1190,20 +2132,11 @@
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_46671973-c1e4-4d2d-a05a-41242cbd4afd.xml#46671973-c1e4-4d2d-a05a-41242cbd4afd"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="c06515e5-cbe9-4b22-92b2-4b6c5257b589"
-          source="aa608b64-4b99-4bb4-883c-95a77c90d13d"
-          target="69e00768-489b-420a-9422-9d8cb43d16b0">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_ceaf5c22-2207-48f8-a2bf-8c916816d4c3.xml#ceaf5c22-2207-48f8-a2bf-8c916816d4c3"/>
-      </sourceConnections>
       <bounds
-          x="36"
-          y="720"
+          x="864"
+          y="48"
           width="288"
-          height="408"/>
+          height="180"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="76cbd425-7065-4ddd-bff7-28c6cf1e7335"
@@ -1211,7 +2144,7 @@
           textAlignment="1">
         <bounds
             x="12"
-            y="142"
+            y="36"
             width="270"
             height="74"/>
         <archimateElement
@@ -1220,73 +2153,17 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="4000e3bf-8b84-4ccd-8cad-f67efdf5d564"
-          targetConnections="cb008ac6-b82b-45c2-a84d-2ac7d6742a48"
-          textAlignment="1">
-        <bounds
-            x="12"
-            y="342"
-            width="270"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationProcess"
-            href="ApplicationProcess_5b82372d-8091-4779-8492-75d8e144fc99.xml#5b82372d-8091-4779-8492-75d8e144fc99"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="e9229ec9-b793-4499-92c4-bc8a2711696a"
-          targetConnections="232fba0c-f983-4d73-a494-d9183a779503"
-          textAlignment="1">
-        <bounds
-            x="12"
-            y="83"
-            width="270"
-            height="60"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationProcess"
-            href="ApplicationProcess_bc6a16f4-0312-4c6d-95cc-5f96d7992b03.xml#bc6a16f4-0312-4c6d-95cc-5f96d7992b03"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="b76daa4e-9d95-43ca-8607-9275eec79e50"
           targetConnections="00bd0fe1-d605-49b3-b207-58bf0849ab4f 59c55788-5531-4878-9387-f30e37b72e00"
           textAlignment="1">
         <bounds
             x="12"
-            y="288"
+            y="120"
             width="270"
             height="55"/>
         <archimateElement
             xsi:type="archimate:ApplicationProcess"
             href="ApplicationProcess_672993f7-a475-4838-9bf6-939695601584.xml#672993f7-a475-4838-9bf6-939695601584"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="69e00768-489b-420a-9422-9d8cb43d16b0"
-          targetConnections="c06515e5-cbe9-4b22-92b2-4b6c5257b589"
-          textAlignment="1">
-        <bounds
-            x="12"
-            y="24"
-            width="270"
-            height="60"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationProcess"
-            href="ApplicationProcess_84667ba9-91e2-4571-9371-3138f4cfc9e3.xml#84667ba9-91e2-4571-9371-3138f4cfc9e3"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="1a1d14d8-9601-402b-a43f-c6b0a7dccf4d"
-          targetConnections="817dc9a2-12d3-4c8b-bd4c-f9c668794d0a"
-          textAlignment="1">
-        <bounds
-            x="12"
-            y="215"
-            width="270"
-            height="74"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationProcess"
-            href="ApplicationProcess_4769c9d8-a06d-42cc-82d5-9a4a4d5d4a81.xml#4769c9d8-a06d-42cc-82d5-9a4a4d5d4a81"/>
       </children>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -1307,8 +2184,8 @@
             href="AssignmentRelationship_3153c352-ccee-4041-99dd-8e5c0fd665dd.xml#3153c352-ccee-4041-99dd-8e5c0fd665dd"/>
       </sourceConnections>
       <bounds
-          x="36"
-          y="600"
+          x="456"
+          y="72"
           width="288"
           height="108"/>
       <children
@@ -1350,8 +2227,8 @@
           href="AssignmentRelationship_9b2f09c1-87af-43c1-9c98-3bb47f0c68e3.xml#9b2f09c1-87af-43c1-9c98-3bb47f0c68e3"/>
     </sourceConnections>
     <bounds
-        x="1188"
-        y="43"
+        x="865"
+        y="33"
         width="324"
         height="171"/>
     <children
@@ -1574,10 +2451,10 @@
           href="CompositionRelationship_f7538ad5-aa5d-49bb-812a-be3438bd4caf.xml#f7538ad5-aa5d-49bb-812a-be3438bd4caf"/>
     </sourceConnections>
     <bounds
-        x="312"
-        y="1344"
-        width="1572"
-        height="529"/>
+        x="1320"
+        y="24"
+        width="332"
+        height="1705"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f2465544-172a-41d5-8e3f-1e34a0170d72"
@@ -1691,8 +2568,8 @@
             href="AssignmentRelationship_651265ff-c401-423e-8e48-26e47a8e203c.xml#651265ff-c401-423e-8e48-26e47a8e203c"/>
       </sourceConnections>
       <bounds
-          x="348"
-          y="48"
+          x="12"
+          y="576"
           width="300"
           height="229"/>
       <children
@@ -1701,8 +2578,21 @@
           targetConnections="fd2a0deb-6f3b-4de4-9d46-f31d6045cc82">
         <sourceConnections
             id="aa4050fd-c657-441b-8fe2-f1db829b03d8"
+            lineColor="#0080ff"
             source="de852555-2632-450b-b89e-9b892f918e52"
-            target="35955026-070b-4433-8cd5-d491b4f93ea6"/>
+            target="35955026-070b-4433-8cd5-d491b4f93ea6"
+            type="128">
+          <bendpoints
+              startX="-170"
+              startY="-2"
+              endX="334"
+              endY="-326"/>
+          <bendpoints
+              startX="-170"
+              startY="310"
+              endX="334"
+              endY="-14"/>
+        </sourceConnections>
         <bounds
             x="12"
             y="36"
@@ -1766,8 +2656,8 @@
             href="AssignmentRelationship_a9a553e0-0422-42e5-8d61-30a1a6d3db5d.xml#a9a553e0-0422-42e5-8d61-30a1a6d3db5d"/>
       </sourceConnections>
       <bounds
-          x="696"
-          y="48"
+          x="12"
+          y="816"
           width="300"
           height="157"/>
       <children
@@ -1842,8 +2732,8 @@
             href="AssignmentRelationship_80603270-a6a4-4234-b7b4-30770bf3bd9e.xml#80603270-a6a4-4234-b7b4-30770bf3bd9e"/>
       </sourceConnections>
       <bounds
-          x="696"
-          y="216"
+          x="12"
+          y="984"
           width="300"
           height="289"/>
       <children
@@ -1917,8 +2807,8 @@
             href="AssignmentRelationship_6473a9c5-2ccc-4d55-bec2-489e148622f2.xml#6473a9c5-2ccc-4d55-bec2-489e148622f2"/>
       </sourceConnections>
       <bounds
-          x="1176"
-          y="48"
+          x="12"
+          y="1584"
           width="300"
           height="97"/>
       <children
@@ -1980,8 +2870,8 @@
             href="AssignmentRelationship_ca3568f3-21ed-4163-a25f-1867a8dbce8b.xml#ca3568f3-21ed-4163-a25f-1867a8dbce8b"/>
       </sourceConnections>
       <bounds
-          x="1020"
-          y="216"
+          x="12"
+          y="1284"
           width="300"
           height="289"/>
       <children
@@ -2055,8 +2945,8 @@
             href="AssignmentRelationship_79d811b1-f4a4-4480-a42f-dcb292bf7c76.xml#79d811b1-f4a4-4480-a42f-dcb292bf7c76"/>
       </sourceConnections>
       <bounds
-          x="348"
-          y="312"
+          x="12"
+          y="468"
           width="300"
           height="97"/>
       <children
@@ -2146,8 +3036,8 @@
       fillColor="#eeffff"
       type="1">
     <bounds
-        x="792"
-        y="47"
+        x="432"
+        y="33"
         width="376"
         height="122"/>
     <children
@@ -2190,8 +3080,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="54c8fe52-cc3b-48af-83a3-b23a88f76f06">
     <bounds
-        x="228"
-        y="36"
+        x="36"
+        y="-108"
         width="204"
         height="180"/>
     <archimateElement
