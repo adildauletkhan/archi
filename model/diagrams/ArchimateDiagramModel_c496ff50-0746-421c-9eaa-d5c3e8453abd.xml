@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="8.Maintenance Maturity Model"
+    name="8.Maintenance Maturity Model.eng"
     id="c496ff50-0746-421c-9eaa-d5c3e8453abd">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -10,7 +10,7 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
-      content="SUSTAINABILITY / УСТОЙЧИВОСТЬ&#xD;&#xA;"
+      content="SUSTAINABILITY&#xD;&#xA;"
       textPosition="1">
     <bounds
         x="15"
@@ -25,7 +25,7 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
-      content="PLANNET MAINTENANCE / ПЛАНЕТНОЕ ОБСЛУЖИВАНИЕ"
+      content="PLANNED MAINTENANCE"
       textPosition="1">
     <bounds
         x="15"
@@ -40,7 +40,7 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
-      content="EQUIPMENT RELIABILITY"
+      content="EQUIPMENT RELIABILITY/ НАДЕЖНОСТЬ ОБОРУДОВАНИЯ"
       textPosition="1">
     <bounds
         x="15"
@@ -55,7 +55,7 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
-      content="AUTONOMOUS MAINTENANCE&#xD;&#xA;"
+      content="AUTONOMOUS MAINTENANCE/ АВТОНОМНОЕ ОБСЛУЖИВАНИЕ&#xD;&#xA;"
       textPosition="1">
     <bounds
         x="15"
@@ -70,7 +70,7 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
-      content="EARLY &amp; LATE ASSET MANAGEMENT"
+      content="EARLY &amp; LATE ASSET MANAGEMENT/ РАННЕЕ И ПОЗДНЕЕ УПРАВЛЕНИЕ АКТИВАМИ"
       textPosition="1">
     <bounds
         x="15"
@@ -85,7 +85,7 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
-      content="STRATEGY/PROGRAM"
+      content="STRATEGY/PROGRAM / СТРАТЕГИЯ/ПРОГРАММА"
       textPosition="1">
     <bounds
         x="15"
@@ -178,7 +178,7 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#808080"
-      content="Fix it after it fails "
+      content="Fix it after it fails (исправить после того, как это потерпит неудачу&#xD;&#xA;"
       textPosition="1">
     <bounds
         x="215"
@@ -235,7 +235,7 @@
       font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#c0c0c0"
-      content="Mimital Tracking&#xD;&#xA;">
+      content="Minimal Tracking&#xD;&#xA;">
     <bounds
         x="395"
         y="80"
@@ -248,7 +248,7 @@
       font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#c0c0c0"
-      content="Planning of materials and tasks sheduled">
+      content="Planning of materials and tasks scheduled">
     <bounds
         x="395"
         y="145"
@@ -287,7 +287,7 @@
       font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#c0c0c0"
-      content="Design reviews by progect team ">
+      content="Design reviews by project team ">
     <bounds
         x="395"
         y="335"
@@ -420,7 +420,7 @@
       font="1|Segoe UI|11.1|1|WINDOWS|1|-37|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
       fontColor="#ffffff"
       textAlignment="1"
-      fillColor="#00ff80"
+      fillColor="#008000"
       content="Don't just fix it, improve it "
       textPosition="1">
     <bounds
@@ -449,7 +449,7 @@
       font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#c0c0c0"
-      content="Continuos Improvement&#xD;&#xA;">
+      content="Continuous Improvement&#xD;&#xA;">
     <bounds
         x="765"
         y="80"
@@ -488,7 +488,7 @@
       font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#c0c0c0"
-      content="Operator performs fist level of maintenance&#xD;&#xA;">
+      content="Operator performs first level of maintenance&#xD;&#xA;">
     <bounds
         x="768"
         y="273"
@@ -676,7 +676,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="96a6b58b-3e8f-47fc-b43e-f268b167deed"
       textAlignment="1"
-      content="EXSELLENCE">
+      content="EXСELLENCE">
     <bounds
         x="950"
         y="-206"
