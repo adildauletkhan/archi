@@ -737,9 +737,9 @@
       xsi:type="archimate:DiagramModelNote"
       id="244fd689-9c97-4707-9262-da182a5deff3"
       targetConnections="24b4d095-4522-4894-bf24-66f72867de09"
-      font="1|Segoe UI Semibold|9.75|0|WINDOWS|1|-13|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      font="1|Segoe UI Semibold|11.25|0|WINDOWS|1|-15|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
       textAlignment="1"
-      content="НЕВИННОСТЬ"
+      content="незрелость"
       borderType="2">
     <bounds
         x="240"
