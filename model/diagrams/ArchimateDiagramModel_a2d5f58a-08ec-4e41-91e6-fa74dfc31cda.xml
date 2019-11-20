@@ -54,7 +54,7 @@
       font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
       fontColor="#ffffff"
       fillColor="#0080ff"
-      content="Автоматическре ТО"
+      content="Автоматическое ТО"
       textPosition="1"
       borderType="1">
     <bounds
@@ -582,7 +582,7 @@
       id="28f6b8a5-50f9-4b5d-aa5f-a0869c93b5ca"
       font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
       fillColor="#e2e2e2"
-      content="Регулярное обновлени стратегии по ТО"
+      content="Регулярное обновление стратегии по ТО"
       textPosition="1"
       borderType="1">
     <bounds
@@ -612,7 +612,7 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
-      content="Постоянное улучшение"
+      content="Постоянное    улучшение"
       textPosition="1"
       borderType="2">
     <sourceConnections
@@ -631,7 +631,7 @@
     <bounds
         x="950"
         y="15"
-        width="171"
+        width="189"
         height="51"/>
   </children>
   <children
@@ -644,7 +644,7 @@
       textPosition="1"
       borderType="2">
     <bounds
-        x="1092"
+        x="1110"
         y="22"
         width="26"
         height="37"/>
@@ -660,13 +660,13 @@
     <bounds
         x="952"
         y="80"
-        width="166"
+        width="184"
         height="56"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="c6f925b2-edc1-4415-8f15-f26f17770812"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|8.1|0|WINDOWS|1|-27|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
       fillColor="#e2e2e2"
       content="ТО и производство объединены в Автоматизированной Системе Уравлени ТО"
       textPosition="1"
@@ -674,7 +674,7 @@
     <bounds
         x="952"
         y="145"
-        width="166"
+        width="184"
         height="56"/>
   </children>
   <children
@@ -688,7 +688,7 @@
     <bounds
         x="952"
         y="210"
-        width="166"
+        width="184"
         height="56"/>
   </children>
   <children
@@ -702,7 +702,7 @@
     <bounds
         x="952"
         y="273"
-        width="166"
+        width="184"
         height="56"/>
   </children>
   <children
@@ -716,7 +716,7 @@
     <bounds
         x="952"
         y="335"
-        width="166"
+        width="184"
         height="56"/>
   </children>
   <children
@@ -730,7 +730,7 @@
     <bounds
         x="952"
         y="396"
-        width="166"
+        width="184"
         height="56"/>
   </children>
   <children
@@ -739,7 +739,7 @@
       targetConnections="24b4d095-4522-4894-bf24-66f72867de09"
       font="1|Segoe UI Semibold|9.75|0|WINDOWS|1|-13|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
       textAlignment="1"
-      content="НЕВИННОСТЬ"
+      content="НЕЗРЕЛОСТЬ"
       borderType="2">
     <bounds
         x="240"
