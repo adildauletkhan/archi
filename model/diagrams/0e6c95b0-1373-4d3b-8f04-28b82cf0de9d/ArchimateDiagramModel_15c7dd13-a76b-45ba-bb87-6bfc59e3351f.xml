@@ -56,8 +56,8 @@
           href="CompositionRelationship_bf11dd60-6c76-45ee-b29b-a85e9eb18d37.xml#bf11dd60-6c76-45ee-b29b-a85e9eb18d37"/>
     </sourceConnections>
     <bounds
-        x="192"
-        y="432"
+        x="42"
+        y="142"
         width="1536"
         height="1309"/>
     <children
@@ -3951,8 +3951,8 @@
           href="AssignmentRelationship_062e2151-8053-4406-bfb8-a2c78c1c51c6.xml#062e2151-8053-4406-bfb8-a2c78c1c51c6"/>
     </sourceConnections>
     <bounds
-        x="1824"
-        y="432"
+        x="1674"
+        y="142"
         width="300"
         height="373"/>
     <children
@@ -4112,8 +4112,8 @@
           href="AssignmentRelationship_874607b7-326e-450a-8364-5c920a99ce24.xml#874607b7-326e-450a-8364-5c920a99ce24"/>
     </sourceConnections>
     <bounds
-        x="1824"
-        y="828"
+        x="1674"
+        y="538"
         width="300"
         height="373"/>
     <children
@@ -4221,8 +4221,8 @@
           href="AssignmentRelationship_eb8cfd25-81ce-4be5-b051-b73c6ea3474f.xml#eb8cfd25-81ce-4be5-b051-b73c6ea3474f"/>
     </sourceConnections>
     <bounds
-        x="1296"
-        y="312"
+        x="1146"
+        y="22"
         width="300"
         height="97"/>
     <children
@@ -4287,8 +4287,8 @@
           href="CompositionRelationship_25f5a961-97ac-461c-a17b-93bc77114c90.xml#25f5a961-97ac-461c-a17b-93bc77114c90"/>
     </sourceConnections>
     <bounds
-        x="1824"
-        y="1224"
+        x="1674"
+        y="934"
         width="300"
         height="481"/>
     <children
@@ -4572,8 +4572,8 @@
           href="CompositionRelationship_198f0f6f-de2b-4c84-8cc4-09bd7f16bdb7.xml#198f0f6f-de2b-4c84-8cc4-09bd7f16bdb7"/>
     </sourceConnections>
     <bounds
-        x="192"
-        y="1800"
+        x="42"
+        y="1510"
         width="1537"
         height="577"/>
     <children
@@ -5209,8 +5209,8 @@
           href="CompositionRelationship_608a8e7b-0063-4a5b-92a8-bb8299d1c945.xml#608a8e7b-0063-4a5b-92a8-bb8299d1c945"/>
     </sourceConnections>
     <bounds
-        x="1824"
-        y="1764"
+        x="1674"
+        y="1474"
         width="313"
         height="337"/>
     <children
@@ -5332,5 +5332,18 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_da3a42bb-28e5-416b-9bc9-01970f73dad6.xml#da3a42bb-28e5-416b-9bc9-01970f73dad6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="e77ff37b-be96-43f9-bdd1-dd6f77212dd7"
+      font="1|Segoe UI|11.1|1|WINDOWS|1|-37|0|0|0|700|0|0|0|-52|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      textPosition="1">
+    <bounds
+        width="151"
+        height="51"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_06ecb576-f44d-40ed-890f-fd889131ff49.xml#06ecb576-f44d-40ed-890f-fd889131ff49"/>
   </children>
 </archimate:ArchimateDiagramModel>
