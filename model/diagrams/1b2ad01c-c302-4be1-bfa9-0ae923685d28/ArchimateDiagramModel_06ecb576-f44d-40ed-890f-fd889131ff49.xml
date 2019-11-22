@@ -630,10 +630,10 @@
       id="4afc178e-2e18-4c14-8cfc-51768de87161"
       textAlignment="1"
       fillColor="#e0e0e0"
-      content="Граниы системы управления активами">
+      content="Границы системы управления активами">
     <bounds
         y="775"
-        width="231"
+        width="271"
         height="31"/>
   </children>
 </archimate:ArchimateDiagramModel>
