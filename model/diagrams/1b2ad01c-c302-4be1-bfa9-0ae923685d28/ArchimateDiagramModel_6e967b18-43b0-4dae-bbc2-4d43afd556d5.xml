@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="KMG.ISO-55002 (copy)"
+    name="KMG.ISO-60300"
     id="6e967b18-43b0-4dae-bbc2-4d43afd556d5">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -37,6 +37,7 @@
       borderType="1">
     <sourceConnections
         id="52d444d1-f27b-4cd9-b247-d3bdbc8601b1"
+        lineWidth="2"
         source="b6f7cf5a-e6ba-4729-a165-50530815a89d"
         target="8035bc72-3113-4852-ba3f-6ef4307cbc8c"
         type="1">
@@ -57,6 +58,70 @@
           startY="199"
           endX="236"
           endY="3"/>
+    </sourceConnections>
+    <sourceConnections
+        id="79a1b63d-7742-4778-ab0a-a9c87f13458a"
+        font="1|Segoe UI Semibold|9.0|0|WINDOWS|1|-15|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+        lineWidth="2"
+        source="b6f7cf5a-e6ba-4729-a165-50530815a89d"
+        target="5e0f26ba-ea79-423d-aeca-9e3a6b2c1df7"
+        type="1">
+      <bendpoints
+          startX="-1"
+          startY="139"
+          endX="44"
+          endY="-171"/>
+    </sourceConnections>
+    <sourceConnections
+        id="8e5bb352-9695-491f-b93c-9b08c38560be"
+        lineWidth="2"
+        source="b6f7cf5a-e6ba-4729-a165-50530815a89d"
+        target="9ef29137-7f10-4384-8b1d-14b98bea5d31"
+        type="1">
+      <bendpoints
+          startX="-1"
+          startY="235"
+          endX="236"
+          endY="-75"/>
+      <bendpoints
+          startX="-241"
+          startY="235"
+          endX="-4"
+          endY="-75"/>
+    </sourceConnections>
+    <sourceConnections
+        id="ce44bdbc-926f-4166-ab38-c5f1d2f2157b"
+        lineWidth="2"
+        source="b6f7cf5a-e6ba-4729-a165-50530815a89d"
+        target="6aa1c371-219d-41d0-8a65-2842fa526901"
+        type="1">
+      <bendpoints
+          startX="-1"
+          startY="235"
+          endX="-148"
+          endY="-75"/>
+      <bendpoints
+          startX="155"
+          startY="235"
+          endX="8"
+          endY="-75"/>
+    </sourceConnections>
+    <sourceConnections
+        id="2c959cef-f9d0-47d9-b7db-77a861ccee9d"
+        lineWidth="2"
+        source="b6f7cf5a-e6ba-4729-a165-50530815a89d"
+        target="2940467e-6212-482e-aa83-b8cb22277295"
+        type="1">
+      <bendpoints
+          startX="-1"
+          startY="235"
+          endX="-342"
+          endY="-75"/>
+      <bendpoints
+          startX="347"
+          startY="235"
+          endX="6"
+          endY="-75"/>
     </sourceConnections>
     <bounds
         x="170"
@@ -97,6 +162,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="9ef29137-7f10-4384-8b1d-14b98bea5d31"
+      targetConnections="8e5bb352-9695-491f-b93c-9b08c38560be"
       font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
       fillColor="#f0f0f0"
       content="Безотказность и готовность"
@@ -111,6 +177,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="2940467e-6212-482e-aa83-b8cb22277295"
+      targetConnections="2c959cef-f9d0-47d9-b7db-77a861ccee9d"
       font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
       fillColor="#f0f0f0"
       content="Надежность систем&#xD;&#xA;"
@@ -125,6 +192,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="5e0f26ba-ea79-423d-aeca-9e3a6b2c1df7"
+      targetConnections="79a1b63d-7742-4778-ab0a-a9c87f13458a"
       font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
       fillColor="#f0f0f0"
       content="Ремонтопригодность и обеспеченность техническим обслуживанием&#xD;&#xA;"
@@ -139,6 +207,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="6aa1c371-219d-41d0-8a65-2842fa526901"
+      targetConnections="ce44bdbc-926f-4166-ab38-c5f1d2f2157b"
       font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
       fillColor="#f0f0f0"
       content="Оценка риска&#xD;&#xA;&#xD;&#xA;"
@@ -180,7 +249,7 @@
       id="a7e0ef4d-9623-4388-b0f8-67e6b0ca2f8d"
       textAlignment="1"
       fillColor="#e0e0e0"
-      content="Граниы системы управления активами">
+      content="Структура стандартов IEC/TC 56&#xD;&#xA;">
     <bounds
         y="775"
         width="231"
