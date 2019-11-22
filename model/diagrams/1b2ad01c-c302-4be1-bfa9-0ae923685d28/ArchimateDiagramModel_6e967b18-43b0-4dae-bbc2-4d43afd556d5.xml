@@ -1,0 +1,282 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KMG.ISO-55002 (copy)"
+    id="6e967b18-43b0-4dae-bbc2-4d43afd556d5">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="415bb720-f2df-4a49-aa1d-2e17467c5ad5"
+      fillColor="#f7fefe"
+      borderType="1">
+    <bounds
+        x="-60"
+        y="220"
+        width="781"
+        height="261"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="863f0a08-d323-4766-8b03-639960bfe3d7"
+      font="1|Segoe UI|11.1|2|WINDOWS|1|-37|0|0|0|400|-1|0|0|-52|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#c0c0c0"
+      content="ГОСТ Р МЭК 60300-1—2017. МЕНЕДЖМЕНТ РИСКА &#xD;&#xA;Руководство по применению менеджмента надежности. IEC 60300-1:2014"
+      borderType="1">
+    <bounds
+        x="-100"
+        width="786"
+        height="51"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="b6f7cf5a-e6ba-4729-a165-50530815a89d"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      fillColor="#f0f0f0"
+      content="Менеджмент надежности&#xD;&#xA;"
+      textPosition="1"
+      borderType="1">
+    <sourceConnections
+        id="52d444d1-f27b-4cd9-b247-d3bdbc8601b1"
+        source="b6f7cf5a-e6ba-4729-a165-50530815a89d"
+        target="8035bc72-3113-4852-ba3f-6ef4307cbc8c"
+        type="1">
+      <bendpoints
+          startX="-1"
+          startY="60"
+          endX="236"
+          endY="10"/>
+    </sourceConnections>
+    <sourceConnections
+        id="a0853f9d-4405-4fdf-a703-9a1cfe7dc4fc"
+        lineWidth="2"
+        source="b6f7cf5a-e6ba-4729-a165-50530815a89d"
+        target="6c91e3bf-ec67-47ba-b753-8b910017559e"
+        type="1">
+      <bendpoints
+          startX="-1"
+          startY="199"
+          endX="236"
+          endY="3"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="80"
+        width="215"
+        height="66"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="8035bc72-3113-4852-ba3f-6ef4307cbc8c"
+      targetConnections="52d444d1-f27b-4cd9-b247-d3bdbc8601b1"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      fillColor="#f0f0f0"
+      content="Словарь&#xD;&#xA;"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="-48"
+        y="145"
+        width="176"
+        height="66"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6c91e3bf-ec67-47ba-b753-8b910017559e"
+      targetConnections="a0853f9d-4405-4fdf-a703-9a1cfe7dc4fc"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      fillColor="#f0f0f0"
+      content="Общая надежность&#xD;&#xA;"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="-48"
+        y="276"
+        width="176"
+        height="66"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="9ef29137-7f10-4384-8b1d-14b98bea5d31"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      fillColor="#f0f0f0"
+      content="Безотказность и готовность"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="-48"
+        y="373"
+        width="176"
+        height="101"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="2940467e-6212-482e-aa83-b8cb22277295"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      fillColor="#f0f0f0"
+      content="Надежность систем&#xD;&#xA;"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="530"
+        y="373"
+        width="176"
+        height="101"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="5e0f26ba-ea79-423d-aeca-9e3a6b2c1df7"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      fillColor="#f0f0f0"
+      content="Ремонтопригодность и обеспеченность техническим обслуживанием&#xD;&#xA;"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="144"
+        y="373"
+        width="176"
+        height="101"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6aa1c371-219d-41d0-8a65-2842fa526901"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      fillColor="#f0f0f0"
+      content="Оценка риска&#xD;&#xA;&#xD;&#xA;"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="336"
+        y="373"
+        width="176"
+        height="101"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="05f541ab-9b04-4728-ae5a-4c1c9d56898b"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Стандарты относящиеся к процессам"
+      borderType="1">
+    <bounds
+        x="-48"
+        y="228"
+        width="219"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6e1b7d55-0fe9-4575-8000-5567cebeb46d"
+      textAlignment="1"
+      fillColor="#f7fefe"
+      borderType="1">
+    <bounds
+        x="-90"
+        y="775"
+        width="76"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a7e0ef4d-9623-4388-b0f8-67e6b0ca2f8d"
+      textAlignment="1"
+      fillColor="#e0e0e0"
+      content="Граниы системы управления активами">
+    <bounds
+        y="775"
+        width="231"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="0267cbb7-0284-4ab3-91ea-c066d4538169"
+      fillColor="#f7fefe"
+      borderType="1">
+    <bounds
+        x="-60"
+        y="492"
+        width="781"
+        height="181"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="bccb008f-886e-4d99-a2cd-6062fdbaf3a5"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Стандарты поддержки"
+      borderType="1">
+    <bounds
+        x="-48"
+        y="504"
+        width="219"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c2e923d7-fa76-4679-9bcd-58bd2f4f4e95"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      fillColor="#f0f0f0"
+      content="Безотказность и готовность"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="-48"
+        y="552"
+        width="176"
+        height="101"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="e983655e-8a03-442b-8c43-81f902586e6f"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      fillColor="#f0f0f0"
+      content="Надежность систем&#xD;&#xA;"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="530"
+        y="552"
+        width="176"
+        height="101"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="86bad724-31ae-44c9-8022-fd67aabee5a1"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      fillColor="#f0f0f0"
+      content="Ремонтопригодность и обеспеченность техническим обслуживанием&#xD;&#xA;"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="144"
+        y="552"
+        width="176"
+        height="101"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="775cfb50-cd09-4c7b-aecc-4d2d9745340c"
+      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+      fillColor="#f0f0f0"
+      content="Оценка риска&#xD;&#xA;&#xD;&#xA;"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="336"
+        y="552"
+        width="176"
+        height="101"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7cb90d93-35a8-4c73-93d8-ca0a6c56eec3"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Связные с&#xD;&#xA;тандарты"
+      borderType="1">
+    <bounds
+        x="-60"
+        y="684"
+        width="219"
+        height="31"/>
+  </children>
+</archimate:ArchimateDiagramModel>
