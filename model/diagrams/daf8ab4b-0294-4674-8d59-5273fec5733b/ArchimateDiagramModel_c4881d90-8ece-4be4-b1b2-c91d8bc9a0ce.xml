@@ -10,14 +10,14 @@
       textAlignment="1"
       type="1">
     <bounds
-        x="15"
-        y="-172"
-        width="906"
-        height="703"/>
+        x="5"
+        y="-40"
+        width="981"
+        height="758"/>
     <children
         xsi:type="archimate:DiagramModelNote"
         id="9884648a-d49e-4b5a-9263-419fc702de13"
-        targetConnections="5b657e41-5770-49a2-9ddd-568d47a69f0a"
+        targetConnections="5b657e41-5770-49a2-9ddd-568d47a69f0a e24c0611-6bbc-4fce-a093-5abe83eea007"
         font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
         fillColor="#f4b9c5"
         content="НГС-1"
@@ -52,33 +52,16 @@
           source="9884648a-d49e-4b5a-9263-419fc702de13"
           target="eaf5448a-0a06-449e-9763-07c0f7e77169"
           type="1"/>
-      <sourceConnections
-          id="b7b247b9-d3c6-442e-abfe-ee05c0a0fa08"
-          lineColor="#ff8080"
-          source="9884648a-d49e-4b5a-9263-419fc702de13"
-          target="3e23a9e7-8681-4b65-9ea6-851933624668"
-          type="3">
-        <bendpoints
-            startX="-58"
-            startY="5"
-            endX="48"
-            endY="-56"/>
-        <bendpoints
-            startX="-58"
-            startY="60"
-            endX="48"
-            endY="-1"/>
-      </sourceConnections>
       <bounds
           x="755"
-          y="282"
+          y="337"
           width="66"
           height="31"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"
         id="eaf5448a-0a06-449e-9763-07c0f7e77169"
-        targetConnections="dc27ee78-707f-4b44-b9e4-75ba0adf32ad be9ae1bd-59a6-4999-9dd2-f47fa827b06f 3112b94e-cf7a-4c5a-b472-dccd5497b3fb"
+        targetConnections="dc27ee78-707f-4b44-b9e4-75ba0adf32ad be9ae1bd-59a6-4999-9dd2-f47fa827b06f 3112b94e-cf7a-4c5a-b472-dccd5497b3fb f9f501c2-5d90-4b3a-9444-677a4e380162"
         font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
         fillColor="#f1eb70"
         content="ГС"
@@ -97,18 +80,6 @@
             endY="-71"/>
       </sourceConnections>
       <sourceConnections
-          id="83e4cfcc-233a-4fcf-ad06-ed106a59751d"
-          lineColor="#ff8080"
-          source="eaf5448a-0a06-449e-9763-07c0f7e77169"
-          target="3e23a9e7-8681-4b65-9ea6-851933624668"
-          type="3">
-        <bendpoints
-            startX="-64"
-            startY="-8"
-            endX="58"
-            endY="-1"/>
-      </sourceConnections>
-      <sourceConnections
           id="a1499cd3-6859-44b2-a9a4-384635815e40"
           lineColor="#f1eb70"
           source="eaf5448a-0a06-449e-9763-07c0f7e77169"
@@ -116,7 +87,7 @@
           type="1"/>
       <bounds
           x="771"
-          y="342"
+          y="397"
           width="33"
           height="46"/>
     </children>
@@ -143,7 +114,7 @@
       </sourceConnections>
       <bounds
           x="830"
-          y="427"
+          y="482"
           width="33"
           height="31"/>
     </children>
@@ -164,7 +135,7 @@
           type="1"/>
       <bounds
           x="420"
-          y="577"
+          y="632"
           width="66"
           height="31"/>
     </children>
@@ -212,7 +183,7 @@
       </sourceConnections>
       <bounds
           x="420"
-          y="627"
+          y="682"
           width="66"
           height="31"/>
     </children>
@@ -279,7 +250,7 @@
       </sourceConnections>
       <bounds
           x="540"
-          y="558"
+          y="613"
           width="66"
           height="31"/>
     </children>
@@ -306,14 +277,24 @@
             endY="395"/>
         <bendpoints
             startX="97"
-            startY="-441"
+            startY="-288"
             endX="130"
-            endY="-45"/>
+            endY="108"/>
+        <bendpoints
+            startX="157"
+            startY="-288"
+            endX="190"
+            endY="108"/>
+        <bendpoints
+            startX="157"
+            startY="-438"
+            endX="190"
+            endY="-42"/>
         <bendpoints
             startX="-28"
-            startY="-441"
+            startY="-438"
             endX="5"
-            endY="-45"/>
+            endY="-42"/>
       </sourceConnections>
       <sourceConnections
           id="75752bf6-7933-49a5-82f7-14e62f3f1362"
@@ -345,7 +326,7 @@
       </sourceConnections>
       <bounds
           x="540"
-          y="508"
+          y="563"
           width="66"
           height="31"/>
     </children>
@@ -358,18 +339,6 @@
         content="ЕП-12,5"
         textPosition="1"
         borderType="1">
-      <sourceConnections
-          id="0f9c586d-cbd9-424d-96f2-15098a50938c"
-          lineColor="#ff8080"
-          source="6824cc59-a7f7-4b4f-8c83-59cbed66f37c"
-          target="3e23a9e7-8681-4b65-9ea6-851933624668"
-          type="3">
-        <bendpoints
-            startX="7"
-            startY="-96"
-            endX="48"
-            endY="-1"/>
-      </sourceConnections>
       <sourceConnections
           id="3112b94e-cf7a-4c5a-b472-dccd5497b3fb"
           lineColor="#dddd00"
@@ -386,9 +355,22 @@
             endX="-107"
             endY="7"/>
       </sourceConnections>
+      <sourceConnections
+          id="e24c0611-6bbc-4fce-a093-5abe83eea007"
+          lineWidth="2"
+          lineColor="#800000"
+          source="6824cc59-a7f7-4b4f-8c83-59cbed66f37c"
+          target="9884648a-d49e-4b5a-9263-419fc702de13"
+          type="2">
+        <bendpoints
+            startX="2"
+            startY="-146"
+            endX="-63"
+            endY="10"/>
+      </sourceConnections>
       <bounds
           x="690"
-          y="438"
+          y="493"
           width="66"
           height="31"/>
     </children>
@@ -408,14 +390,14 @@
           target="6824cc59-a7f7-4b4f-8c83-59cbed66f37c"/>
       <bounds
           x="690"
-          y="482"
+          y="537"
           width="66"
           height="31"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"
         id="12248a35-41fa-4cb6-b87c-d24734af3312"
-        targetConnections="c33b1945-b592-4e5a-84e7-3416f74a3c0b"
+        targetConnections="c33b1945-b592-4e5a-84e7-3416f74a3c0b 3956e375-24ab-49cc-bba5-993622f37a37"
         font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
         fillColor="#cdcde7"
         content="ОБН-1"
@@ -486,7 +468,7 @@
       </sourceConnections>
       <bounds
           x="490"
-          y="312"
+          y="367"
           width="116"
           height="31"/>
     </children>
@@ -569,7 +551,7 @@
       </sourceConnections>
       <bounds
           x="490"
-          y="252"
+          y="307"
           width="116"
           height="31"/>
     </children>
@@ -632,7 +614,7 @@
       </sourceConnections>
       <bounds
           x="490"
-          y="378"
+          y="433"
           width="116"
           height="31"/>
     </children>
@@ -678,9 +660,27 @@
             startY="-145"
             endX="404"/>
       </sourceConnections>
+      <sourceConnections
+          id="3956e375-24ab-49cc-bba5-993622f37a37"
+          lineWidth="2"
+          lineColor="#800000"
+          source="78657a94-6e05-4ecb-b7f1-64becb43bad6"
+          target="12248a35-41fa-4cb6-b87c-d24734af3312"
+          type="2">
+        <bendpoints
+            startX="-108"
+            startY="5"
+            endX="-108"
+            endY="120"/>
+        <bendpoints
+            startX="-108"
+            startY="-110"
+            endX="-108"
+            endY="5"/>
+      </sourceConnections>
       <bounds
           x="490"
-          y="427"
+          y="482"
           width="116"
           height="31"/>
     </children>
@@ -737,23 +737,6 @@
             endX="67"/>
       </sourceConnections>
       <sourceConnections
-          id="5bb95c74-95f8-4b58-896d-2538453ffb98"
-          lineColor="#ff8080"
-          source="8ad0fa6c-947f-4deb-985d-65f1b772c9cb"
-          target="6de49baf-d1d4-40a9-bba1-ee046a10557b"
-          type="3">
-        <bendpoints
-            startX="-43"
-            startY="-5"
-            endX="-38"
-            endY="58"/>
-        <bendpoints
-            startX="-43"
-            startY="-65"
-            endX="-38"
-            endY="-2"/>
-      </sourceConnections>
-      <sourceConnections
           id="c7132c75-8c2a-48f9-8980-48a7259c0595"
           lineColor="#0000ff"
           source="8ad0fa6c-947f-4deb-985d-65f1b772c9cb"
@@ -777,16 +760,34 @@
             endX="102"
             endY="-1"/>
       </sourceConnections>
+      <sourceConnections
+          id="5bb95c74-95f8-4b58-896d-2538453ffb98"
+          lineWidth="2"
+          lineColor="#800000"
+          source="8ad0fa6c-947f-4deb-985d-65f1b772c9cb"
+          target="ccd017a0-ee36-47d1-bd79-d04413675a15"
+          type="2">
+        <bendpoints
+            startX="-48"
+            startY="9"
+            endX="-48"
+            endY="-41"/>
+        <bendpoints
+            startX="-48"
+            startY="54"
+            endX="-48"
+            endY="4"/>
+      </sourceConnections>
       <bounds
           x="325"
-          y="508"
+          y="563"
           width="66"
           height="31"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"
         id="ccd017a0-ee36-47d1-bd79-d04413675a15"
-        targetConnections="c7132c75-8c2a-48f9-8980-48a7259c0595"
+        targetConnections="c7132c75-8c2a-48f9-8980-48a7259c0595 5bb95c74-95f8-4b58-896d-2538453ffb98"
         font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
         fillColor="#ffb56a"
         content="ЕП-63"
@@ -795,30 +796,30 @@
       <sourceConnections
           id="b5e1d356-2f40-404f-911b-7480931d5735"
           lineWidth="2"
-          lineColor="#ff8080"
+          lineColor="#800000"
           source="ccd017a0-ee36-47d1-bd79-d04413675a15"
           target="6de49baf-d1d4-40a9-bba1-ee046a10557b"
           type="3">
         <bendpoints
             startX="-48"
-            startY="-1"
-            endX="279"
-            endY="521"/>
+            startY="4"
+            endX="281"
+            endY="531"/>
         <bendpoints
             startX="-48"
-            startY="-106"
-            endX="279"
+            startY="-111"
+            endX="281"
             endY="416"/>
         <bendpoints
-            startX="82"
-            startY="-106"
-            endX="409"
+            startX="72"
+            startY="-111"
+            endX="401"
             endY="416"/>
         <bendpoints
-            startX="82"
+            startX="72"
             startY="-531"
-            endX="409"
-            endY="-9"/>
+            endX="401"
+            endY="-4"/>
       </sourceConnections>
       <sourceConnections
           id="1216425f-febe-4558-a211-468e6fb3a6f8"
@@ -828,7 +829,7 @@
           type="1"/>
       <bounds
           x="325"
-          y="558"
+          y="613"
           width="66"
           height="31"/>
     </children>
@@ -849,14 +850,24 @@
           type="1">
         <bendpoints
             startX="10"
-            startY="-55"
+            startY="-47"
             endX="-178"
-            endY="-260"/>
+            endY="-252"/>
+        <bendpoints
+            startX="360"
+            startY="-47"
+            endX="172"
+            endY="-252"/>
+        <bendpoints
+            startX="360"
+            startY="78"
+            endX="172"
+            endY="-127"/>
         <bendpoints
             startX="300"
-            startY="-55"
+            startY="78"
             endX="112"
-            endY="-260"/>
+            endY="-127"/>
         <bendpoints
             startX="300"
             startY="205"
@@ -871,14 +882,24 @@
           type="1">
         <bendpoints
             startX="10"
-            startY="-55"
+            startY="-47"
             endX="-178"
-            endY="-200"/>
+            endY="-192"/>
+        <bendpoints
+            startX="360"
+            startY="-47"
+            endX="172"
+            endY="-192"/>
+        <bendpoints
+            startX="360"
+            startY="78"
+            endX="172"
+            endY="-67"/>
         <bendpoints
             startX="300"
-            startY="-55"
+            startY="78"
             endX="112"
-            endY="-200"/>
+            endY="-67"/>
         <bendpoints
             startX="300"
             startY="145"
@@ -886,7 +907,7 @@
       </sourceConnections>
       <bounds
           x="345"
-          y="97"
+          y="152"
           width="31"
           height="51"/>
     </children>
@@ -907,7 +928,7 @@
           type="1"/>
       <bounds
           x="390"
-          y="97"
+          y="152"
           width="31"
           height="51"/>
     </children>
@@ -927,15 +948,15 @@
           target="3a20f568-3990-4b3e-aa44-08a810007e27"
           type="1">
         <bendpoints
-            startX="-15"
-            startY="-45"
-            endX="38"
-            endY="-45"/>
+            startX="-10"
+            startY="-42"
+            endX="35"
+            endY="-42"/>
         <bendpoints
-            startX="-40"
-            startY="-45"
-            endX="13"
-            endY="-45"/>
+            startX="-30"
+            startY="-42"
+            endX="15"
+            endY="-42"/>
       </sourceConnections>
       <sourceConnections
           id="fdc885d5-9b30-4fc9-a0ef-29664f24ea3a"
@@ -955,7 +976,7 @@
       </sourceConnections>
       <bounds
           x="520"
-          y="97"
+          y="152"
           width="41"
           height="61"/>
     </children>
@@ -976,15 +997,15 @@
           target="cf7d671b-8b41-4504-be3c-160e79b2ce1b"
           type="1">
         <bendpoints
-            startX="3"
-            startY="-45"
-            endX="50"
-            endY="-40"/>
+            startX="5"
+            startY="-42"
+            endX="95"
+            endY="-37"/>
         <bendpoints
             startX="-85"
-            startY="-45"
+            startY="-42"
             endX="5"
-            endY="-40"/>
+            endY="-37"/>
       </sourceConnections>
       <sourceConnections
           id="bf126cd6-8b9f-44f6-a41c-8fe5523c5b10"
@@ -1005,7 +1026,7 @@
       </sourceConnections>
       <bounds
           x="475"
-          y="97"
+          y="152"
           width="41"
           height="61"/>
     </children>
@@ -1020,7 +1041,7 @@
         borderType="1">
       <bounds
           x="23"
-          y="242"
+          y="297"
           width="66"
           height="31"/>
     </children>
@@ -1056,7 +1077,7 @@
           type="1"/>
       <bounds
           x="23"
-          y="282"
+          y="337"
           width="66"
           height="31"/>
     </children>
@@ -1103,7 +1124,7 @@
           type="8"/>
       <bounds
           x="18"
-          y="337"
+          y="392"
           width="66"
           height="31"/>
     </children>
@@ -1118,53 +1139,55 @@
       <sourceConnections
           id="d0b2136b-de06-4971-86d6-3d07d3df33c6"
           lineWidth="2"
-          lineColor="#ff8080"
+          lineColor="#800000"
           source="76b7b758-026c-429b-93e0-661034740836"
           target="82bbd74c-6918-48e7-9b34-a13242e41cd0"
           type="10">
         <bendpoints
-            startX="359"
-            startY="-5"
-            endX="-123"
+            startX="336"
+            endX="-133"
             endY="-506"/>
         <bendpoints
-            startX="359"
-            startY="495"
-            endX="-123"
+            startX="336"
+            startY="500"
+            endX="-133"
             endY="-6"/>
       </sourceConnections>
+      <sourceConnections
+          id="f9f501c2-5d90-4b3a-9444-677a4e380162"
+          lineWidth="2"
+          lineColor="#800000"
+          source="76b7b758-026c-429b-93e0-661034740836"
+          target="eaf5448a-0a06-449e-9763-07c0f7e77169"
+          type="2">
+        <bendpoints
+            startX="336"
+            endX="-347"
+            endY="-348"/>
+        <bendpoints
+            startX="336"
+            startY="340"
+            endX="-347"
+            endY="-8"/>
+      </sourceConnections>
       <bounds
-          x="60"
-          y="7"
-          width="63"
+          x="78"
+          y="57"
+          width="53"
           height="30"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"
-        id="3e23a9e7-8681-4b65-9ea6-851933624668"
-        targetConnections="0f9c586d-cbd9-424d-96f2-15098a50938c b7b247b9-d3c6-442e-abfe-ee05c0a0fa08 83e4cfcc-233a-4fcf-ad06-ed106a59751d"
-        font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
-        fillColor="#c9e7b7"
-        textPosition="1"
-        borderType="1">
-      <bounds
-          x="674"
-          y="348"
-          width="17"
-          height="20"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
         id="6de49baf-d1d4-40a9-bba1-ee046a10557b"
-        targetConnections="b5e1d356-2f40-404f-911b-7480931d5735 5bb95c74-95f8-4b58-896d-2538453ffb98"
+        targetConnections="b5e1d356-2f40-404f-911b-7480931d5735"
         font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
         fillColor="#c9e7b7"
         content="ФНД"
         textPosition="1"
         borderType="1">
       <bounds
-          x="7"
-          y="36"
+          x="5"
+          y="86"
           width="49"
           height="30"/>
     </children>
@@ -1188,7 +1211,7 @@
       </sourceConnections>
       <bounds
           x="490"
-          y="558"
+          y="613"
           width="11"
           height="12"/>
     </children>
@@ -1289,7 +1312,7 @@
       </sourceConnections>
       <bounds
           x="155"
-          y="558"
+          y="613"
           width="66"
           height="51"/>
     </children>
@@ -1367,7 +1390,7 @@
       </sourceConnections>
       <bounds
           x="155"
-          y="472"
+          y="527"
           width="66"
           height="51"/>
     </children>
@@ -1464,7 +1487,7 @@
       </sourceConnections>
       <bounds
           x="155"
-          y="647"
+          y="702"
           width="66"
           height="51"/>
     </children>
@@ -1505,7 +1528,7 @@
       </sourceConnections>
       <bounds
           x="40"
-          y="472"
+          y="527"
           width="66"
           height="51"/>
     </children>
@@ -1580,7 +1603,7 @@
       </sourceConnections>
       <bounds
           x="40"
-          y="558"
+          y="613"
           width="66"
           height="51"/>
     </children>
@@ -1661,7 +1684,7 @@
       </sourceConnections>
       <bounds
           x="40"
-          y="647"
+          y="702"
           width="66"
           height="51"/>
     </children>
@@ -1730,7 +1753,7 @@
       </sourceConnections>
       <bounds
           x="300"
-          y="97"
+          y="152"
           width="30"
           height="51"/>
     </children>
@@ -1802,7 +1825,7 @@
       </sourceConnections>
       <bounds
           x="260"
-          y="97"
+          y="152"
           width="31"
           height="51"/>
     </children>
@@ -1859,7 +1882,7 @@
       </sourceConnections>
       <bounds
           x="220"
-          y="97"
+          y="152"
           width="31"
           height="51"/>
     </children>
@@ -1896,7 +1919,7 @@
       </sourceConnections>
       <bounds
           x="180"
-          y="97"
+          y="152"
           width="31"
           height="51"/>
     </children>
@@ -1970,7 +1993,7 @@
       </sourceConnections>
       <bounds
           x="636"
-          y="32"
+          y="87"
           width="55"
           height="28"/>
     </children>
@@ -1984,7 +2007,7 @@
         borderType="1">
       <bounds
           x="130"
-          y="213"
+          y="268"
           width="66"
           height="51"/>
     </children>
@@ -1998,7 +2021,7 @@
         borderType="1">
       <bounds
           x="5"
-          y="134"
+          y="189"
           width="41"
           height="51"/>
     </children>
@@ -2012,7 +2035,7 @@
         borderType="1">
       <bounds
           x="55"
-          y="134"
+          y="189"
           width="41"
           height="51"/>
     </children>
@@ -2026,7 +2049,7 @@
         borderType="1">
       <bounds
           x="105"
-          y="134"
+          y="189"
           width="41"
           height="51"/>
     </children>
@@ -2057,7 +2080,7 @@
       </sourceConnections>
       <bounds
           x="565"
-          y="97"
+          y="152"
           width="41"
           height="61"/>
     </children>
@@ -2084,7 +2107,7 @@
       </sourceConnections>
       <bounds
           x="610"
-          y="97"
+          y="152"
           width="41"
           height="61"/>
     </children>
@@ -2109,7 +2132,7 @@
       </sourceConnections>
       <bounds
           x="810"
-          y="482"
+          y="537"
           width="11"
           height="12"/>
     </children>
@@ -2123,7 +2146,7 @@
         borderType="1">
       <bounds
           x="782"
-          y="252"
+          y="307"
           width="11"
           height="12"/>
     </children>
@@ -2156,7 +2179,7 @@
       </sourceConnections>
       <bounds
           x="740"
-          y="132"
+          y="187"
           width="96"
           height="56"/>
     </children>
@@ -2171,7 +2194,7 @@
         borderType="1">
       <bounds
           x="820"
-          y="202"
+          y="257"
           width="66"
           height="31"/>
     </children>
@@ -2207,7 +2230,7 @@
       </sourceConnections>
       <bounds
           x="742"
-          y="408"
+          y="463"
           width="51"
           height="29"/>
     </children>
@@ -2221,7 +2244,7 @@
         borderType="1">
       <bounds
           x="45"
-          y="388"
+          y="443"
           width="11"
           height="12"/>
     </children>
@@ -2235,14 +2258,14 @@
         borderType="1">
       <bounds
           x="23"
-          y="202"
+          y="257"
           width="66"
           height="31"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"
         id="4359875b-0da1-4704-a369-5884495bbb7c"
-        targetConnections="783c172b-cd89-40ad-93f8-53936159937d"
+        targetConnections="783c172b-cd89-40ad-93f8-53936159937d 26584ad1-a542-438d-b807-335d631df82e"
         font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
         textAlignment="1"
         fillColor="#f1eb70"
@@ -2256,89 +2279,104 @@
           type="1"/>
       <bounds
           x="730"
-          y="31"
+          y="86"
           width="36"
           height="29"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="1524c4b4-4cef-46b8-8ab5-76323ac92a60"
+        font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+        fillColor="#ffb56a"
+        content="ЕП-12,5"
+        textPosition="1"
+        borderType="1">
+      <bounds
+          x="485"
+          y="40"
+          width="66"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="0d2b850b-7d4f-4030-af9e-ad2fc922d908"
+        targetConnections="09faca4c-68f9-4eda-a555-c0be729f74fa"
+        font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+        textAlignment="1"
+        fillColor="#c9e7b7"
+        textPosition="2">
+      <bounds
+          x="585"
+          y="15"
+          width="76"
+          height="56"/>
+      <archimateElement
+          xsi:type="archimate:Facility"
+          href="Facility_c273d002-0a2e-47c1-961a-925b822fbf91.xml#c273d002-0a2e-47c1-961a-925b822fbf91"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="e2cfc7fd-53a7-4ef6-aa61-e49c0feaf92d"
+        font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+        textAlignment="1"
+        fillColor="#f1eb70"
+        content="газ с м\р С. Котыртас"
+        borderType="1">
+      <sourceConnections
+          id="3f6c2995-c57e-47a1-96f6-0a122a339b03"
+          lineColor="#f1eb70"
+          source="e2cfc7fd-53a7-4ef6-aa61-e49c0feaf92d"
+          target="2ef5aaf8-ff1e-423b-9006-97b539e518cb"
+          type="1">
+        <bendpoints
+            startX="14"
+            startY="375"
+            endX="133"
+            endY="-2"/>
+      </sourceConnections>
+      <sourceConnections
+          id="783c172b-cd89-40ad-93f8-53936159937d"
+          lineColor="#f1eb70"
+          source="e2cfc7fd-53a7-4ef6-aa61-e49c0feaf92d"
+          target="4359875b-0da1-4704-a369-5884495bbb7c"
+          type="1"/>
+      <bounds
+          x="803"
+          y="86"
+          width="166"
+          height="29"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="e2329c3a-b2a6-4e68-bad8-bed764a30226"
+        font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+        textAlignment="1"
+        fillColor="#e6e6e6"
+        textPosition="1"
+        type="1">
+      <sourceConnections
+          id="26584ad1-a542-438d-b807-335d631df82e"
+          lineColor="#f1eb70"
+          source="e2329c3a-b2a6-4e68-bad8-bed764a30226"
+          target="4359875b-0da1-4704-a369-5884495bbb7c"
+          type="8">
+        <bendpoints
+            startX="70"
+            startY="-12"
+            endX="2"
+            endY="70"/>
+      </sourceConnections>
+      <bounds
+          x="650"
+          y="152"
+          width="61"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_b4cd46ed-f84e-4551-b135-99f14310bfc8.xml#b4cd46ed-f84e-4551-b135-99f14310bfc8"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_992824c4-7796-4873-bca2-d38f14b11408.xml#992824c4-7796-4873-bca2-d38f14b11408"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="e2329c3a-b2a6-4e68-bad8-bed764a30226"
-      textAlignment="1"
-      fillColor="#f7f7f7"
-      type="1">
-    <bounds
-        x="930"
-        y="-85"
-        width="140"
-        height="46"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_b4cd46ed-f84e-4551-b135-99f14310bfc8.xml#b4cd46ed-f84e-4551-b135-99f14310bfc8"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="0d2b850b-7d4f-4030-af9e-ad2fc922d908"
-      targetConnections="09faca4c-68f9-4eda-a555-c0be729f74fa"
-      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
-      textAlignment="1"
-      fillColor="#c9e7b7"
-      textPosition="2">
-    <bounds
-        x="605"
-        y="-227"
-        width="76"
-        height="56"/>
-    <archimateElement
-        xsi:type="archimate:Facility"
-        href="Facility_c273d002-0a2e-47c1-961a-925b822fbf91.xml#c273d002-0a2e-47c1-961a-925b822fbf91"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="e2cfc7fd-53a7-4ef6-aa61-e49c0feaf92d"
-      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
-      textAlignment="1"
-      fillColor="#f1eb70"
-      content="газ с м\р С. Котыртас"
-      borderType="1">
-    <sourceConnections
-        id="3f6c2995-c57e-47a1-96f6-0a122a339b03"
-        lineColor="#f1eb70"
-        source="e2cfc7fd-53a7-4ef6-aa61-e49c0feaf92d"
-        target="2ef5aaf8-ff1e-423b-9006-97b539e518cb"
-        type="1">
-      <bendpoints
-          startX="-3"
-          startY="386"
-          endX="123"/>
-    </sourceConnections>
-    <sourceConnections
-        id="783c172b-cd89-40ad-93f8-53936159937d"
-        lineColor="#f1eb70"
-        source="e2cfc7fd-53a7-4ef6-aa61-e49c0feaf92d"
-        target="4359875b-0da1-4704-a369-5884495bbb7c"
-        type="1"/>
-    <bounds
-        x="825"
-        y="-150"
-        width="166"
-        height="29"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="1524c4b4-4cef-46b8-8ab5-76323ac92a60"
-      font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
-      fillColor="#ffb56a"
-      content="ЕП-12,5"
-      textPosition="1"
-      borderType="1">
-    <bounds
-        x="480"
-        y="-215"
-        width="66"
-        height="31"/>
   </children>
 </archimate:ArchimateDiagramModel>
