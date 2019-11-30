@@ -488,18 +488,6 @@
               xsi:type="archimate:Facility"
               href="Facility_956b3d27-e935-4086-8d7f-c7c89d0a258c.xml#956b3d27-e935-4086-8d7f-c7c89d0a258c"/>
         </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="721bd1f8-d28c-4820-ab05-63a036cd275a">
-          <bounds
-              x="335"
-              y="25"
-              width="184"
-              height="199"/>
-          <archimateElement
-              xsi:type="archimate:Facility"
-              href="Facility_5651a9b4-b8ba-4e9b-880a-998cfccbd848.xml#5651a9b4-b8ba-4e9b-880a-998cfccbd848"/>
-        </children>
         <archimateElement
             xsi:type="archimate:Grouping"
             href="Grouping_5096d4e0-3e48-47ad-bd4a-3db61e12ded6.xml#5096d4e0-3e48-47ad-bd4a-3db61e12ded6"/>

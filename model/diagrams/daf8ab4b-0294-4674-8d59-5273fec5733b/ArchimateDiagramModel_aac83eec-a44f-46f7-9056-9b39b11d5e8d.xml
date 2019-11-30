@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Произв. филиал ЭМГ"
+    name="EMG.NGDU KainarMG"
     id="aac83eec-a44f-46f7-9056-9b39b11d5e8d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -160,18 +160,6 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_0e847b0a-54ca-48ca-b223-0f9f607db808.xml#0e847b0a-54ca-48ca-b223-0f9f607db808"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="bea9b332-2adf-459b-bebf-785bd0f57cfa">
-    <bounds
-        x="1044"
-        y="-48"
-        width="97"
-        height="37"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_09f75d18-a299-48e4-a168-964fb282c738.xml#09f75d18-a299-48e4-a168-964fb282c738"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -359,7 +347,7 @@
         x="-169"
         y="95"
         width="540"
-        height="281"/>
+        height="276"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="717ed765-5ace-4b24-8e3a-6c397c5d9577"
@@ -946,7 +934,7 @@
         x="395"
         y="95"
         width="541"
-        height="281"/>
+        height="276"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0d130628-52c1-4066-8d70-f02a226b80f6"
@@ -1437,7 +1425,7 @@
         x="972"
         y="95"
         width="649"
-        height="281"/>
+        height="276"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="9985b65f-0716-48ee-9c13-40ac357b33eb"
@@ -1696,9 +1684,9 @@
             href="FlowRelationship_1cfa5fdc-4cf1-4e57-b357-9b40384e8f28.xml#1cfa5fdc-4cf1-4e57-b357-9b40384e8f28"/>
       </sourceConnections>
       <bounds
-          x="300"
+          x="290"
           y="182"
-          width="66"
+          width="81"
           height="45"/>
       <archimateElement
           xsi:type="archimate:Equipment"
@@ -1795,7 +1783,7 @@
           x="552"
           y="228"
           width="66"
-          height="45"/>
+          height="43"/>
       <archimateElement
           xsi:type="archimate:Equipment"
           href="Equipment_87c9fe4d-152b-41f3-9fc9-3a609be1de75.xml#87c9fe4d-152b-41f3-9fc9-3a609be1de75"/>
@@ -1899,7 +1887,7 @@
       <bounds
           x="390"
           y="182"
-          width="66"
+          width="71"
           height="45"/>
       <archimateElement
           xsi:type="archimate:Equipment"
@@ -2036,5 +2024,30 @@
     <archimateElement
         xsi:type="archimate:Facility"
         href="Facility_6f73ebe5-461c-4ffd-a83e-390064b53ece.xml#6f73ebe5-461c-4ffd-a83e-390064b53ece"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1f667680-32b4-4e76-9623-74145791ee9c"
+      textAlignment="1"
+      fillColor="#c0c0c0"
+      content="ИСО 55000:2014 Управление активами. Национальная система стандартов. Общее представление, принципы и терминология">
+    <bounds
+        x="-323"
+        y="-45"
+        width="386"
+        height="46"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="36890ca4-82c7-4097-9c3a-395fb8efe25e"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#ececec"
+      content="Центральный пункт подготовки нефти месторождения «Северный Котыртас» НГДУ «Кайнармунайгаз» ">
+    <bounds
+        x="-323"
+        y="630"
+        width="489"
+        height="51"/>
   </children>
 </archimate:ArchimateDiagramModel>
