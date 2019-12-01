@@ -101,7 +101,7 @@
         borderType="1">
       <sourceConnections
           id="2f16ac79-3259-4c7f-9893-032bbf3e3a25"
-          lineColor="#8080ff"
+          lineColor="#008040"
           source="96f5ab5d-29ad-40ca-b91c-74ffd41bb2c0"
           target="17575d3d-4d63-4f61-aa5c-55258dec58df"
           type="1">
@@ -501,6 +501,7 @@
           id="3ed0cfe6-51b1-4134-977e-b51453eeb688"
           name="7 шаг"
           lineColor="#804040"
+          textPosition="2"
           source="9be8b369-c598-4cdc-9f1f-0017313548ab"
           target="8405eb28-0ad5-49a2-9d32-1859f90057c5"
           type="1">
@@ -1472,14 +1473,13 @@
             endY="305"/>
         <bendpoints
             startX="217"
-            startY="-465"
+            startY="-467"
             endX="-180"
-            endY="80"/>
+            endY="78"/>
         <bendpoints
-            startX="387"
-            startY="-465"
-            endX="-10"
-            endY="80"/>
+            startX="397"
+            startY="-467"
+            endY="78"/>
       </sourceConnections>
       <sourceConnections
           id="94df19f9-25c1-4ee9-a703-5585f396d29b"
@@ -1876,9 +1876,9 @@
           type="1">
         <bendpoints
             startX="-5"
-            startY="-35"
-            endX="42"
-            endY="-410"/>
+            startY="-32"
+            endX="62"
+            endY="-407"/>
         <bendpoints
             startX="-20"
             startY="-32"
@@ -2054,14 +2054,10 @@
           target="c51a6d1e-976f-4369-a730-e7448c3db46f"
           type="1">
         <bendpoints
-            startX="-8"
-            startY="-102"
-            endX="65"
-            endY="-42"/>
-        <bendpoints
-            startX="-73"
-            startY="-102"
-            endY="-42"/>
+            startX="-138"
+            startY="-17"
+            endX="-5"
+            endY="43"/>
       </sourceConnections>
       <sourceConnections
           id="65243061-0294-49cf-947b-ffeab7b4bc68"
@@ -2070,17 +2066,13 @@
           target="caadca04-3557-46bb-ae32-23fde727291d"
           type="1">
         <bendpoints
-            startX="-8"
-            startY="-102"
-            endX="110"
-            endY="-42"/>
-        <bendpoints
-            startX="-118"
-            startY="-102"
-            endY="-42"/>
+            startX="-173"
+            startY="-17"
+            endX="5"
+            endY="43"/>
       </sourceConnections>
       <bounds
-          x="230"
+          x="280"
           y="257"
           width="56"
           height="51"/>
@@ -2133,14 +2125,13 @@
           target="7dc4b27e-81c5-4721-824f-2de1299eec24"
           type="1">
         <bendpoints
-            startX="10"
-            startY="45"
-            endX="-40"
-            endY="45"/>
+            startY="48"
+            endX="-45"
+            endY="48"/>
         <bendpoints
-            startX="50"
-            startY="45"
-            endY="45"/>
+            startX="45"
+            startY="48"
+            endY="48"/>
       </sourceConnections>
       <sourceConnections
           id="27ff58a6-8b65-4c07-b210-b839d4e2df16"
@@ -2189,7 +2180,7 @@
         borderType="1">
       <sourceConnections
           id="538ab4ae-9f6f-4196-a39a-5fae7ad730e2"
-          lineColor="#8080ff"
+          lineColor="#008040"
           source="b1a22523-032d-4b84-8b18-af4ce67e57d2"
           target="96f5ab5d-29ad-40ca-b91c-74ffd41bb2c0"
           type="8">
@@ -2517,6 +2508,23 @@
           width="41"
           height="61"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="89169a2c-bba4-4a75-bd30-226bdd212f3e"
+        font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+        textAlignment="1"
+        fillColor="#e6e6e6"
+        textPosition="1"
+        type="1">
+      <bounds
+          x="195"
+          y="192"
+          width="61"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_ae39908c-6853-40b5-8344-945b5a833504.xml#ae39908c-6853-40b5-8344-945b5a833504"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_992824c4-7796-4873-bca2-d38f14b11408.xml#992824c4-7796-4873-bca2-d38f14b11408"/>
@@ -2558,10 +2566,30 @@
           endX="-243"
           endY="-187"/>
       <bendpoints
-          startX="167"
+          startX="72"
           startY="126"
-          endX="-3"
+          endX="-148"
           endY="-187"/>
+      <bendpoints
+          startX="72"
+          startY="211"
+          endX="-148"
+          endY="-102"/>
+      <bendpoints
+          startX="187"
+          startY="211"
+          endX="-33"
+          endY="-102"/>
+      <bendpoints
+          startX="187"
+          startY="266"
+          endX="-33"
+          endY="-47"/>
+      <bendpoints
+          startX="222"
+          startY="266"
+          endX="2"
+          endY="-47"/>
     </sourceConnections>
     <bounds
         y="-35"
@@ -2669,5 +2697,17 @@
         y="45"
         width="166"
         height="29"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="569b9bff-f04b-4e7d-aafc-ae3f3f467784"
+      font="1|Segoe UI|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#ececec"
+      content="Центральный пункт подготовки нефти месторождения «Северный Котыртас» НГДУ «Кайнармунайгаз» ">
+    <bounds
+        y="-130"
+        width="489"
+        height="51"/>
   </children>
 </archimate:ArchimateDiagramModel>
