@@ -24,22 +24,8 @@
     <bounds
         x="5"
         y="65"
-        width="1171"
+        width="1271"
         height="796"/>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="fca0c8c6-f5f2-4e01-a63b-0d5f82daeb21"
-        font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-        fontColor="#ffffff"
-        fillColor="#804040"
-        content="25"
-        borderType="1">
-      <bounds
-          x="680"
-          y="185"
-          width="24"
-          height="21"/>
-    </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="1614c450-85ae-486a-a1af-bead952df6be"
@@ -48,9 +34,9 @@
         borderType="1">
       <bounds
           x="250"
-          y="210"
-          width="226"
-          height="196"/>
+          y="30"
+          width="276"
+          height="511"/>
       <children
           xsi:type="archimate:DiagramModelNote"
           id="4b18c19c-d6ee-41d8-b739-cf2b19b487b4"
@@ -62,7 +48,7 @@
           borderType="1">
         <bounds
             x="15"
-            y="50"
+            y="230"
             width="139"
             height="31"/>
       </children>
@@ -77,7 +63,7 @@
           borderType="1">
         <bounds
             x="15"
-            y="145"
+            y="325"
             width="139"
             height="31"/>
       </children>
@@ -86,8 +72,8 @@
           id="c2ff6561-bc7d-42f3-afb9-e6d4b29e2d70"
           targetConnections="0671347e-a8d4-493d-9e31-d66377c1dd8f"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="99"
           borderType="1">
         <sourceConnections
@@ -107,7 +93,7 @@
         </sourceConnections>
         <bounds
             x="15"
-            y="80"
+            y="260"
             width="24"
             height="21"/>
       </children>
@@ -115,8 +101,8 @@
           xsi:type="archimate:DiagramModelNote"
           id="83ce5adc-3dcf-4830-b4eb-e388df90e75f"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="95"
           borderType="1">
         <sourceConnections
@@ -126,7 +112,7 @@
             target="519808cf-e8e0-4dce-8866-0203b3d49cf3"/>
         <bounds
             x="77"
-            y="80"
+            y="260"
             width="24"
             height="21"/>
       </children>
@@ -135,24 +121,31 @@
           id="519808cf-e8e0-4dce-8866-0203b3d49cf3"
           targetConnections="032c8802-3829-49ca-8f19-f0cc5a4164e8"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="92"
           borderType="1">
         <sourceConnections
             id="159caec8-75a7-48bc-b633-f99a2fe3dd07"
+            name="8 шаг"
             lineColor="#804040"
             source="519808cf-e8e0-4dce-8866-0203b3d49cf3"
-            target="80e1a65c-555b-4ca7-b856-379d5424f0df"
+            target="ab57651f-5711-4dca-85af-06799b262176"
             type="1">
           <bendpoints
               startX="1"
               startY="-20"
-              endX="175"/>
+              endX="138"
+              endY="20"/>
+          <bendpoints
+              startX="-139"
+              startY="-20"
+              endX="-2"
+              endY="20"/>
         </sourceConnections>
         <bounds
             x="77"
-            y="125"
+            y="305"
             width="24"
             height="21"/>
       </children>
@@ -161,13 +154,13 @@
           id="06d9741c-2dc6-4b2d-8e2d-db41f9a3fcbe"
           targetConnections="c6da18fb-18eb-4ff2-83dc-78fce4f4c619"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="98"
           borderType="1">
         <bounds
             x="15"
-            y="175"
+            y="355"
             width="24"
             height="21"/>
       </children>
@@ -175,8 +168,8 @@
           xsi:type="archimate:DiagramModelNote"
           id="2e32802f-0ffe-4465-bf0a-17ec45f11a37"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="100"
           borderType="1">
         <sourceConnections
@@ -202,26 +195,29 @@
             type="8">
           <bendpoints
               startX="133"
+              startY="5"
               endX="2"
               endY="20"/>
         </sourceConnections>
         <sourceConnections
             id="7cb809c3-e4d2-473b-8798-85270e3f7423"
+            name="7 шаг"
             lineColor="#804040"
             source="2e32802f-0ffe-4465-bf0a-17ec45f11a37"
             target="81409b61-8aa7-43ba-827e-024af5816db0">
           <bendpoints
               startX="133"
-              endX="-192"
-              endY="-205"/>
+              startY="5"
+              endX="-348"
+              endY="-265"/>
           <bendpoints
               startX="133"
-              startY="205"
-              endX="-192"/>
+              startY="270"
+              endX="-348"/>
         </sourceConnections>
         <bounds
             x="45"
-            y="25"
+            y="205"
             width="24"
             height="21"/>
       </children>
@@ -233,9 +229,24 @@
           fillColor="#0000ff"
           content="79"
           borderType="1">
+        <sourceConnections
+            id="c95f0381-d01e-47f6-a994-b39cdd58ee80"
+            lineColor="#0000ff"
+            source="bf241ae7-a497-4153-ac34-410b2cc2b993"
+            target="fd2d636f-7815-4daa-8204-6ce3b0063154"
+            type="1">
+          <bendpoints
+              startX="65"
+              endX="-32"
+              endY="140"/>
+          <bendpoints
+              startX="65"
+              startY="-140"
+              endX="-32"/>
+        </sourceConnections>
         <bounds
             x="153"
-            y="55"
+            y="240"
             width="24"
             height="21"/>
       </children>
@@ -247,9 +258,24 @@
           fillColor="#0000ff"
           content="77"
           borderType="1">
+        <sourceConnections
+            id="e4358f00-96a2-47a2-88dc-41ce44b7e502"
+            lineColor="#0000ff"
+            source="b8666c8d-a1f5-45b5-af90-dc9d903fe03b"
+            target="fd2d636f-7815-4daa-8204-6ce3b0063154"
+            type="1">
+          <bendpoints
+              startX="65"
+              endX="-32"
+              endY="225"/>
+          <bendpoints
+              startX="65"
+              startY="-225"
+              endX="-32"/>
+        </sourceConnections>
         <bounds
             x="153"
-            y="150"
+            y="325"
             width="24"
             height="21"/>
       </children>
@@ -279,7 +305,7 @@
         </sourceConnections>
         <bounds
             x="45"
-            y="80"
+            y="260"
             width="24"
             height="21"/>
       </children>
@@ -294,7 +320,7 @@
           borderType="1">
         <bounds
             x="107"
-            y="80"
+            y="260"
             width="24"
             height="21"/>
       </children>
@@ -324,7 +350,7 @@
         </sourceConnections>
         <bounds
             x="45"
-            y="125"
+            y="305"
             width="24"
             height="21"/>
       </children>
@@ -346,32 +372,17 @@
           <bendpoints
               startX="1"
               startY="-30"
-              endX="-92"
-              endY="90"/>
+              endX="-91"
+              endY="145"/>
           <bendpoints
               startX="91"
               startY="-30"
-              endX="-2"
-              endY="90"/>
+              endX="-1"
+              endY="145"/>
         </sourceConnections>
         <bounds
             x="107"
-            y="125"
-            width="24"
-            height="21"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelNote"
-          id="a90e569b-4e75-471e-a0cc-07c0c3bb5011"
-          targetConnections="19c143a8-fd5f-43aa-9bee-e3858481c2b1"
-          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#0000ff"
-          content="81"
-          borderType="1">
-        <bounds
-            x="200"
-            y="5"
+            y="305"
             width="24"
             height="21"/>
       </children>
@@ -391,7 +402,7 @@
             type="1"/>
         <bounds
             x="135"
-            y="110"
+            y="290"
             width="24"
             height="21"/>
       </children>
@@ -420,24 +431,504 @@
               endX="61"
               endY="27"/>
         </sourceConnections>
+        <sourceConnections
+            id="e6014e22-f684-48f5-94cf-1cb80ffcf950"
+            lineColor="#ff0000"
+            source="76aa7071-da1b-4687-945b-631dd2eac251"
+            target="4a0fa939-ba3b-4463-b1bf-d46999eb5469">
+          <bendpoints
+              startX="95"
+              endX="-197"
+              endY="95"/>
+          <bendpoints
+              startX="95"
+              startY="-140"
+              endX="-197"
+              endY="-45"/>
+          <bendpoints
+              startX="290"
+              startY="-140"
+              endX="-2"
+              endY="-45"/>
+        </sourceConnections>
         <bounds
             x="158"
-            y="110"
+            y="290"
             width="24"
             height="21"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelNote"
           id="4df96356-a657-4f19-81ea-4f90fa0287c1"
-          targetConnections="1ddac5aa-f9ee-4055-bae3-ff43e352e9d9"
+          targetConnections="1ddac5aa-f9ee-4055-bae3-ff43e352e9d9 866af614-53ce-4e9c-bd6a-102b15367aa3"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="80"
           borderType="1">
+        <sourceConnections
+            id="2eb014a2-2e13-40b6-af71-b8a6b1fee2c9"
+            lineColor="#804040"
+            source="4df96356-a657-4f19-81ea-4f90fa0287c1"
+            target="a7e1d610-f3c9-46f0-8ecf-941cf2af82ce"
+            type="1">
+          <bendpoints
+              startX="2"
+              startY="-20"
+              endX="110"
+              endY="30"/>
+          <bendpoints
+              startX="-108"
+              startY="-20"
+              endY="30"/>
+        </sourceConnections>
         <bounds
             x="176"
+            y="190"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="a90e569b-4e75-471e-a0cc-07c0c3bb5011"
+          targetConnections="19c143a8-fd5f-43aa-9bee-e3858481c2b1"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="81"
+          borderType="1">
+        <sourceConnections
+            id="97b932ac-1e19-4622-974e-d1118f1020a0"
+            lineColor="#0000ff"
+            source="a90e569b-4e75-471e-a0cc-07c0c3bb5011"
+            target="fd2d636f-7815-4daa-8204-6ce3b0063154">
+          <bendpoints
+              startX="5"
+              startY="-20"
+              endX="-52"/>
+        </sourceConnections>
+        <bounds
+            x="193"
+            y="120"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="fd2d636f-7815-4daa-8204-6ce3b0063154"
+          targetConnections="c95f0381-d01e-47f6-a994-b39cdd58ee80 e4358f00-96a2-47a2-88dc-41ce44b7e502 97b932ac-1e19-4622-974e-d1118f1020a0"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="87"
+          borderType="1">
+        <sourceConnections
+            id="8fa8d360-c1fb-49da-b5ce-f7021c1a9585"
+            lineColor="#0000ff"
+            source="fd2d636f-7815-4daa-8204-6ce3b0063154"
+            target="405fbdd3-4a07-4369-8172-3e2b872b5cb7">
+          <bendpoints
+              startX="23"
+              endX="-2"
+              endY="25"/>
+        </sourceConnections>
+        <sourceConnections
+            id="57696654-387e-40d5-a1f8-25dfc2925423"
+            lineColor="#ff0000"
+            source="fd2d636f-7815-4daa-8204-6ce3b0063154"
+            target="7d6ba4a2-7dfc-4ade-980e-024d2e1baff3"/>
+        <bounds
+            x="250"
+            y="100"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="9c9251df-ef76-4e8e-b401-c69d4e06b61f"
+          font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+          fillColor="#cdcde7"
+          content="ПС 1"
+          textPosition="1"
+          borderType="1">
+        <sourceConnections
+            id="3e086997-11e2-4dd8-97e2-65e397d85873"
+            lineColor="#ff0000"
+            source="9c9251df-ef76-4e8e-b401-c69d4e06b61f"
+            target="fc6affc8-50fc-4510-b061-fc54178cd6d6">
+          <bendpoints
+              startX="-39"
+              startY="40"
+              endX="-80"/>
+        </sourceConnections>
+        <sourceConnections
+            id="6901fd28-7fb3-4370-85a5-1359a2b1f0b1"
+            lineColor="#ff0000"
+            source="9c9251df-ef76-4e8e-b401-c69d4e06b61f"
+            target="fc6affc8-50fc-4510-b061-fc54178cd6d6">
+          <bendpoints
+              startX="1"
+              startY="40"
+              endX="-40"/>
+        </sourceConnections>
+        <bounds
+            x="15"
+            y="110"
+            width="139"
+            height="31"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="a7e1d610-f3c9-46f0-8ecf-941cf2af82ce"
+          targetConnections="2eb014a2-2e13-40b6-af71-b8a6b1fee2c9"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="101"
+          borderType="1">
+        <bounds
+            x="54"
+            y="140"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="9d2d28e5-af18-440f-b57b-ed8f48352bb7"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#8000ff"
+          content="104"
+          borderType="1">
+        <sourceConnections
+            id="ca5f1062-7e09-44a3-9092-a899855d1923"
+            lineColor="#8000ff"
+            source="9d2d28e5-af18-440f-b57b-ed8f48352bb7"
+            target="cd1f90c9-b7ec-4b07-9389-460e0d5dbf54"
+            type="1">
+          <bendpoints
+              startX="-2"
+              startY="35"
+              endX="-197"
+              endY="170"/>
+          <bendpoints
+              startX="193"
+              startY="35"
+              endX="-2"
+              endY="170"/>
+        </sourceConnections>
+        <bounds
+            x="15"
+            y="140"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="efaa5af2-b8c3-43be-af49-7d7de37e0ac3"
+          targetConnections="00f9145a-ef65-479c-bde9-4bdd79bed164"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#8000ff"
+          content="103"
+          borderType="1">
+        <bounds
+            x="90"
+            y="140"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="fc6affc8-50fc-4510-b061-fc54178cd6d6"
+          targetConnections="3e086997-11e2-4dd8-97e2-65e397d85873 6901fd28-7fb3-4370-85a5-1359a2b1f0b1"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#ff0000"
+          content="102"
+          borderType="1">
+        <sourceConnections
+            id="4d467157-7865-4c01-9fbf-db78deb46c95"
+            lineColor="#ff0000"
+            source="fc6affc8-50fc-4510-b061-fc54178cd6d6"
+            target="adb3e70a-ce22-4eac-9059-8b7c555b10c4"
+            type="8">
+          <bendpoints
+              startX="110"
+              endX="-2"
+              endY="-390"/>
+        </sourceConnections>
+        <bounds
+            x="113"
+            y="155"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="8dfacc56-d305-450c-b15b-c07c7769e2c8"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="83"
+          borderType="1">
+        <sourceConnections
+            id="994ce6fc-bf58-4091-b034-c12a532c3c14"
+            source="8dfacc56-d305-450c-b15b-c07c7769e2c8"
+            target="f6aaaad5-33ed-45bd-abe6-cd90b5a21e89"/>
+        <bounds
+            x="140"
+            y="140"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="f6aaaad5-33ed-45bd-abe6-cd90b5a21e89"
+          targetConnections="994ce6fc-bf58-4091-b034-c12a532c3c14"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="82"
+          borderType="1">
+        <sourceConnections
+            id="64063e1a-3d76-4d12-9547-3e61ef2066d6"
+            lineColor="#0000ff"
+            source="f6aaaad5-33ed-45bd-abe6-cd90b5a21e89"
+            target="cb6f6323-5359-44c3-a999-c600042ca814">
+          <bendpoints
+              startX="-2"
+              startY="-65"
+              endX="-6"
+              endY="20"/>
+          <bendpoints
+              startX="28"
+              startY="-65"
+              endX="24"
+              endY="20"/>
+          <bendpoints
+              startX="28"
+              startY="-85"
+              endX="24"/>
+        </sourceConnections>
+        <bounds
+            x="170"
+            y="140"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="cd1f90c9-b7ec-4b07-9389-460e0d5dbf54"
+          targetConnections="ca5f1062-7e09-44a3-9092-a899855d1923 f4d620e6-1a1a-4c5b-a092-02d179860443 cf70a35b-db16-4572-925a-74c53e6a4112"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#8000ff"
+          content="86"
+          borderType="1">
+        <sourceConnections
+            id="00f9145a-ef65-479c-bde9-4bdd79bed164"
+            lineColor="#8000ff"
+            source="cd1f90c9-b7ec-4b07-9389-460e0d5dbf54"
+            target="efaa5af2-b8c3-43be-af49-7d7de37e0ac3">
+          <bendpoints
+              startX="-2"
+              startY="170"
+              endX="118"
+              endY="35"/>
+          <bendpoints
+              startX="-122"
+              startY="170"
+              endX="-2"
+              endY="35"/>
+        </sourceConnections>
+        <bounds
+            x="210"
             y="5"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="0b2e2727-7f9b-457b-8ed4-1d11fb75c3e8"
+          font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+          fillColor="#cdcde7"
+          content="ПС 2"
+          textPosition="1"
+          borderType="1">
+        <sourceConnections
+            id="34720e18-7a59-45c5-bed7-9fe60a14171d"
+            lineColor="#ff0000"
+            source="0b2e2727-7f9b-457b-8ed4-1d11fb75c3e8"
+            target="81e3b66a-e498-49d7-a77a-a937cd42c18f">
+          <bendpoints
+              startX="-38"
+              startY="45"
+              endX="-79"
+              endY="5"/>
+        </sourceConnections>
+        <sourceConnections
+            id="fdb76163-78d8-44c8-a2f1-f21d7d52adb7"
+            lineColor="#ff0000"
+            source="0b2e2727-7f9b-457b-8ed4-1d11fb75c3e8"
+            target="81e3b66a-e498-49d7-a77a-a937cd42c18f">
+          <bendpoints
+              startX="2"
+              startY="45"
+              endX="-39"
+              endY="5"/>
+        </sourceConnections>
+        <bounds
+            x="19"
+            y="25"
+            width="139"
+            height="31"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="58fc5df9-fb44-41c0-a2ec-440bfe7b3620"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="105"
+          borderType="1">
+        <sourceConnections
+            id="866af614-53ce-4e9c-bd6a-102b15367aa3"
+            lineColor="#804040"
+            source="58fc5df9-fb44-41c0-a2ec-440bfe7b3620"
+            target="4df96356-a657-4f19-81ea-4f90fa0287c1"
+            type="8">
+          <bendpoints
+              startY="35"
+              endX="-118"
+              endY="-100"/>
+          <bendpoints
+              startX="95"
+              startY="35"
+              endX="-23"
+              endY="-100"/>
+          <bendpoints
+              startX="95"
+              startY="115"
+              endX="-23"
+              endY="-20"/>
+          <bendpoints
+              startX="115"
+              startY="115"
+              endX="-3"
+              endY="-20"/>
+        </sourceConnections>
+        <bounds
+            x="58"
+            y="55"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="0b351f57-4f87-499c-99a1-2082811da8a5"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#8000ff"
+          content="108"
+          borderType="1">
+        <sourceConnections
+            id="f4d620e6-1a1a-4c5b-a092-02d179860443"
+            lineColor="#8000ff"
+            source="0b351f57-4f87-499c-99a1-2082811da8a5"
+            target="cd1f90c9-b7ec-4b07-9389-460e0d5dbf54">
+          <bendpoints
+              startX="-1"
+              startY="30"
+              endX="-192"
+              endY="80"/>
+          <bendpoints
+              startX="189"
+              startY="30"
+              endX="-2"
+              endY="80"/>
+        </sourceConnections>
+        <bounds
+            x="19"
+            y="55"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="9d16472d-acff-4c85-87d2-86f2a1ebe376"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#8000ff"
+          content="107"
+          borderType="1">
+        <sourceConnections
+            id="cf70a35b-db16-4572-925a-74c53e6a4112"
+            lineColor="#8000ff"
+            source="9d16472d-acff-4c85-87d2-86f2a1ebe376"
+            target="cd1f90c9-b7ec-4b07-9389-460e0d5dbf54">
+          <bendpoints
+              startX="-1"
+              startY="30"
+              endX="-117"
+              endY="80"/>
+          <bendpoints
+              startX="114"
+              startY="30"
+              endX="-2"
+              endY="80"/>
+        </sourceConnections>
+        <bounds
+            x="94"
+            y="55"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="81e3b66a-e498-49d7-a77a-a937cd42c18f"
+          targetConnections="34720e18-7a59-45c5-bed7-9fe60a14171d fdb76163-78d8-44c8-a2f1-f21d7d52adb7"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#ff0000"
+          content="106"
+          borderType="1">
+        <bounds
+            x="117"
+            y="70"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="b7dfb7be-89f6-46ca-b889-9394a274cd2d"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="85"
+          borderType="1">
+        <sourceConnections
+            id="bf3b563f-4e92-431a-8222-4f6ade716a51"
+            source="b7dfb7be-89f6-46ca-b889-9394a274cd2d"
+            target="cb6f6323-5359-44c3-a999-c600042ca814"/>
+        <bounds
+            x="144"
+            y="55"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="cb6f6323-5359-44c3-a999-c600042ca814"
+          targetConnections="bf3b563f-4e92-431a-8222-4f6ade716a51 64063e1a-3d76-4d12-9547-3e61ef2066d6"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="84"
+          borderType="1">
+        <bounds
+            x="174"
+            y="55"
             width="24"
             height="21"/>
       </children>
@@ -452,7 +943,7 @@
           x="15"
           y="125"
           width="236"
-          height="321"/>
+          height="416"/>
       <children
           xsi:type="archimate:DiagramModelNote"
           id="f62540bb-7e5b-4543-be5f-c937e03ba269"
@@ -471,8 +962,8 @@
           xsi:type="archimate:DiagramModelNote"
           id="c8f8548e-a242-44d1-8004-f1d9deb59ab1"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="119"
           borderType="1">
         <sourceConnections
@@ -496,49 +987,50 @@
           id="b7fb717e-36d4-4b68-a3f1-39d176642a45"
           targetConnections="739227a1-40dd-4b9d-beb6-e1ae8c1fc311"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="117"
           borderType="1">
         <sourceConnections
             id="9293cbab-6cd3-481e-a39a-de7f820a95c3"
+            name="4 шаг"
             lineColor="#804040"
             source="b7fb717e-36d4-4b68-a3f1-39d176642a45"
             target="60508a83-d85d-4749-a5b6-6ad157ee7db1"
             type="1">
           <bendpoints
               startX="98"
-              endX="-675"
-              endY="-380"/>
+              endX="-832"
+              endY="-445"/>
           <bendpoints
               startX="98"
-              startY="185"
-              endX="-675"
-              endY="-195"/>
+              startY="220"
+              endX="-832"
+              endY="-225"/>
           <bendpoints
               startX="278"
-              startY="185"
-              endX="-495"
-              endY="-195"/>
+              startY="220"
+              endX="-652"
+              endY="-225"/>
           <bendpoints
               startX="278"
-              startY="235"
-              endX="-495"
-              endY="-145"/>
+              startY="305"
+              endX="-652"
+              endY="-140"/>
           <bendpoints
-              startX="633"
-              startY="235"
-              endX="-140"
-              endY="-145"/>
+              startX="773"
+              startY="305"
+              endX="-157"
+              endY="-140"/>
           <bendpoints
-              startX="633"
-              startY="435"
-              endX="-140"
+              startX="773"
+              startY="500"
+              endX="-157"
               endY="55"/>
           <bendpoints
-              startX="783"
-              startY="435"
-              endX="10"
+              startX="843"
+              startY="500"
+              endX="9"
               endY="55"/>
         </sourceConnections>
         <bounds
@@ -552,8 +1044,8 @@
           id="13d1db69-6925-47ea-9960-70a9d659315d"
           targetConnections="b2e6a1f2-e7ce-442c-beca-40f4a1039c85"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="118"
           borderType="1">
         <sourceConnections
@@ -600,6 +1092,32 @@
               endX="-2"
               endY="25"/>
         </sourceConnections>
+        <sourceConnections
+            id="5ef69f24-0efb-4b7a-a2f5-a014fc4110dd"
+            lineColor="#00ffff"
+            source="1b528b57-dd06-41f4-83e1-e991badef5ae"
+            target="e01b0342-7bbc-4934-9273-fb98d360feed"
+            type="1">
+          <bendpoints
+              startX="-45"
+              endX="-985"
+              endY="-185"/>
+          <bendpoints
+              startX="-45"
+              startY="240"
+              endX="-985"
+              endY="55"/>
+          <bendpoints
+              startX="-45"
+              startY="240"
+              endX="-889"
+              endY="55"/>
+          <bendpoints
+              startX="960"
+              startY="235"
+              endX="20"
+              endY="50"/>
+        </sourceConnections>
         <bounds
             x="27"
             y="50"
@@ -626,13 +1144,13 @@
               endY="-240"/>
           <bendpoints
               startX="-45"
-              startY="275"
+              startY="280"
               endX="-47"
-              endY="25"/>
+              endY="30"/>
           <bendpoints
-              startY="275"
+              startY="280"
               endX="-2"
-              endY="25"/>
+              endY="30"/>
         </sourceConnections>
         <bounds
             x="27"
@@ -672,8 +1190,8 @@
           xsi:type="archimate:DiagramModelNote"
           id="74593558-5225-4a3c-b4e8-8ba020871fe2"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="123"
           borderType="1">
         <sourceConnections
@@ -687,14 +1205,14 @@
               endY="-85"/>
           <bendpoints
               startX="-34"
-              startY="120"
+              startY="130"
               endX="-34"
-              endY="35"/>
+              endY="45"/>
           <bendpoints
               startX="1"
-              startY="120"
+              startY="130"
               endX="1"
-              endY="35"/>
+              endY="45"/>
         </sourceConnections>
         <bounds
             x="27"
@@ -706,8 +1224,8 @@
           xsi:type="archimate:DiagramModelNote"
           id="409f1798-1832-4088-b4c4-c6024c18e23b"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="115"
           borderType="1">
         <sourceConnections
@@ -746,8 +1264,8 @@
           xsi:type="archimate:DiagramModelNote"
           id="e414c0f0-7890-4a5f-b803-f41fc733baa6"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="114"
           borderType="1">
         <sourceConnections
@@ -769,12 +1287,22 @@
       <children
           xsi:type="archimate:DiagramModelNote"
           id="80e1a65c-555b-4ca7-b856-379d5424f0df"
-          targetConnections="159caec8-75a7-48bc-b633-f99a2fe3dd07 3131841d-2029-49ba-9476-38a979e7dcb8 37e11eb3-444a-42c6-89bf-cbfb17faea7f"
+          targetConnections="3131841d-2029-49ba-9476-38a979e7dcb8 37e11eb3-444a-42c6-89bf-cbfb17faea7f"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="113"
           borderType="1">
+        <sourceConnections
+            id="63d9acb1-fa38-45d1-b56a-c216276178f6"
+            lineColor="#804040"
+            source="80e1a65c-555b-4ca7-b856-379d5424f0df"
+            target="ab57651f-5711-4dca-85af-06799b262176">
+          <bendpoints
+              startX="35"
+              endX="-2"
+              endY="20"/>
+        </sourceConnections>
         <bounds
             x="138"
             y="190"
@@ -786,8 +1314,8 @@
           id="147dbce8-c3b5-4a38-a2bc-0568605eebb8"
           targetConnections="c639ea53-e038-47d4-899f-ddfe2cbcecc4"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="121"
           borderType="1">
         <bounds
@@ -816,22 +1344,32 @@
           id="67cb9c8e-dfcd-4731-8519-1431b1f47029"
           targetConnections="05219792-a14c-418b-be85-a087dbdcfaa4"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="110"
           borderType="1">
+        <sourceConnections
+            id="d6fec44e-515a-4ebf-88ee-180077cf0f05"
+            lineColor="#804040"
+            source="67cb9c8e-dfcd-4731-8519-1431b1f47029"
+            target="e6c33db2-7ca0-401e-8bbc-28434cac3849">
+          <bendpoints
+              startY="-55"
+              endX="-377"/>
+        </sourceConnections>
         <bounds
             x="198"
-            y="290"
+            y="335"
             width="24"
             height="21"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelNote"
           id="d9f6ba90-a808-40c9-a8ec-bca8a34a6787"
+          targetConnections="80a91c44-2837-4f7a-b4b8-55472651f281"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="116"
           borderType="1">
         <sourceConnections
@@ -842,14 +1380,13 @@
             type="8">
           <bendpoints
               startX="-3"
-              startY="35"
+              startY="30"
               endX="-40"
-              endY="-140"/>
+              endY="-190"/>
           <bendpoints
-              startX="47"
-              startY="35"
-              endX="-2"
-              endY="-140"/>
+              startX="37"
+              startY="30"
+              endY="-190"/>
         </sourceConnections>
         <bounds
             x="161"
@@ -860,11 +1397,28 @@
       <children
           xsi:type="archimate:DiagramModelNote"
           id="ab57651f-5711-4dca-85af-06799b262176"
+          targetConnections="63d9acb1-fa38-45d1-b56a-c216276178f6 159caec8-75a7-48bc-b633-f99a2fe3dd07"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="112"
           borderType="1">
+        <sourceConnections
+            id="80a91c44-2837-4f7a-b4b8-55472651f281"
+            lineColor="#804040"
+            source="ab57651f-5711-4dca-85af-06799b262176"
+            target="d9f6ba90-a808-40c9-a8ec-bca8a34a6787">
+          <bendpoints
+              startX="-2"
+              startY="-25"
+              endX="12"
+              endY="30"/>
+          <bendpoints
+              startX="-17"
+              startY="-25"
+              endX="-3"
+              endY="30"/>
+        </sourceConnections>
         <bounds
             x="175"
             y="170"
@@ -879,21 +1433,21 @@
         fillColor="#ffffff"
         borderType="1">
       <bounds
-          x="773"
-          y="425"
-          width="233"
-          height="261"/>
+          x="890"
+          y="210"
+          width="273"
+          height="541"/>
       <children
           xsi:type="archimate:DiagramModelNote"
           id="c8084f2f-c9da-4da7-8f64-4d17ef7fe174"
           font="1|Segoe UI Semibold|9.9|0|WINDOWS|1|-33|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
-          fillColor="#c0c0c0"
+          fillColor="#d3d3d3"
           content="ПТ 2"
           textPosition="1"
           borderType="1">
         <bounds
-            x="22"
-            y="125"
+            x="62"
+            y="405"
             width="54"
             height="51"/>
       </children>
@@ -901,13 +1455,13 @@
           xsi:type="archimate:DiagramModelNote"
           id="e2fd302c-6e82-49ac-bd29-8d51d7014286"
           font="1|Segoe UI Semibold|9.9|0|WINDOWS|1|-33|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
-          fillColor="#c0c0c0"
+          fillColor="#d3d3d3"
           content="ПТ 1"
           textPosition="1"
           borderType="1">
         <bounds
-            x="100"
-            y="125"
+            x="140"
+            y="405"
             width="54"
             height="51"/>
       </children>
@@ -915,8 +1469,8 @@
           xsi:type="archimate:DiagramModelNote"
           id="03cb2c76-cfb2-4705-bb4c-d3b65fb05ef2"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="20"
           borderType="1">
         <sourceConnections
@@ -931,22 +1485,6 @@
               endX="-27"/>
         </sourceConnections>
         <sourceConnections
-            id="f63ea491-eb1a-4658-b8fa-d16ffcf9a116"
-            lineColor="#804040"
-            source="03cb2c76-cfb2-4705-bb4c-d3b65fb05ef2"
-            target="d914e635-4d1a-4025-ae20-30d667099faa">
-          <bendpoints
-              startX="-12"
-              startY="45"
-              endX="-90"
-              endY="45"/>
-          <bendpoints
-              startX="71"
-              startY="45"
-              endX="-7"
-              endY="45"/>
-        </sourceConnections>
-        <sourceConnections
             id="d57b1c12-1cca-4cff-89ff-1f7c2aa5bc98"
             lineColor="#804040"
             source="03cb2c76-cfb2-4705-bb4c-d3b65fb05ef2"
@@ -957,8 +1495,8 @@
               endX="-170"/>
         </sourceConnections>
         <bounds
-            x="22"
-            y="175"
+            x="62"
+            y="455"
             width="24"
             height="21"/>
       </children>
@@ -967,8 +1505,8 @@
           id="e9df6f75-ea49-4403-a3ab-e1a673edcd8b"
           targetConnections="d1b24f56-6b38-4160-b6bc-b42e6b4cc2f1"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="21"
           borderType="1">
         <sourceConnections
@@ -984,8 +1522,8 @@
               endY="30"/>
         </sourceConnections>
         <bounds
-            x="37"
-            y="200"
+            x="77"
+            y="480"
             width="24"
             height="21"/>
       </children>
@@ -994,8 +1532,8 @@
           id="160414a4-e3ec-4b31-bf51-d732f7913033"
           targetConnections="4f8f6322-6b6b-4c0b-848a-e6ed3982a6d0"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="19"
           borderType="1">
         <sourceConnections
@@ -1009,14 +1547,14 @@
               endX="-70"
               endY="55"/>
           <bendpoints
-              startX="88"
+              startX="87"
               startY="55"
-              endX="10"
+              endX="9"
               endY="55"/>
         </sourceConnections>
         <bounds
-            x="52"
-            y="175"
+            x="92"
+            y="455"
             width="24"
             height="21"/>
       </children>
@@ -1025,8 +1563,8 @@
           id="d914e635-4d1a-4025-ae20-30d667099faa"
           targetConnections="f63ea491-eb1a-4658-b8fa-d16ffcf9a116"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="17"
           borderType="1">
         <sourceConnections
@@ -1036,13 +1574,13 @@
             target="be107058-b7fd-400d-be4d-17842948915e"
             type="1">
           <bendpoints
-              startX="-7"
+              startX="-11"
               startY="25"
-              endX="-22"/>
+              endX="-26"/>
         </sourceConnections>
         <bounds
-            x="100"
-            y="175"
+            x="140"
+            y="455"
             width="24"
             height="21"/>
       </children>
@@ -1051,13 +1589,13 @@
           id="60508a83-d85d-4749-a5b6-6ad157ee7db1"
           targetConnections="575f56af-ef11-424e-bbce-33bfb6ff3f81 1c964d33-f221-4ff5-be0d-8f9d5509477e 9293cbab-6cd3-481e-a39a-de7f820a95c3"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="16"
           borderType="1">
         <bounds
-            x="130"
-            y="175"
+            x="170"
+            y="455"
             width="24"
             height="21"/>
       </children>
@@ -1066,8 +1604,8 @@
           id="be107058-b7fd-400d-be4d-17842948915e"
           targetConnections="74f0880c-d1a7-412e-a77e-ca65ef47980e"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="18"
           borderType="1">
         <sourceConnections
@@ -1077,14 +1615,14 @@
             target="60508a83-d85d-4749-a5b6-6ad157ee7db1"
             type="1">
           <bendpoints
-              startX="25"
+              startX="24"
               startY="5"
-              endX="10"
+              endX="9"
               endY="30"/>
         </sourceConnections>
         <bounds
-            x="115"
-            y="200"
+            x="155"
+            y="480"
             width="24"
             height="21"/>
       </children>
@@ -1092,7 +1630,7 @@
           xsi:type="archimate:DiagramModelNote"
           id="564872b6-814c-437b-a256-0ea19b5d2602"
           font="1|Segoe UI Semibold|9.9|0|WINDOWS|1|-33|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
-          fillColor="#c0c0c0"
+          fillColor="#d3d3d3"
           content="ПТ 4"
           textPosition="1"
           borderType="1">
@@ -1102,23 +1640,37 @@
             source="564872b6-814c-437b-a256-0ea19b5d2602"
             target="95484160-7699-4430-a12a-015a00851a63"/>
         <bounds
-            x="22"
-            y="45"
+            x="62"
+            y="315"
             width="54"
             height="51"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelNote"
           id="10c851bb-e0cf-41b6-8050-34f027fb69c7"
-          targetConnections="2a5340fb-9c29-4220-820f-5aa8f0fb9526"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="51"
           borderType="1">
+        <sourceConnections
+            id="9b8866c6-aff4-4a98-b36a-4f0ffc3d4b4c"
+            lineColor="#804040"
+            source="10c851bb-e0cf-41b6-8050-34f027fb69c7"
+            target="85d23dec-c4d3-4008-901e-7d24b4c347a8">
+          <bendpoints
+              startX="-4"
+              startY="20"
+              endX="-90"
+              endY="20"/>
+          <bendpoints
+              startX="86"
+              startY="20"
+              endY="20"/>
+        </sourceConnections>
         <bounds
-            x="37"
-            y="95"
+            x="77"
+            y="365"
             width="24"
             height="21"/>
       </children>
@@ -1126,7 +1678,7 @@
           xsi:type="archimate:DiagramModelNote"
           id="8d9a16c1-1b21-4736-8304-9bbdb45e3971"
           font="1|Segoe UI Semibold|9.9|0|WINDOWS|1|-33|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
-          fillColor="#c0c0c0"
+          fillColor="#d3d3d3"
           content="ПТ 3"
           textPosition="1"
           borderType="1">
@@ -1151,68 +1703,53 @@
               endX="-37"/>
         </sourceConnections>
         <bounds
-            x="100"
-            y="45"
+            x="140"
+            y="315"
             width="54"
             height="51"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelNote"
           id="85d23dec-c4d3-4008-901e-7d24b4c347a8"
-          targetConnections="7412520d-d4f2-49b7-9858-2b8c87934aa5"
+          targetConnections="7412520d-d4f2-49b7-9858-2b8c87934aa5 9b8866c6-aff4-4a98-b36a-4f0ffc3d4b4c"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="49"
           borderType="1">
-        <sourceConnections
-            id="2a5340fb-9c29-4220-820f-5aa8f0fb9526"
-            lineColor="#804040"
-            source="85d23dec-c4d3-4008-901e-7d24b4c347a8"
-            target="10c851bb-e0cf-41b6-8050-34f027fb69c7">
-          <bendpoints
-              startY="15"
-              endX="86"
-              endY="15"/>
-          <bendpoints
-              startX="-90"
-              startY="15"
-              endX="-4"
-              endY="15"/>
-        </sourceConnections>
         <bounds
-            x="123"
-            y="95"
+            x="163"
+            y="365"
             width="24"
             height="21"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelNote"
           id="95484160-7699-4430-a12a-015a00851a63"
-          targetConnections="d952aa4e-2547-4fcb-84c7-99c9a9475c95"
+          targetConnections="d952aa4e-2547-4fcb-84c7-99c9a9475c95 594f6a3d-70ad-491f-a660-adfa0fc49fa4"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="50"
           borderType="1">
         <bounds
-            x="37"
-            y="15"
+            x="77"
+            y="285"
             width="24"
             height="21"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelNote"
           id="478c8ede-c8ab-4d3e-813a-47a2b1d2dde3"
-          targetConnections="f308573c-1f0b-4bef-8dfa-fed9b6a17a1c"
+          targetConnections="f308573c-1f0b-4bef-8dfa-fed9b6a17a1c f2d65ec6-4669-4e86-ab86-8630cb044d2a"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="48"
           borderType="1">
         <bounds
-            x="115"
-            y="15"
+            x="155"
+            y="285"
             width="24"
             height="21"/>
       </children>
@@ -1221,8 +1758,8 @@
           id="bbb98a50-0826-4438-babb-7fd44fefc37c"
           targetConnections="d57b1c12-1cca-4cff-89ff-1f7c2aa5bc98"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="22"
           borderType="1">
         <sourceConnections
@@ -1235,9 +1772,38 @@
               endX="2"
               endY="25"/>
         </sourceConnections>
+        <sourceConnections
+            id="8854d9b4-3ecd-45ab-ab98-86a5d8228788"
+            name="5 шаг"
+            lineColor="#804040"
+            source="bbb98a50-0826-4438-babb-7fd44fefc37c"
+            target="99fea0a4-60fe-4412-be59-7069d33ae989"
+            type="1">
+          <bendpoints
+              startX="-1"
+              startY="-265"
+              endX="173"
+              endY="120"/>
+          <bendpoints
+              startX="-176"
+              startY="-265"
+              endX="-2"
+              endY="120"/>
+        </sourceConnections>
+        <sourceConnections
+            id="f63ea491-eb1a-4658-b8fa-d16ffcf9a116"
+            lineColor="#804040"
+            source="bbb98a50-0826-4438-babb-7fd44fefc37c"
+            target="d914e635-4d1a-4025-ae20-30d667099faa"
+            type="8">
+          <bendpoints
+              startX="-91"
+              endX="-11"
+              endY="45"/>
+        </sourceConnections>
         <bounds
-            x="180"
-            y="220"
+            x="220"
+            y="500"
             width="24"
             height="21"/>
       </children>
@@ -1246,52 +1812,191 @@
           id="bed69767-2f18-42e0-a0c5-11e73bc1c8d4"
           targetConnections="8b61c541-dbff-4b29-a602-96afade5e0c4 eaa4c983-49be-431f-94d4-8ed8d80a8446"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="23"
           borderType="1">
+        <sourceConnections
+            id="525cc271-1c26-476b-b4f3-f4ad9e84a841"
+            lineColor="#804040"
+            source="bed69767-2f18-42e0-a0c5-11e73bc1c8d4"
+            target="fca0c8c6-f5f2-4e01-a63b-0d5f82daeb21"
+            type="1">
+          <bendpoints
+              startX="1"
+              startY="-405"
+              endX="152"
+              endY="40"/>
+          <bendpoints
+              startX="-149"
+              startY="-405"
+              endX="2"
+              endY="40"/>
+        </sourceConnections>
         <bounds
-            x="203"
-            y="195"
+            x="243"
+            y="475"
             width="24"
             height="21"/>
       </children>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="81409b61-8aa7-43ba-827e-024af5816db0"
-        targetConnections="7cb809c3-e4d2-473b-8798-85270e3f7423"
-        font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-        fontColor="#ffffff"
-        fillColor="#804040"
-        content="52"
-        borderType="1">
-      <sourceConnections
-          id="7412520d-d4f2-49b7-9858-2b8c87934aa5"
-          lineColor="#804040"
-          source="81409b61-8aa7-43ba-827e-024af5816db0"
-          target="85d23dec-c4d3-4008-901e-7d24b4c347a8"
-          type="8">
-        <bendpoints
-            startX="153"
-            endX="-123"
-            endY="-80"/>
-        <bendpoints
-            startX="153"
-            startY="95"
-            endX="-123"
-            endY="15"/>
-        <bendpoints
-            startX="273"
-            startY="95"
-            endX="-3"
-            endY="15"/>
-      </sourceConnections>
-      <bounds
-          x="620"
-          y="440"
-          width="24"
-          height="21"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="e01b0342-7bbc-4934-9273-fb98d360feed"
+          targetConnections="5ef69f24-0efb-4b7a-a2f5-a014fc4110dd"
+          font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+          fillColor="#ffb56a"
+          content="ЕП-63"
+          textPosition="1"
+          borderType="1">
+        <bounds
+            x="92"
+            y="150"
+            width="66"
+            height="31"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="c3e8d4dd-18a5-43b3-b167-6b9bc445a405"
+          targetConnections="b6c61afa-b5f3-40c7-9c92-dafc71e5eb97"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#00ffff"
+          content="27"
+          borderType="1">
+        <bounds
+            x="92"
+            y="180"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="99fea0a4-60fe-4412-be59-7069d33ae989"
+          targetConnections="9983864a-2424-4622-9315-670261f9f10a c244f973-5dba-42d0-8d73-fabbbeb42ae3 8854d9b4-3ecd-45ab-ab98-86a5d8228788"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="26"
+          borderType="1">
+        <sourceConnections
+            id="4f415238-cd08-448b-b1fd-4e3e084397c7"
+            lineColor="#804040"
+            source="99fea0a4-60fe-4412-be59-7069d33ae989"
+            target="650e2955-16b3-4dc8-9178-f483416b3435">
+          <bendpoints
+              startX="-3"
+              startY="-25"
+              endX="69"
+              endY="20"/>
+          <bendpoints
+              startX="-62"
+              startY="-25"
+              endX="-1"
+              endY="20"/>
+        </sourceConnections>
+        <sourceConnections
+            id="37456ca1-b4b4-4d44-a1b8-31d2eed2d1ff"
+            lineColor="#804040"
+            source="99fea0a4-60fe-4412-be59-7069d33ae989"
+            target="01d93162-d080-4f9f-af3a-557fbb9ed6c2">
+          <bendpoints
+              startX="-3"
+              startY="-45"
+              endX="-26"/>
+        </sourceConnections>
+        <bounds
+            x="46"
+            y="115"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="44b0105d-49f1-4369-b8ac-c0bc6595dcef"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#00ffff"
+          content="28"
+          borderType="1">
+        <sourceConnections
+            id="c244f973-5dba-42d0-8d73-fabbbeb42ae3"
+            lineColor="#804040"
+            source="44b0105d-49f1-4369-b8ac-c0bc6595dcef"
+            target="99fea0a4-60fe-4412-be59-7069d33ae989">
+          <bendpoints
+              startX="-2"
+              startY="-25"
+              endX="-32"
+              endY="-25"/>
+          <bendpoints
+              startX="27"
+              startY="-25"
+              endX="-3"
+              endY="-25"/>
+        </sourceConnections>
+        <sourceConnections
+            id="b6c61afa-b5f3-40c7-9c92-dafc71e5eb97"
+            lineColor="#00ffff"
+            source="44b0105d-49f1-4369-b8ac-c0bc6595dcef"
+            target="c3e8d4dd-18a5-43b3-b167-6b9bc445a405"
+            type="8">
+          <bendpoints
+              startX="-2"
+              startY="85"
+              endX="-78"
+              endY="20"/>
+          <bendpoints
+              startX="77"
+              startY="85"
+              endX="1"
+              endY="20"/>
+        </sourceConnections>
+        <bounds
+            x="16"
+            y="115"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="01d93162-d080-4f9f-af3a-557fbb9ed6c2"
+          targetConnections="37456ca1-b4b4-4d44-a1b8-31d2eed2d1ff"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="24"
+          borderType="1">
+        <sourceConnections
+            id="48d859ac-c5c1-4023-8cce-9165db4cd49a"
+            lineColor="#804040"
+            source="01d93162-d080-4f9f-af3a-557fbb9ed6c2"
+            target="fca0c8c6-f5f2-4e01-a63b-0d5f82daeb21">
+          <bendpoints
+              startX="25"
+              endX="2"
+              endY="40"/>
+        </sourceConnections>
+        <bounds
+            x="69"
+            y="70"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="fca0c8c6-f5f2-4e01-a63b-0d5f82daeb21"
+          targetConnections="48d859ac-c5c1-4023-8cce-9165db4cd49a 525cc271-1c26-476b-b4f3-f4ad9e84a841"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="25"
+          borderType="1">
+        <bounds
+            x="92"
+            y="30"
+            width="24"
+            height="21"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
@@ -1300,7 +2005,7 @@
         fillColor="#ffffff"
         borderType="1">
       <bounds
-          x="1045"
+          x="1162"
           y="620"
           width="81"
           height="101"/>
@@ -1322,8 +2027,8 @@
           xsi:type="archimate:DiagramModelNote"
           id="51b43082-07cd-4b03-ad0c-09decefea8c8"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="2"
           borderType="1">
         <sourceConnections
@@ -1351,8 +2056,8 @@
           id="b66bb0f5-3eae-41b5-ba4b-f3c5511a31a2"
           targetConnections="5e463e40-beb7-43cd-a9c3-4d92257dde2e b7d29169-8a45-4914-b8f6-2518309dc08e 46001aa4-d68b-4710-a59f-1590c42021fe e8ddba41-9867-4c1f-8bc3-ff79263f8d71"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="10"
           borderType="1">
         <sourceConnections
@@ -1377,8 +2082,8 @@
           xsi:type="archimate:DiagramModelNote"
           id="59cb68fc-7292-4575-8901-65c24e7c5535"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="3"
           borderType="1">
         <sourceConnections
@@ -1405,8 +2110,8 @@
           xsi:type="archimate:DiagramModelNote"
           id="33964034-a2e4-43f8-80e6-86f694e57c18"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="4"
           borderType="1">
         <sourceConnections
@@ -1433,8 +2138,8 @@
           xsi:type="archimate:DiagramModelNote"
           id="5208d6a2-bbf9-496d-89f0-74260245247c"
           font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#804040"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
           content="1"
           borderType="1">
         <sourceConnections
@@ -1457,6 +2162,1172 @@
             width="24"
             height="21"/>
       </children>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="9ae89813-a7fd-432d-b599-d394d6f9a8cc"
+        textAlignment="1"
+        fillColor="#ffffff"
+        borderType="1">
+      <bounds
+          x="525"
+          y="30"
+          width="366"
+          height="511"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="f568f45a-db63-4939-a549-58b7323e5281"
+          targetConnections="68e7e6fe-e730-4054-bc46-e596489b36f7 502ce308-02c6-4bfc-acde-992fe6eb63be 7f09346d-b302-4405-a76a-ed0e08c1c580"
+          font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+          fillColor="#ff8080"
+          content="ТФС-1"
+          textPosition="1"
+          borderType="1">
+        <sourceConnections
+            id="6987aced-5402-4c42-b46b-436b28f07a5f"
+            lineColor="#804040"
+            source="f568f45a-db63-4939-a549-58b7323e5281"
+            target="b72e8a24-a9fc-4a8c-be38-32473c40f475"
+            type="8">
+          <bendpoints
+              startX="86"
+              endX="-2"
+              endY="25"/>
+        </sourceConnections>
+        <sourceConnections
+            id="ef983736-b276-4e1e-afb0-dab794036dc5"
+            lineColor="#ff0000"
+            source="f568f45a-db63-4939-a549-58b7323e5281"
+            target="fec4322f-b420-4615-bb95-5d01358189bc">
+          <bendpoints
+              startX="-13"
+              startY="-30"
+              endX="-25"/>
+        </sourceConnections>
+        <sourceConnections
+            id="afb50f19-54a2-47d4-821a-daab0a5968a6"
+            lineColor="#0000ff"
+            source="f568f45a-db63-4939-a549-58b7323e5281"
+            target="f49040ab-71e5-4ed8-9411-adbe2eeb8467">
+          <bendpoints
+              startX="-208"
+              startY="-5"
+              endX="-4"
+              endY="20"/>
+        </sourceConnections>
+        <bounds
+            x="191"
+            y="315"
+            width="144"
+            height="31"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="b72e8a24-a9fc-4a8c-be38-32473c40f475"
+          targetConnections="6987aced-5402-4c42-b46b-436b28f07a5f"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="29"
+          borderType="1">
+        <sourceConnections
+            id="9983864a-2424-4622-9315-670261f9f10a"
+            lineColor="#804040"
+            source="b72e8a24-a9fc-4a8c-be38-32473c40f475"
+            target="99fea0a4-60fe-4412-be59-7069d33ae989">
+          <bendpoints
+              startX="-1"
+              startY="-25"
+              endX="-62"
+              endY="-25"/>
+          <bendpoints
+              startX="69"
+              startY="-25"
+              endX="-3"
+              endY="-25"/>
+        </sourceConnections>
+        <bounds
+            x="339"
+            y="295"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="73980ae1-fcf2-4b98-b5e3-0412770d9146"
+          targetConnections="e66c1cb6-84a3-40ab-96b6-736412ab185b 1b0da4b1-8f7d-4d6b-872b-ffdc16890fed"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#8000ff"
+          content="31"
+          borderType="1">
+        <sourceConnections
+            id="4be6deb8-a6ed-4455-a310-1b327ee3e03f"
+            lineColor="#8000ff"
+            source="73980ae1-fcf2-4b98-b5e3-0412770d9146"
+            target="d13835eb-2c5c-4844-b50c-2ae7e4f6ed09">
+          <bendpoints
+              startX="1"
+              startY="-20"
+              endX="1"
+              endY="25"/>
+        </sourceConnections>
+        <bounds
+            x="311"
+            y="295"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="8b5185f5-0c9d-4893-ac40-b8a0ac8a411e"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#8000ff"
+          content="32"
+          borderType="1">
+        <sourceConnections
+            id="1b0da4b1-8f7d-4d6b-872b-ffdc16890fed"
+            lineColor="#8000ff"
+            source="8b5185f5-0c9d-4893-ac40-b8a0ac8a411e"
+            target="73980ae1-fcf2-4b98-b5e3-0412770d9146">
+          <bendpoints
+              startX="-7"
+              startY="-25"
+              endX="-104"
+              endY="-25"/>
+          <bendpoints
+              startX="93"
+              startY="-25"
+              endX="1"
+              endY="-25"/>
+        </sourceConnections>
+        <bounds
+            x="219"
+            y="295"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="fec4322f-b420-4615-bb95-5d01358189bc"
+          targetConnections="ef983736-b276-4e1e-afb0-dab794036dc5"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#ff0000"
+          content="35"
+          borderType="1">
+        <sourceConnections
+            id="68e7e6fe-e730-4054-bc46-e596489b36f7"
+            lineColor="#ff0000"
+            source="fec4322f-b420-4615-bb95-5d01358189bc"
+            target="f568f45a-db63-4939-a549-58b7323e5281">
+          <bendpoints
+              startX="25"
+              endX="37"
+              endY="-30"/>
+        </sourceConnections>
+        <sourceConnections
+            id="89272ef1-c58b-4df4-970f-6f3488cdcc3b"
+            lineColor="#ff0000"
+            source="fec4322f-b420-4615-bb95-5d01358189bc"
+            target="4a0fa939-ba3b-4463-b1bf-d46999eb5469">
+          <bendpoints
+              startY="-15"
+              endX="88"
+              endY="80"/>
+          <bendpoints
+              startX="-95"
+              startY="-15"
+              endX="-7"
+              endY="80"/>
+        </sourceConnections>
+        <sourceConnections
+            id="f5bbb01e-d9e8-4223-adbd-1c7c42e4f38b"
+            lineColor="#ff0000"
+            source="fec4322f-b420-4615-bb95-5d01358189bc"
+            target="1f112464-9f40-4950-9abe-17b0516a5e53"/>
+        <bounds
+            x="263"
+            y="290"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="1f112464-9f40-4950-9abe-17b0516a5e53"
+          targetConnections="f5bbb01e-d9e8-4223-adbd-1c7c42e4f38b"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#ff0000"
+          content="36"
+          borderType="1">
+        <sourceConnections
+            id="2fd2b8c6-e64d-4d3c-85fb-9c90ef79410d"
+            lineColor="#ff0000"
+            source="1f112464-9f40-4950-9abe-17b0516a5e53"
+            target="fb87d307-8e62-444d-91ef-8e7e2b1332e5">
+          <bendpoints
+              startX="25"
+              endX="37"
+              endY="30"/>
+        </sourceConnections>
+        <sourceConnections
+            id="a4535b6b-7d2f-48f5-9494-7164b69ef5d5"
+            lineColor="#ff0000"
+            source="1f112464-9f40-4950-9abe-17b0516a5e53"
+            target="fb87d307-8e62-444d-91ef-8e7e2b1332e5">
+          <bendpoints
+              startX="-25"
+              endX="-13"
+              endY="30"/>
+        </sourceConnections>
+        <bounds
+            x="263"
+            y="255"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="fb87d307-8e62-444d-91ef-8e7e2b1332e5"
+          targetConnections="5ae9beab-f31d-4f9e-994c-43c417d916fd 2fd2b8c6-e64d-4d3c-85fb-9c90ef79410d a4535b6b-7d2f-48f5-9494-7164b69ef5d5 a128bca0-c162-46f0-ae83-7f92d60bed1e"
+          font="1|Segoe UI Semibold|11.1|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+          fillColor="#ff8080"
+          content="ТФС-2"
+          textPosition="1"
+          borderType="1">
+        <sourceConnections
+            id="08a0a361-68ee-408c-b3be-fced8cc4a04a"
+            lineColor="#0000ff"
+            source="fb87d307-8e62-444d-91ef-8e7e2b1332e5"
+            target="2f33cf4f-b0c4-4534-9137-aa0c88ea748a">
+          <bendpoints
+              startX="-118"
+              startY="-15"
+              endX="53"
+              endY="5"/>
+        </sourceConnections>
+        <bounds
+            x="191"
+            y="220"
+            width="144"
+            height="31"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="d13835eb-2c5c-4844-b50c-2ae7e4f6ed09"
+          targetConnections="4be6deb8-a6ed-4455-a310-1b327ee3e03f"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#8000ff"
+          content="33"
+          borderType="1">
+        <sourceConnections
+            id="5af38a75-a7e5-4875-8cc9-d0e3d3081a3e"
+            lineColor="#8000ff"
+            source="d13835eb-2c5c-4844-b50c-2ae7e4f6ed09"
+            target="dbcc8075-b392-496d-ad59-033e1874fada">
+          <bendpoints
+              startX="1"
+              startY="20"
+              endX="93"
+              endY="20"/>
+          <bendpoints
+              startX="-104"
+              startY="20"
+              endX="-7"
+              endY="20"/>
+        </sourceConnections>
+        <bounds
+            x="311"
+            y="250"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="dbcc8075-b392-496d-ad59-033e1874fada"
+          targetConnections="5af38a75-a7e5-4875-8cc9-d0e3d3081a3e"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#8000ff"
+          content="34"
+          borderType="1">
+        <bounds
+            x="219"
+            y="250"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="650e2955-16b3-4dc8-9178-f483416b3435"
+          targetConnections="4f415238-cd08-448b-b1fd-4e3e084397c7"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="30"
+          borderType="1">
+        <sourceConnections
+            id="5ae9beab-f31d-4f9e-994c-43c417d916fd"
+            lineColor="#804040"
+            source="650e2955-16b3-4dc8-9178-f483416b3435"
+            target="fb87d307-8e62-444d-91ef-8e7e2b1332e5"
+            type="1">
+          <bendpoints
+              startX="-1"
+              startY="-25"
+              endX="87"/>
+        </sourceConnections>
+        <bounds
+            x="339"
+            y="250"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="9838f46d-79ba-4388-ba9d-b0cb09282d78"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#8000ff"
+          content="88"
+          borderType="1">
+        <sourceConnections
+            id="e66c1cb6-84a3-40ab-96b6-736412ab185b"
+            lineColor="#8000ff"
+            source="9838f46d-79ba-4388-ba9d-b0cb09282d78"
+            target="73980ae1-fcf2-4b98-b5e3-0412770d9146">
+          <bendpoints
+              startX="37"
+              endX="-153"
+              endY="-180"/>
+          <bendpoints
+              startX="37"
+              startY="155"
+              endX="-153"
+              endY="-25"/>
+          <bendpoints
+              startX="192"
+              startY="155"
+              endX="2"
+              endY="-25"/>
+          <bendpoints
+              startX="188"
+              startY="85"
+              endX="1"
+              endY="-25"/>
+        </sourceConnections>
+        <bounds
+            x="121"
+            y="115"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="a70188fc-8d30-48d8-a0e7-e83ef11f04f7"
+          targetConnections="8a13c2b6-725b-476d-89f2-664340b64b41"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#00ffff"
+          content="37"
+          borderType="1">
+        <bounds
+            x="191"
+            y="345"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="18f6ff38-abf3-4622-b7c6-3920d649b579"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#00ffff"
+          content="38"
+          borderType="1">
+        <sourceConnections
+            id="8a13c2b6-725b-476d-89f2-664340b64b41"
+            lineColor="#00ffff"
+            source="18f6ff38-abf3-4622-b7c6-3920d649b579"
+            target="a70188fc-8d30-48d8-a0e7-e83ef11f04f7">
+          <bendpoints
+              startX="2"
+              startY="25"
+              endX="2"
+              endY="-70"/>
+          <bendpoints
+              startX="-23"
+              startY="25"
+              endX="-23"
+              endY="-70"/>
+          <bendpoints
+              startX="-24"
+              startY="95"
+              endX="-24"/>
+        </sourceConnections>
+        <bounds
+            x="191"
+            y="250"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="ba98e5c9-8f50-454e-9ce1-08711ed2e0f7"
+          targetConnections="21279827-5ebd-438a-b814-17a74c19738c"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="39"
+          borderType="1">
+        <sourceConnections
+            id="502ce308-02c6-4bfc-acde-992fe6eb63be"
+            lineColor="#804040"
+            source="ba98e5c9-8f50-454e-9ce1-08711ed2e0f7"
+            target="f568f45a-db63-4939-a549-58b7323e5281">
+          <bendpoints
+              startX="29"
+              startY="-5"
+              endX="-88"
+              endY="5"/>
+        </sourceConnections>
+        <bounds
+            x="134"
+            y="330"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="400c4d3f-2239-4226-9bf2-5d530933de04"
+          targetConnections="14240153-a8ac-4486-89ae-7e553cd1a298"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="41"
+          borderType="1">
+        <sourceConnections
+            id="fbb031ea-23f3-4574-8fe1-178adf19f837"
+            lineColor="#804040"
+            source="400c4d3f-2239-4226-9bf2-5d530933de04"
+            target="b06d7fca-47a3-489c-9815-34c97aeede90"/>
+        <bounds
+            x="111"
+            y="355"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="b06d7fca-47a3-489c-9815-34c97aeede90"
+          targetConnections="fbb031ea-23f3-4574-8fe1-178adf19f837"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="40"
+          borderType="1">
+        <sourceConnections
+            id="7f09346d-b302-4405-a76a-ed0e08c1c580"
+            lineColor="#804040"
+            source="b06d7fca-47a3-489c-9815-34c97aeede90"
+            target="f568f45a-db63-4939-a549-58b7323e5281">
+          <bendpoints
+              startX="19"
+              endX="-88"
+              endY="35"/>
+          <bendpoints
+              startX="19"
+              startY="-30"
+              endX="-88"
+              endY="5"/>
+        </sourceConnections>
+        <bounds
+            x="144"
+            y="355"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="81409b61-8aa7-43ba-827e-024af5816db0"
+          targetConnections="7cb809c3-e4d2-473b-8798-85270e3f7423"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="52"
+          borderType="1">
+        <sourceConnections
+            id="7412520d-d4f2-49b7-9858-2b8c87934aa5"
+            lineColor="#804040"
+            source="81409b61-8aa7-43ba-827e-024af5816db0"
+            target="85d23dec-c4d3-4008-901e-7d24b4c347a8"
+            type="8">
+          <bendpoints
+              startX="147"
+              endX="-130"
+              endY="-70"/>
+          <bendpoints
+              startX="147"
+              startY="90"
+              endX="-130"
+              endY="20"/>
+          <bendpoints
+              startX="277"
+              startY="90"
+              endY="20"/>
+        </sourceConnections>
+        <sourceConnections
+            id="d1fdc3ad-ad07-4667-a58a-e2afa623038c"
+            lineColor="#804040"
+            source="81409b61-8aa7-43ba-827e-024af5816db0"
+            target="2bcb7ebf-f6b2-419a-a0b4-4a8055e0c95e">
+          <bendpoints
+              startX="42"
+              endX="-2"
+              endY="25"/>
+        </sourceConnections>
+        <bounds
+            x="251"
+            y="475"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="e6c33db2-7ca0-401e-8bbc-28434cac3849"
+          targetConnections="d6fec44e-515a-4ebf-88ee-180077cf0f05"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="46"
+          borderType="1">
+        <sourceConnections
+            id="14240153-a8ac-4486-89ae-7e553cd1a298"
+            lineColor="#804040"
+            source="e6c33db2-7ca0-401e-8bbc-28434cac3849"
+            target="400c4d3f-2239-4226-9bf2-5d530933de04">
+          <bendpoints
+              startX="23"
+              endX="-23"
+              endY="20"/>
+          <bendpoints
+              startX="23"
+              startY="-20"
+              endX="-23"/>
+        </sourceConnections>
+        <bounds
+            x="65"
+            y="375"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="f50ae9c8-f931-48de-b516-7f4da6100bf1"
+          targetConnections="62a59ecf-a6f7-4c64-830b-adaf94f39e71 061c01d9-bd9f-4759-b7c1-23eb0f55cb60"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="45"
+          borderType="1">
+        <sourceConnections
+            id="21279827-5ebd-438a-b814-17a74c19738c"
+            lineColor="#804040"
+            source="f50ae9c8-f931-48de-b516-7f4da6100bf1"
+            target="ba98e5c9-8f50-454e-9ce1-08711ed2e0f7">
+          <bendpoints
+              startY="-75"
+              endX="-46"/>
+        </sourceConnections>
+        <sourceConnections
+            id="594f6a3d-70ad-491f-a660-adfa0fc49fa4"
+            name="6 шаг"
+            lineColor="#804040"
+            source="f50ae9c8-f931-48de-b516-7f4da6100bf1"
+            target="95484160-7699-4430-a12a-015a00851a63"
+            type="1">
+          <bendpoints
+              startY="20"
+              endX="-354"
+              endY="-35"/>
+          <bendpoints
+              startX="355"
+              startY="20"
+              endX="1"
+              endY="-35"/>
+        </sourceConnections>
+        <sourceConnections
+            id="f2d65ec6-4669-4e86-ab86-8630cb044d2a"
+            lineColor="#804040"
+            source="f50ae9c8-f931-48de-b516-7f4da6100bf1"
+            target="478c8ede-c8ab-4d3e-813a-47a2b1d2dde3"
+            type="1">
+          <bendpoints
+              startY="20"
+              endX="-432"
+              endY="-35"/>
+          <bendpoints
+              startX="430"
+              startY="20"
+              endX="-2"
+              endY="-35"/>
+        </sourceConnections>
+        <sourceConnections
+            id="9529bdd1-5f5f-46a2-bb88-3490ad5e2508"
+            lineColor="#804040"
+            source="f50ae9c8-f931-48de-b516-7f4da6100bf1"
+            target="2bcb7ebf-f6b2-419a-a0b4-4a8055e0c95e">
+          <bendpoints
+              startY="20"
+              endX="-207"
+              endY="-20"/>
+          <bendpoints
+              startX="210"
+              startY="20"
+              endX="3"
+              endY="-20"/>
+        </sourceConnections>
+        <bounds
+            x="88"
+            y="410"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="2bcb7ebf-f6b2-419a-a0b4-4a8055e0c95e"
+          targetConnections="9529bdd1-5f5f-46a2-bb88-3490ad5e2508 d1fdc3ad-ad07-4667-a58a-e2afa623038c"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="47"
+          borderType="1">
+        <bounds
+            x="295"
+            y="450"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="dba11962-40dc-4ddd-9a4e-71872a30b901"
+          targetConnections="14b834f6-c556-4448-8389-0d9cebe32f61"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="42"
+          borderType="1">
+        <sourceConnections
+            id="a128bca0-c162-46f0-ae83-7f92d60bed1e"
+            lineColor="#804040"
+            source="dba11962-40dc-4ddd-9a4e-71872a30b901"
+            target="fb87d307-8e62-444d-91ef-8e7e2b1332e5">
+          <bendpoints
+              startX="-1"
+              startY="-20"
+              endX="-118"/>
+        </sourceConnections>
+        <sourceConnections
+            id="62a59ecf-a6f7-4c64-830b-adaf94f39e71"
+            lineColor="#804040"
+            source="dba11962-40dc-4ddd-9a4e-71872a30b901"
+            target="f50ae9c8-f931-48de-b516-7f4da6100bf1"
+            type="1">
+          <bendpoints
+              startX="-46"
+              endY="-160"/>
+        </sourceConnections>
+        <bounds
+            x="134"
+            y="245"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="c674bf7a-db6e-4b6e-9ad4-02a409ebf247"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="44"
+          borderType="1">
+        <sourceConnections
+            id="5d45146a-12ff-48d1-b4d5-f089d069389c"
+            lineColor="#804040"
+            source="c674bf7a-db6e-4b6e-9ad4-02a409ebf247"
+            target="71da045d-ad58-4656-8024-898a2927de1e"/>
+        <sourceConnections
+            id="061c01d9-bd9f-4759-b7c1-23eb0f55cb60"
+            lineColor="#804040"
+            source="c674bf7a-db6e-4b6e-9ad4-02a409ebf247"
+            target="f50ae9c8-f931-48de-b516-7f4da6100bf1">
+          <bendpoints
+              startX="-23"
+              endY="-135"/>
+        </sourceConnections>
+        <bounds
+            x="111"
+            y="270"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="71da045d-ad58-4656-8024-898a2927de1e"
+          targetConnections="5d45146a-12ff-48d1-b4d5-f089d069389c"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#000000"
+          fillColor="#a3a3a3"
+          content="43"
+          borderType="1">
+        <sourceConnections
+            id="14b834f6-c556-4448-8389-0d9cebe32f61"
+            lineColor="#804040"
+            source="71da045d-ad58-4656-8024-898a2927de1e"
+            target="dba11962-40dc-4ddd-9a4e-71872a30b901">
+          <bendpoints
+              startX="9"
+              startY="-45"
+              endX="19"
+              endY="-20"/>
+          <bendpoints
+              startX="-11"
+              startY="-45"
+              endX="-1"
+              endY="-20"/>
+        </sourceConnections>
+        <bounds
+            x="144"
+            y="270"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="ace9c1fd-3a8f-4484-9019-73872134c378"
+          targetConnections="a0ccf4b4-e76b-4fa7-b1f9-039518d74caa 3706b934-e910-40c6-be8c-dd2f11cba7db"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="53"
+          borderType="1">
+        <bounds
+            x="70"
+            y="285"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="b8629f4a-0869-484a-981d-8a56c49490e0"
+          targetConnections="1979d3cc-08d7-4a2d-9a12-8b6dfab6d54e"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="55"
+          borderType="1">
+        <sourceConnections
+            id="3706b934-e910-40c6-be8c-dd2f11cba7db"
+            lineColor="#0000ff"
+            source="b8629f4a-0869-484a-981d-8a56c49490e0"
+            target="ace9c1fd-3a8f-4484-9019-73872134c378">
+          <bendpoints
+              startX="1"
+              startY="-20"
+              endX="-22"
+              endY="-40"/>
+          <bendpoints
+              startX="21"
+              startY="-20"
+              endX="-2"
+              endY="-40"/>
+        </sourceConnections>
+        <sourceConnections
+            id="299b0b5c-9e52-47a2-8f0c-30bf641c2845"
+            lineColor="#0000ff"
+            source="b8629f4a-0869-484a-981d-8a56c49490e0"
+            target="72d2b1e9-82bb-49ae-a993-0bbd42c59df0"/>
+        <bounds
+            x="47"
+            y="265"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="f49040ab-71e5-4ed8-9411-adbe2eeb8467"
+          targetConnections="afb50f19-54a2-47d4-821a-daab0a5968a6"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="54"
+          borderType="1">
+        <sourceConnections
+            id="a0ccf4b4-e76b-4fa7-b1f9-039518d74caa"
+            lineColor="#0000ff"
+            source="f49040ab-71e5-4ed8-9411-adbe2eeb8467"
+            target="ace9c1fd-3a8f-4484-9019-73872134c378">
+          <bendpoints
+              startX="-4"
+              startY="20"
+              endX="-27"
+              endY="30"/>
+          <bendpoints
+              startX="21"
+              startY="20"
+              endX="-2"
+              endY="30"/>
+        </sourceConnections>
+        <sourceConnections
+            id="1979d3cc-08d7-4a2d-9a12-8b6dfab6d54e"
+            lineColor="#0000ff"
+            source="f49040ab-71e5-4ed8-9411-adbe2eeb8467"
+            target="b8629f4a-0869-484a-981d-8a56c49490e0"/>
+        <bounds
+            x="47"
+            y="295"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="2f33cf4f-b0c4-4534-9137-aa0c88ea748a"
+          targetConnections="08a0a361-68ee-408c-b3be-fced8cc4a04a cafa3d3a-68cb-41bc-981e-163c4b540e45"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="57"
+          borderType="1">
+        <sourceConnections
+            id="752db799-c61e-4031-85a9-3c04a1d834f1"
+            lineColor="#0000ff"
+            source="2f33cf4f-b0c4-4534-9137-aa0c88ea748a"
+            target="72d2b1e9-82bb-49ae-a993-0bbd42c59df0">
+          <bendpoints
+              startX="-32"
+              endX="1"
+              endY="50"/>
+        </sourceConnections>
+        <bounds
+            x="80"
+            y="205"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="b2b54028-4a9b-4bd2-af2a-1080d2854b83"
+          targetConnections="32a2fa01-950e-4ab0-b3f9-8807264b6da9"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="56"
+          borderType="1">
+        <sourceConnections
+            id="cafa3d3a-68cb-41bc-981e-163c4b540e45"
+            lineColor="#0000ff"
+            source="b2b54028-4a9b-4bd2-af2a-1080d2854b83"
+            target="2f33cf4f-b0c4-4534-9137-aa0c88ea748a">
+          <bendpoints
+              startX="25"
+              endX="38"
+              endY="25"/>
+          <bendpoints
+              startX="25"
+              startY="-20"
+              endX="38"
+              endY="5"/>
+        </sourceConnections>
+        <bounds
+            x="93"
+            y="230"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="03275eb9-6537-4b1b-94ef-8bd5c2e80001"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="58"
+          borderType="1">
+        <sourceConnections
+            id="d6eddbb2-3f41-4b71-850a-533fa986c997"
+            lineColor="#0000ff"
+            source="03275eb9-6537-4b1b-94ef-8bd5c2e80001"
+            target="d1e2fae7-5ed2-49a2-bf19-63d447427a1c">
+          <bendpoints
+              startX="-17"
+              endX="22"
+              endY="15"/>
+          <bendpoints
+              startX="-17"
+              startY="-20"
+              endX="22"
+              endY="-5"/>
+        </sourceConnections>
+        <sourceConnections
+            id="32a2fa01-950e-4ab0-b3f9-8807264b6da9"
+            source="03275eb9-6537-4b1b-94ef-8bd5c2e80001"
+            target="b2b54028-4a9b-4bd2-af2a-1080d2854b83"/>
+        <bounds
+            x="65"
+            y="230"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="d1e2fae7-5ed2-49a2-bf19-63d447427a1c"
+          targetConnections="d6eddbb2-3f41-4b71-850a-533fa986c997 f914caab-3f3c-40ec-8c00-da48ab1d2982"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="59"
+          borderType="1">
+        <bounds
+            x="26"
+            y="215"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="4a0fa939-ba3b-4463-b1bf-d46999eb5469"
+          targetConnections="89272ef1-c58b-4df4-970f-6f3488cdcc3b e6014e22-f684-48f5-94cf-1cb80ffcf950"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#ff0000"
+          content="89"
+          borderType="1">
+        <bounds
+            x="175"
+            y="195"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="72d2b1e9-82bb-49ae-a993-0bbd42c59df0"
+          targetConnections="299b0b5c-9e52-47a2-8f0c-30bf641c2845 752db799-c61e-4031-85a9-3c04a1d834f1"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="61"
+          borderType="1">
+        <sourceConnections
+            id="5b309393-0f85-4d35-9505-53a91026f4ed"
+            lineColor="#0000ff"
+            source="72d2b1e9-82bb-49ae-a993-0bbd42c59df0"
+            target="c7bb9b66-c517-46a3-a27e-92d929d41164">
+          <bendpoints
+              startX="1"
+              startY="25"
+              endX="22"
+              endY="5"/>
+        </sourceConnections>
+        <bounds
+            x="47"
+            y="165"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="c7bb9b66-c517-46a3-a27e-92d929d41164"
+          targetConnections="5b309393-0f85-4d35-9505-53a91026f4ed"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="60"
+          borderType="1">
+        <bounds
+            x="26"
+            y="185"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="405fbdd3-4a07-4369-8172-3e2b872b5cb7"
+          targetConnections="8fa8d360-c1fb-49da-b5ce-f7021c1a9585"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="62"
+          borderType="1">
+        <sourceConnections
+            id="c0d82538-0d1d-413a-9905-60a1a559ddb0"
+            lineColor="#0000ff"
+            source="405fbdd3-4a07-4369-8172-3e2b872b5cb7"
+            target="a18256a5-c135-470a-9794-ff3a156fbfbe"/>
+        <sourceConnections
+            id="f914caab-3f3c-40ec-8c00-da48ab1d2982"
+            name="6 шаг вода"
+            lineColor="#0000ff"
+            source="405fbdd3-4a07-4369-8172-3e2b872b5cb7"
+            target="d1e2fae7-5ed2-49a2-bf19-63d447427a1c"
+            type="8">
+          <bendpoints
+              startX="-2"
+              startY="70"
+              endX="-28"
+              endY="-70"/>
+          <bendpoints
+              startX="-2"
+              startY="85"
+              endX="-28"
+              endY="-55"/>
+          <bendpoints
+              startX="-2"
+              startY="140"
+              endX="-28"/>
+        </sourceConnections>
+        <sourceConnections
+            id="2cf31eb8-b465-4e24-8d58-9ea2ed6f6986"
+            lineColor="#0000ff"
+            source="405fbdd3-4a07-4369-8172-3e2b872b5cb7"
+            target="170fe16b-0678-48a9-be52-77e74b35daca">
+          <bendpoints
+              startX="78"
+              endX="-2"
+              endY="35"/>
+        </sourceConnections>
+        <bounds
+            y="75"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="170fe16b-0678-48a9-be52-77e74b35daca"
+          targetConnections="2cf31eb8-b465-4e24-8d58-9ea2ed6f6986 e142ab73-7605-4bf3-b4c8-f0e1404f4acb"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="63"
+          borderType="1">
+        <bounds
+            x="80"
+            y="40"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="9a3eb819-4dca-4a2a-9ce5-0e89eedc44ef"
+          font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#0000ff"
+          content="64"
+          borderType="1">
+        <sourceConnections
+            id="aab91d66-2f31-44cd-8f75-920e52a0ce68"
+            lineColor="#0000ff"
+            source="9a3eb819-4dca-4a2a-9ce5-0e89eedc44ef"
+            target="a18256a5-c135-470a-9794-ff3a156fbfbe"/>
+        <sourceConnections
+            id="e142ab73-7605-4bf3-b4c8-f0e1404f4acb"
+            lineColor="#0000ff"
+            source="9a3eb819-4dca-4a2a-9ce5-0e89eedc44ef"
+            target="170fe16b-0678-48a9-be52-77e74b35daca">
+          <bendpoints
+              startX="78"
+              endX="-2"
+              endY="-35"/>
+        </sourceConnections>
+        <bounds
+            y="5"
+            width="24"
+            height="21"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="a18256a5-c135-470a-9794-ff3a156fbfbe"
+          targetConnections="c0d82538-0d1d-413a-9905-60a1a559ddb0 aab91d66-2f31-44cd-8f75-920e52a0ce68"
+          font="1|Segoe UI Semibold|9.0|0|WINDOWS|1|-30|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold"
+          fillColor="#00ffff"
+          content="KROНNЕ 250"
+          textPosition="1"
+          borderType="1">
+        <bounds
+            y="30"
+            width="75"
+            height="41"/>
+      </children>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="7d6ba4a2-7dfc-4ade-980e-024d2e1baff3"
+        targetConnections="57696654-387e-40d5-a1f8-25dfc2925423"
+        font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#ff0000"
+        content="97"
+        borderType="1">
+      <bounds
+          x="480"
+          y="620"
+          width="24"
+          height="21"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="adb3e70a-ce22-4eac-9059-8b7c555b10c4"
+        targetConnections="ba66d58d-9f02-4e0a-8038-32473ba0e7ab 4d467157-7865-4c01-9fbf-db78deb46c95"
+        font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#ff0000"
+        content="97"
+        borderType="1">
+      <bounds
+          x="475"
+          y="575"
+          width="24"
+          height="21"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="e36656bb-66b9-4b0b-87bf-de29ceb16f9a"
+        font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#ff0000"
+        content="97"
+        borderType="1">
+      <sourceConnections
+          id="ba66d58d-9f02-4e0a-8038-32473ba0e7ab"
+          lineColor="#ff0000"
+          source="e36656bb-66b9-4b0b-87bf-de29ceb16f9a"
+          target="adb3e70a-ce22-4eac-9059-8b7c555b10c4">
+        <bendpoints
+            startX="-2"
+            startY="285"
+            endX="-2"
+            endY="-280"/>
+      </sourceConnections>
+      <bounds
+          x="475"
+          y="10"
+          width="24"
+          height="21"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="27244b19-e7a1-4a67-9a63-79f9d48ced7a"
+        font="1|Segoe UI|6.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI"
+        fontColor="#ffffff"
+        fillColor="#ff0000"
+        content="97"
+        borderType="1">
+      <bounds
+          x="515"
+          y="5"
+          width="24"
+          height="21"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
